@@ -1,0 +1,32 @@
+<!-- grav: {"file":"10.teaching-in-a-2026/16.section-16/02.scenario-h-stopping-the-flu/section-page.md"}
+title: "Scenario H: Stopping the flu"
+-->
+
+<!-- grav:gen -->
+# Scenario H: Stopping the flu
+<!-- /grav:gen -->
+
+>
+
+<figure>
+<img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/03/Flu-avian-2.jpg" alt="Figure 12.2 Stopping flu Image: © European Commission, 2015">
+<figcaption>Figure H.I Stopping the flu<br>Image: © European Commission, 2015</figcaption>
+</figure>
+
+*Hi, Chris, you asked for an update on what I’m studying at the University of Central Canada. Well, I’m about half-way through a really neat program called Global Science. We get to choose from about five or six problems to research. At the moment, the problem I’ve chosen is called ‘Stopping the flu.’ Basically, we’re looking at the influenza virus, and how to prevent pandemics. I thought when I started it would be all medicine, but I’m having to do math, geography, agriculture, even management and communications, as well as other types of science because they are all related in some way to the problem we are looking at. We work as a group on defining the problem, collecting data, and interpreting the results.*
+
+*I’m in a group of 25 students, and they are from all over the world. Altogether there are over 2,000 students taking the program. My main instructor, Dr. Madelaine McVicar, who is responsible for my group of 25, is based the other side of the country in a hospital in Halifax, but really she’s more like a conductor of an orchestra, because the course uses experts from all over the world, some of whom come in with just short podcasts or YouTube videos, while others run webinar sessions that deal with specific questions as they come up in our research. Dr. McVicar is great at finding resources to help us, and we also occasionally get sessions online with some of the professors at UCC who helped design the program.*
+
+*What threw me at the beginning was the lack of lectures or pre-determined weekly study topics. Although we all had to do a set of modules on basic research methods, and we have a sort of program guide on the web designed by the UCC profs, we choose study topics and are provided with a guide to a wide range of resources, mainly free stuff available all over the Internet, such as published papers in open access journals or stuff in MOOCs that will directly help us with the research problem we are tackling. The course web site gave us some leads as to where to look, and we had to provide an interim report early on to Dr. McVicar that listed the resources we were accessing or looking for. Some of these topics, such as the molecular structure of the flu virus, are pretty obvious, but other topics we had to identify ourselves. I was particularly interested in the link between international travel and the spread of flu. One of the things we have to do always is to provide an evaluation of the sources we use and their reliability.*
+
+*Each month the group has to create our own online reports – called e-portfolios – which shows the progress we’ve made on the research question each month. In the end, we get 50 per cent of our marks from the monthly group e-portfolios and the other 50 per cent from an individual e-portfolio we each create summarizing the whole project and our individual contribution to the project. Dr. McVicar does the marking and grading.*
+
+*There’s about 20 other student groups from UCC researching the same question, and we are sharing data across the groups, so we get great help and feedback from the other groups as well, through a discussion forum and a shared web site for the monthly e-portfolios. Because of my job, I’m particularly interested in mortality rates from different kinds of flus and I was able to hook up with another student in another group who turns out to be a specialist in that subject, working for a Swiss insurance company – it might even lead to a job for me!*
+
+*Because of the agreements UCC has made with many hospitals and health authorities around the world, we’re getting access to some great data. We often have to go and find local data ourselves, such as the number of local hospital admissions for flu in a particular week. For instance, we were able to track the spread of a particular strain from the first week of our course, when it was identified in China, across the world over the following five months. UCC also has an agreement with IBM to load the data and use some of their analytics as well. Apparently UCC got money from one of the research councils to support some of the research on this program because of the ability to draw on so many sources of relatively raw data from around the world, which means my group sometimes get Skyped by one of the UCC profs who wants access to our data! Another group even got asked by the WHO (the World Health Organization, not the rock group) for their data.*
+
+*Many of the international students are in other universities, and will transfer the credits into their own program, although a lot of the students are also sponsored by employers, such as hospitals or government agencies. You can in fact get a badge for successfully completing just one of the research problems, and a diploma for doing all three. However, the final 60 credits of the degree program requires me to do my own, individual research project, and I think I’ll try and do that, because I need that to go on to grad school, although everyone says that doing the individual research project is pretty tough, as the standard is very high.*
+
+*But what I really like about this program is that I’m learning so much, so quickly. We’re dealing with a real problem, and you know, having so many people from such different backgrounds all working on the same problem means that I feel we are actually making a difference, as well as studying.*
+
+Acknowledgement: This scenario was originally developed for the U.K. Open University well before the Covid-19 pandemic and is used with their permission. The scenario was influenced by McMaster University’s integrated science program. However, the McMaster program is an on-campus program limited to a highly selected group of 50 students.
