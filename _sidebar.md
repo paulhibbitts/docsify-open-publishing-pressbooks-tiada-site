@@ -7,7 +7,7 @@
   - [Other books by the author](section-1/other-books-by-the-author.md)
   - [Updates and revisions](section-1/updates-and-revisions.md)
 - Chapter 1: Fundamental Change in Education
-  - [Overview](section-2/README.md)
+  - [Chapter 1 Overview](section-2/README.md)
   - [1.1 Structural changes in the economy: the growth of a knowledge society](section-2/11-structural-changes-in-the-economy-the-growth-of.md)
   - [1.2 The skills needed in a digital age](section-2/12-the-skills-needed-in-a-digital-age.md)
   - [1.3 Should education be tied directly to the labour market?](section-2/13-should-education-be-tied-directly-to-the-labour.md)
@@ -18,7 +18,7 @@
   - [1.8 The impact of Covid-19 on teaching and learning](section-2/18-the-impact-of-covid-19-on-teaching-and-learning.md)
   - [1.9 Navigating new developments in technology and online learning](section-2/19-navigating-new-developments-in-technology-and-o.md)
 - Chapter 2: The nature of knowledge and the implications for teaching
-  - [Overview](section-3/README.md)
+  - [Chapter 2 Overview](section-3/README.md)
   - [Scenario B: A pre-dinner party discussion](section-3/scenario-b-a-pre-dinner-party-discussion.md)
   - [2.1 Art, theory, research, and best practices in teaching](section-3/21-art-theory-research-and-best-practices-in-teach.md)
   - [2.2 Epistemology and theories of learning](section-3/22-epistemology-and-theories-of-learning.md)
@@ -29,7 +29,7 @@
   - [2.7 Is the nature of knowledge changing?](section-3/27-is-the-nature-of-knowledge-changing.md)
   - [2.8 Summary](section-3/28-summary.md)
 - Chapter 3: Methods of teaching: campus-focused
-  - [Overview](section-4/README.md)
+  - [Chapter 3 Overview](section-4/README.md)
   - [Scenario C: A stats lecturer fights the system](section-4/scenario-c-a-stats-lecturer-fights-the-system.md)
   - [3.1 Five perspectives on teaching](section-4/31-five-perspectives-on-teaching.md)
   - [3.2 The origins of the classroom design model](section-4/32-the-origins-of-the-classroom-design-model.md)
@@ -40,7 +40,7 @@
   - [3.7 Learning by being: The nurturing and social reform models of teaching](section-4/37-learning-by-being-the-nurturing-and-social-refo.md)
   - [3.8 Main conclusions](section-4/38-main-conclusions.md)
 - Chapter 4: Methods of teaching with an online focus
-  - [Overview](section-5/README.md)
+  - [Chapter 4 Overview](section-5/README.md)
   - [Scenario D: Developing historical thinking](section-5/scenario-d-developing-historical-thinking.md)
   - [4.1 Online learning and teaching methods](section-5/41-online-learning-and-teaching-methods.md)
   - [4.2 Old wine in new bottles: lecture-based online learning](section-5/42-old-wine-in-new-bottles-lecture-based-online-le.md)
@@ -52,7 +52,7 @@
   - [Scenario E: ETEC 522: Ventures in e-Learning](section-5/scenario-e-etec-522-ventures-in-e-learning.md)
   - [4.8 Making decisions about teaching methods](section-5/48-making-decisions-about-teaching-methods.md)
 - Chapter 5: MOOCs
-  - [Overview](section-6/README.md)
+  - [Chapter 5 Overview](section-6/README.md)
   - [5.1 Brief history](section-6/51-brief-history.md)
   - [5.2 What is a MOOC?](section-6/52-what-is-a-mooc.md)
   - [5.3 A Taxonomy of MOOCs](section-6/53-a-taxonomy-of-moocs.md)
@@ -61,7 +61,7 @@
   - [5.6 Why MOOCs are only part of the answer](section-6/56-why-moocs-are-only-part-of-the-answer.md)
   - [Scenario F: How to cope with being old](section-6/scenario-f-how-to-cope-with-being-old.md)
 - Chapter 6: Building an effective learning environment
-  - [Overview](section-7/README.md)
+  - [Chapter 6 Overview](section-7/README.md)
   - [6.1 Integrating design principles within a rich learning environment](section-7/61-integrating-design-principles-within-a-rich-lea.md)
   - [6.2 What is a learning environment?](section-7/62-what-is-a-learning-environment.md)
   - [6.3 Learner characteristics](section-7/63-learner-characteristics.md)
@@ -73,7 +73,7 @@
   - [6.9 Culture and learning environments](section-7/69-culture-and-learning-environments.md)
   - [6.10 Conclusions](section-7/610-conclusions.md)
 - Chapter 7: Understanding technology in education
-  - [Overview](section-8/README.md)
+  - [Chapter 7 Overview](section-8/README.md)
   - [7.1 Choosing technologies for teaching and learning: the challenge](section-8/71-choosing-technologies-for-teaching-and-learning.md)
   - [7.2 A short history of educational technology](section-8/72-a-short-history-of-educational-technology.md)
   - [7.3 Media or technology?](section-8/73-media-or-technology.md)
@@ -82,7 +82,7 @@
   - [7.7 Media richness](section-8/77-media-richness.md)
   - [7.8 Understanding the foundations of educational media](section-8/78-understanding-the-foundations-of-educational-me.md)
 - Chapter 8: Pedagogical differences between media
-  - [Overview](section-9/README.md)
+  - [Chapter 8 Overview](section-9/README.md)
   - [8.1 Thinking about the pedagogical differences of media](section-9/81-thinking-about-the-pedagogical-differences-of-m.md)
   - [8.2 Text](section-9/82-text.md)
   - [8.3 Audio](section-9/83-audio.md)
@@ -90,14 +90,14 @@
   - [8.5 Computing](section-9/85-computing.md)
   - [8.6 A framework for analysing the pedagogical characteristics of educational media](section-9/86-a-framework-for-analysing-the-pedagogical-chara.md)
 - Chapter 9: Emerging technologies
-  - [Overview](section-10/README.md)
+  - [Chapter 9 Overview](section-10/README.md)
   - [9.1 Social media](section-10/91-social-media.md)
   - [9.2  Serious games and gamification](section-10/92-serious-games-and-gamification.md)
   - [9.3 Virtual and augmented reality](section-10/93-virtual-and-augmented-reality.md)
   - [9.4 Artificial intelligence](section-10/94-artificial-intelligence.md)
   - [9.5 Emerging technologies: conclusion and summary](section-10/95-emerging-technologies-conclusion-and-summary.md)
 - Chapter 10: Choosing and using media in education
-  - [Overview](section-11/README.md)
+  - [Chapter 10 Overview](section-11/README.md)
   - [10.1 Models for media selection](section-11/101-models-for-media-selection.md)
   - [10.2 Students](section-11/102-students.md)
   - [10.3 Ease of Use](section-11/103-ease-of-use.md)
@@ -110,14 +110,14 @@
   - [10.10 Deciding](section-11/1010-deciding.md)
   - [10.11 Assessing media affordances: the SAMR model](section-11/1011-assessing-media-affordances-the-samr-model.md)
 - Chapter 11: Modes of delivery
-  - [Overview](section-12/README.md)
+  - [Chapter 11 Overview](section-12/README.md)
   - [11.1 The continuum of technology-based learning](section-12/111-the-continuum-of-technology-based-learning.md)
   - [11.2 Comparing modes of delivery](section-12/112-comparing-modes-of-delivery.md)
   - [11.3 Which mode? Student needs](section-12/113-which-mode-student-needs.md)
   - [11.4 Choosing between face-to-face and online teaching on campus](section-12/114-choosing-between-face-to-face-and-online-teach.md)
   - [11.5 The future of the campus](section-12/115-the-future-of-the-campus.md)
 - Chapter 12: Trends in open education
-  - [Overview](section-13/README.md)
+  - [Chapter 12 Overview](section-13/README.md)
   - [Scenario G: Watershed management](section-13/scenario-g-watershed-management.md)
   - [12.1 Open learning](section-13/121-open-learning.md)
   - [12.2 Open educational resources (OER)](section-13/122-open-educational-resources-oer.md)
@@ -125,7 +125,7 @@
   - [12.4 Open pedagogy](section-13/124-open-pedagogy.md)
   - [12.5 The implications of ‘open’ for course and program design: towards a paradigm shift?](section-13/125-the-implications-of-open-for-course-and-progra.md)
 - Chapter 13: Ensuring quality teaching in a digital age
-  - [Overview](section-14/README.md)
+  - [Chapter 13 Overview](section-14/README.md)
   - [13.1 What do we mean by quality when teaching in a digital age?](section-14/131-what-do-we-mean-by-quality-when-teaching-in-a.md)
   - [13.2 Nine steps to quality teaching in a digital age](section-14/132-nine-steps-to-quality-teaching-in-a-digital-ag.md)
   - [13.3 Step One: Decide how you want to teach](section-14/133-step-one-decide-how-you-want-to-teach.md)
@@ -139,7 +139,7 @@
   - [13.11 Step nine: evaluate and innovate](section-14/1311-step-nine-evaluate-and-innovate.md)
   - [13.12  Building a strong foundation of course design](section-14/1312-building-a-strong-foundation-of-course-design.md)
 - Chapter 14: Supporting teachers and instructors in a digital age
-  - [Overview](section-15/README.md)
+  - [Chapter 14 Overview](section-15/README.md)
   - [14.1 Are you a super-hero?](section-15/141-are-you-a-super-hero.md)
   - [14.2 The development and training of teachers and instructors in a digital age](section-15/142-the-development-and-training-of-teachers-and-i.md)
   - [14.3 Learning technology support](section-15/143-learning-technology-support.md)
