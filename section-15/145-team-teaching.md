@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/15.section-15/05.145-team-teaching/section-page.md"}
-title: "14.5 Team teaching"
--->
-
-<!-- grav:gen -->
 # 14.5 Team teaching
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/03/Group-work2.jpg" alt="Figure 12.5 Breaking down a large lecture class into smaller groups">

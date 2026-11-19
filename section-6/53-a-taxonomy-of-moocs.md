@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/06.section-6/03.53-a-taxonomy-of-moocs/section-page.md"}
-title: "5.3 A Taxonomy of MOOCs"
--->
-
-<!-- grav:gen -->
 # 5.3 A Taxonomy of MOOCs
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/11/MOOC-EdX.png" alt="">

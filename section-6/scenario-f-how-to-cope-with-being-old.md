@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/06.section-6/07.scenario-f-how-to-cope-with-being-old/section-page.md"}
-title: "Scenario F: How to cope with being old"
--->
-
-<!-- grav:gen -->
 # Scenario F: How to cope with being old
-<!-- /grav:gen -->
 
 >
 
@@ -59,7 +53,6 @@ In Spain, though, we have a ‘mirror’ site, with materials in Spanish, Basque
 
 Freedman, T. (2017) [Behind the scenes at FutureLearn](https://www.techlearning.com/tl-advisor-blog/11977) *Tech&Learning,* May 18
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >

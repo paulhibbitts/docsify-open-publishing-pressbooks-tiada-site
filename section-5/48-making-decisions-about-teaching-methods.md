@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/05.section-5/10.48-making-decisions-about-teaching-methods/section-page.md"}
-title: "4.8 Making decisions about teaching methods"
--->
-
-<!-- grav:gen -->
 # 4.8 Making decisions about teaching methods
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/03/Choice-2.jpg" alt="Figure 4.8 Making decisions">

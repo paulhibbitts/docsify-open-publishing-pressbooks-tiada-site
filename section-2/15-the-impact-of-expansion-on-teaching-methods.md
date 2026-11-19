@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/02.section-2/05.15-the-impact-of-expansion-on-teaching-methods/section-page.md"}
-title: "1.5 The impact of expansion on teaching methods"
--->
-
-<!-- grav:gen -->
 # 1.5 The impact of expansion on teaching methods
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/09/Lecture-class-large-2.jpg" alt="Figure 12.4 Class size will influence the capacity for developing the knowledge and sills needed in a digital age">
@@ -46,7 +40,6 @@ Kao, J. (2019) [Ontario’s 2019 budget reveals plan to significantly tie univer
 
 Usher, A. (2013) Financing Canadian Universities: A Self-Inflicted Wound (Part 5) [*Higher Education Strategy Associates*](http://higheredstrategy.com/?s=%22financing+canadian+universities%22), September 13
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >

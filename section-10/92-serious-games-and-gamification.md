@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/10.section-10/02.92-serious-games-and-gamification/section-page.md"}
-title: "9.2  Serious games and gamification"
--->
-
-<!-- grav:gen -->
 # 9.2  Serious games and gamification
-<!-- /grav:gen -->
 
 ![Serious games context](https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/01/Serious-games-context.png)
 
@@ -173,7 +167,6 @@ Winn, B. (2009) ‘The design, play and experience framework’, in R. Ferdig (E
 
 Zhonggen, Y. (2019) [A Meta-Analysis of Use of Serious Games in Education over a Decade](https://www.hindawi.com/journals/ijcgt/2019/4797032/), *International Journal of Computer Games Technology*, vol. 2019, Article ID 4797032
 
-<!-- grav: [exercise title="Activity 9.2 Using and designing serious games"] -->
 > [!TIP]
 > **Activity 9.2 Using and designing serious games**
 >

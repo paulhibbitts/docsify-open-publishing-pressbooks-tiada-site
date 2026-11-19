@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/03.section-3/08.27-is-the-nature-of-knowledge-changing/section-page.md"}
-title: "2.7 Is the nature of knowledge changing?"
--->
-
-<!-- grav:gen -->
 # 2.7 Is the nature of knowledge changing?
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/09/Mathematical-formulae-2.jpg" alt="Figure 2.8 academic knowledge is a second-order form of knowledge that seeks abstractions and generalizations based on reasoning and evidence Image: © Wallpoper/Wikipedia">

@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/14.section-14/05.135-step-three-work-in-a-team/section-page.md"}
-title: "13.5 Step three: work in a team"
--->
-
-<!-- grav:gen -->
 # 13.5 Step three: work in a team
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/02/Course-team-2.jpg" alt="Figure 11.4 Work in a team Image:">
@@ -47,7 +41,6 @@ Working in a team makes life a lot easier for instructors when teaching blended 
 
 This of course will depend heavily on the institution providing such support through a centre of teaching and learning. Nevertheless setting up an appropriate team is an important decision that needs to be implemented before course design begins.
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >

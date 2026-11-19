@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/16.section-16/02.scenario-h-stopping-the-flu/section-page.md"}
-title: "Scenario H: Stopping the flu"
--->
-
-<!-- grav:gen -->
 # Scenario H: Stopping the flu
-<!-- /grav:gen -->
 
 >
 

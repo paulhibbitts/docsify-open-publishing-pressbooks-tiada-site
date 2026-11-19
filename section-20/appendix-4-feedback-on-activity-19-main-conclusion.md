@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/20.section-20/01.appendix-4-feedback-on-activity-19-main-conclusion/section-page.md"}
-title: "Appendix 4: Feedback on Activity 1.9 Main conclusions from Chapter 1"
--->
-
-<!-- grav:gen -->
 # Appendix 4: Feedback on Activity 1.9 Main conclusions from Chapter 1
-<!-- /grav:gen -->
 
 ### Activity 1.9 Main conclusions from Chapter 1
 

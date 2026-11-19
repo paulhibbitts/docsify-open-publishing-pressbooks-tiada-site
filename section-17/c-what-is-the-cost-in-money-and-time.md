@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/17.section-17/03.c-what-is-the-cost-in-money-and-time/section-page.md"}
-title: "C: What is the cost in money and time?"
--->
-
-<!-- grav:gen -->
 # C: What is the cost in money and time?
-<!-- /grav:gen -->
 
 17\. Which media are likely to take a lot of your time to develop? Which could you do quickly and easily?
 

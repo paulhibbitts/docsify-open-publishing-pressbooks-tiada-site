@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/19.section-19/03.a-review-from-a-digital-education-perspective-digi/section-page.md"}
-title: "A review from a digital education perspective: Digital Education Strategies, Ryerson University"
--->
-
-<!-- grav:gen -->
 # A review from a digital education perspective: Digital Education Strategies, Ryerson University
-<!-- /grav:gen -->
 
 **By Leonora Zefi and the team at [Digital Education Strategies](https://de.ryerson.ca/), the G. Raymond Chang School of Continuing Education, Ryerson University, Toronto, Ontario, Canada**
 

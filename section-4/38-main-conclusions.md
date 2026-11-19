@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/04.section-4/09.38-main-conclusions/section-page.md"}
-title: "3.8 Main conclusions"
--->
-
-<!-- grav:gen -->
 # 3.8 Main conclusions
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/09/Workshop-on-blended-learning.png" alt="">
@@ -51,7 +45,6 @@ In a digital age, just choosing a particular teaching method such as seminars or
 
 Secondly, this chapter has focused mainly on classroom or campus-based approaches to teaching. In the next chapter a range of teaching methods that incorporate online/digital technologies will be examined. So it would be foolish at this stage to say that any single method, such as seminars, or apprenticeship, or nurturing, is the best method for developing the knowledge and skills needed in a digital age. At the same time, the limitations of transmissive lectures, especially if they are used as the main method for teaching, are becoming more apparent.
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >

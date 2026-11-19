@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/09.section-9/04.84-video/section-page.md"}
-title: "8.4 Video"
--->
-
-<!-- grav:gen -->
 # 8.4 Video
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/01/OpenLearn-video-on-ICT-1024x572.png" alt="">

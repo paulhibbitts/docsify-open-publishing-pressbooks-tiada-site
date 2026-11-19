@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/08.section-8/06.77-media-richness/section-page.md"}
-title: "7.7 Media richness"
--->
-
-<!-- grav:gen -->
 # 7.7 Media richness
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/12/Prokaryotic-Cells.png" alt="">

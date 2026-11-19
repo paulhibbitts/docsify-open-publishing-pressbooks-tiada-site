@@ -17,4 +17,4 @@ The original book is by A.W. (Tony) Bates, licensed under [CC BY-NC 4.0](https:/
 
 Images stay on Pressbooks, as they do when the book is brought into Grav.
 
-Each page also keeps its Grav settings in a hidden note at the top, so the bridge can turn these pages into an Open Publishing Space book.
+The pages are clean Markdown, without the bridge's hidden notes. The bridge can still turn them into an Open Publishing Space book, like any Docsify site, but not exactly.

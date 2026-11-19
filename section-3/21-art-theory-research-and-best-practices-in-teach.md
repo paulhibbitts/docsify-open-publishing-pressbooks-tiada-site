@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/03.section-3/02.21-art-theory-research-and-best-practices-in-teach/section-page.md"}
-title: "2.1 Art, theory, research, and best practices in teaching"
--->
-
-<!-- grav:gen -->
 # 2.1 Art, theory, research, and best practices in teaching
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2022/08/Tony-in-Rio.jpg" alt="For my comments on why this chapter is important for the rest of the book, please click on the podcast below">

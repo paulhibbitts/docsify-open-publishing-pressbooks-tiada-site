@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/04.section-4/section.md"}
-title: "Chapter 3: Methods of teaching: campus-focused"
--->
-
-<!-- grav:gen -->
 # Chapter 3: Methods of teaching: campus-focused
-<!-- /grav:gen -->
 
 #### Purpose of the chapter
 

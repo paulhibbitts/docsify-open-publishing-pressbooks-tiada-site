@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/04.section-4/06.35-learning-by-doing-experiential-learning/section-page.md"}
-title: "3.5 Learning by doing: Experiential learning"
--->
-
-<!-- grav:gen -->
 # 3.5 Learning by doing: Experiential learning
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/09/Lawyers-2.jpg" alt="">

@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/14.section-14/06.136-step-four-build-on-existing-resources/section-page.md"}
-title: "13.6 Step four: build on existing resources"
--->
-
-<!-- grav:gen -->
 # 13.6 Step four: build on existing resources
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/02/phET-2-Radiating-charge.jpg" alt="Figure 11.4 Radiating charge simulation, phET Image: © University of Colorado-Boulder">

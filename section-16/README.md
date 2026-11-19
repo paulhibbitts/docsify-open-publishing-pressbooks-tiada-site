@@ -1,12 +1,5 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/16.section-16/section.md"}
-title: "15. The book in a nutshell"
--->
-
-<!-- grav:gen -->
 # 15. The book in a nutshell
-<!-- /grav:gen -->
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >

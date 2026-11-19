@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/14.section-14/04.134-step-two-what-kind-of-course-or-program/section-page.md"}
-title: "13.4 Step two: what kind of course or program?"
--->
-
-<!-- grav:gen -->
 # 13.4 Step two: what kind of course or program?
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/02/Continuum-of-technology-based-teaching-2.jpg" alt="Figure 10.1.2 The continuum of technology-based teaching">
@@ -32,7 +26,6 @@ Certainly every program should have a mechanism for deciding not only the conten
 
 Bates, A. and Sangrà, A. (2011) [*Managing Technology in Higher Education*](https://www.wiley.com/en-ca/Managing+Technology+in+Higher+Education%3A+Strategies+for+Transforming+Teaching+and+Learning-p-9780470584729) San Francisco: Jossey-Bass/John Wiley and Co
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >

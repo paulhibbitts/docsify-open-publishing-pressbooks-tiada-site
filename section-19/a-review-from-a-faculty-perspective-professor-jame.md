@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/19.section-19/01.a-review-from-a-faculty-perspective-professor-jame/section-page.md"}
-title: "A review from a faculty perspective: Professor James Mitchell"
--->
-
-<!-- grav:gen -->
 # A review from a faculty perspective: Professor James Mitchell
-<!-- /grav:gen -->
 
 **[James Mitchell](http://www.drexel.edu/cae/contact/faculty/MitchellJames/),** *Professor and Director of the Architectural & Environmental Engineering Program, Drexel University, Pennsylvania, USA.*
 

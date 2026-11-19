@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/07.section-7/08.68-assessment-of-learning/section-page.md"}
-title: "6.8 Assessment of learning"
--->
-
-<!-- grav:gen -->
 # 6.8 Assessment of learning
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/09/assessment2.jpg" alt="Figure A.8 Assessment">

@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/14.section-14/10.1310-step-eight-communicate-communicate-communicat/section-page.md"}
-title: "13.10 Step eight: communicate, communicate, communicate"
--->
-
-<!-- grav:gen -->
 # 13.10 Step eight: communicate, communicate, communicate
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/02/Older-woman-studying-2.jpg" alt="Figure 11.10.1 Communicate! Image: Care2, 2012">

@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/15.section-15/01.141-are-you-a-super-hero/section-page.md"}
-title: "14.1 Are you a super-hero?"
--->
-
-<!-- grav:gen -->
 # 14.1 Are you a super-hero?
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/03/Superhero-teacher.png" alt="">

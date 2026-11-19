@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/20.section-20/03.appendix-4-feedback-on-activity-75-broadcast-or-in/section-page.md"}
-title: "Appendix 4: Feedback on Activity 7.5 Broadcast or interactive communications"
--->
-
-<!-- grav:gen -->
 # Appendix 4: Feedback on Activity 7.5 Broadcast or interactive communications
-<!-- /grav:gen -->
 
 From the list below:
 

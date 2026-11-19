@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/11.section-11/03.103-ease-of-use/section-page.md"}
-title: "10.3 Ease of Use"
--->
-
-<!-- grav:gen -->
 # 10.3 Ease of Use
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/01/computer-frustration-2.jpg" alt="Figure 8.5.2 Reliability is important! Image: © pixgood.com">
@@ -89,7 +83,6 @@ Ease of use is another critical factor in the successful use of technology for t
 8. What rewards am I likely to get for using new technology in my teaching? Will use of a new technology be the only thing in my teaching that will be innovative, or can I also change my way of teaching with this technology to get better results?
 9. What are the risks in using this technology?
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >

@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/03.section-3/01.scenario-b-a-pre-dinner-party-discussion/section-page.md"}
-title: "Scenario B: A pre-dinner party discussion"
--->
-
-<!-- grav:gen -->
 # Scenario B: A pre-dinner party discussion
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/09/Dinner-the-office.png" alt="">

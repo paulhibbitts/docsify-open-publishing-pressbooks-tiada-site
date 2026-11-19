@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/02.section-2/08.18-the-impact-of-covid-19-on-teaching-and-learning/section-page.md"}
-title: "1.8 The impact of Covid-19 on teaching and learning"
--->
-
-<!-- grav:gen -->
 # 1.8 The impact of Covid-19 on teaching and learning
-<!-- /grav:gen -->
 
 ## ![Corona virus](https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/09/Corona-virus.png)
 
@@ -96,7 +90,6 @@ OECD (2021) [The state of school education: one year into the Covid pandemic](ht
 
 Usher, A. and Sullivan, M. (2021) [Examining Learning Experiences during Covid](https://myemail.constantcontact.com/One-Thought-to-Start-Your-Day--Examining-Learning-Experiences-During-COVID.html?soid=1103080520043&aid=JI-HiuKn8LI), *One Thought to Start Your Day*, *Higher Education Strategy Associates,* January 28.
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >

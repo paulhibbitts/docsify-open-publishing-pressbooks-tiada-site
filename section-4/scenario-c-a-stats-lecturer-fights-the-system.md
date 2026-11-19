@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/04.section-4/01.scenario-c-a-stats-lecturer-fights-the-system/section-page.md"}
-title: "Scenario C: A stats lecturer fights the system"
--->
-
-<!-- grav:gen -->
 # Scenario C: A stats lecturer fights the system
-<!-- /grav:gen -->
 
 >
 

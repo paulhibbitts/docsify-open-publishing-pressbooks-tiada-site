@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/11.section-11/08.108-networking-and-novelty/section-page.md"}
-title: "10.8 Networking (and novelty)"
--->
-
-<!-- grav:gen -->
 # 10.8 Networking (and novelty)
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/01/MER-wiki-2.jpg" alt="Figure 9.8.1 UBC&#039;s Math Exam Wiki">
@@ -59,13 +53,12 @@ Once again, the decision to ‘open up’ teaching is as much a philosophical or
 
 Beasley-Murray, J. (2008) [Was introducing Wikipedia to the classroom an act of madness leading only to mayhem if not murder?](https://en.wikipedia.org/wiki/User:Jbmurray/Madness) *Wikipedia,* March 18
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
 > ### Activity 10.8: Networking (and novelty)
 >
-> <!-- grav: [exercise title="Interactive Activity"] -->
+> 
 > > [!TIP]
 > > **Interactive Activity**
 > >

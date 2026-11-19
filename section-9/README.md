@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/09.section-9/section.md"}
-title: "Chapter 8: Pedagogical differences between media"
--->
-
-<!-- grav:gen -->
 # Chapter 8: Pedagogical differences between media
-<!-- /grav:gen -->
 
 ### Purpose of the chapter
 

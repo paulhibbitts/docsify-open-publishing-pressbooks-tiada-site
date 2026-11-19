@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/05.section-5/04.43-the-addie-model/section-page.md"}
-title: "4.3 The ADDIE model"
--->
-
-<!-- grav:gen -->
 # 4.3 The ADDIE model
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/09/ADDIE-infographic-1024x830.jpg" alt="Figure 4.3.1 The ADDIE model. This is an interactive infographic. To see more detail on each of the five stages, click on each stage in the graphic © Flexible Learning Australia, 2014">

@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/03.section-3/06.25-constructivism/section-page.md"}
-title: "2.5 Constructivism"
--->
-
-<!-- grav:gen -->
 # 2.5 Constructivism
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/09/Project-work-2.jpg" alt="Figure 2.6 Project work is one form of constructivist learning Image: © Jim Olive, Environmental Protection Agency/Wikipedia, 1972">

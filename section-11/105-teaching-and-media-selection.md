@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/11.section-11/05.105-teaching-and-media-selection/section-page.md"}
-title: "10.5 Teaching and media selection"
--->
-
-<!-- grav:gen -->
 # 10.5 Teaching and media selection
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/01/Tony-talking-head.jpg" alt="Figure 8.5.1 People do not necessarily learn better ... when the speaker&#039;s image is added to the screen (Meyer, 2009).">

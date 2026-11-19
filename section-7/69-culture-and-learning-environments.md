@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/07.section-7/09.69-culture-and-learning-environments/section-page.md"}
-title: "6.9 Culture and learning environments"
--->
-
-<!-- grav:gen -->
 # 6.9 Culture and learning environments
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/09/Aboriginal-school-2-1024x476.jpg" alt="Old Sun Aboriginal School, Southern Alberta: note the Union Jack on the board at the back">
@@ -84,7 +78,6 @@ Figure 6.9.2: All the components of an effective learning environment
 
 Section 6.10 provides a brief conclusion to this chapter on building effective learning environments.
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >

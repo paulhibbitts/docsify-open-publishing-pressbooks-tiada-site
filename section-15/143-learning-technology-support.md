@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/15.section-15/03.143-learning-technology-support/section-page.md"}
-title: "14.3 Learning technology support"
--->
-
-<!-- grav:gen -->
 # 14.3 Learning technology support
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/03/Bristol-U-Digital-Ed.png" alt="">
@@ -37,7 +31,6 @@ I am a strong supporter of such specialised units to work with teachers and inst
 
 However, these learning technology support units are essential for the effective development of teaching in a digital age. Thus a balance needs to be found between the provision of training in the use of learning technologies and the need for learning technology support units, which is why faculty development and learning technology units have tended to become integrated, and why institutions need a defined strategy for supporting teaching and learning. Thus although it is possible for a particularly dedicated teacher to teach successfully without such support, learning technology support units are becoming an essential service for most teachers and instructors.
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >

@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/12.section-12/section.md"}
-title: "Chapter 11: Modes of delivery"
--->
-
-<!-- grav:gen -->
 # Chapter 11: Modes of delivery
-<!-- /grav:gen -->
 
 #### The purpose of the chapter
 

@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/03.section-3/07.26-connectivism/section-page.md"}
-title: "2.6 Connectivism"
--->
-
-<!-- grav:gen -->
 # 2.6 Connectivism
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/09/Screen-Shot-2019-05-06-at-8.58.27-PM-300x300.png" alt="">

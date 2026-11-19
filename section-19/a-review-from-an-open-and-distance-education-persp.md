@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/19.section-19/02.a-review-from-an-open-and-distance-education-persp/section-page.md"}
-title: "A review from an open and distance education perspective: Sir John Daniel"
--->
-
-<!-- grav:gen -->
 # A review from an open and distance education perspective: Sir John Daniel
-<!-- /grav:gen -->
 
 **By [Sir John Daniel](https://sirjohn.ca/bio/),** *former President of the Commonwealth of Learning, former Vice Chancellor of the UK Open University, and former Assistant Director-General, Education at UNESCO, currently Senior Advisor to Academic Partnerships International and Education Master in the Beijing DeTao Masters Academy, China.*
 

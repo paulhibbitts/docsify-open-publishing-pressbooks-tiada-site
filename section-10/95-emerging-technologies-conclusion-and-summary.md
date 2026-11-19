@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/10.section-10/05.95-emerging-technologies-conclusion-and-summary/section-page.md"}
-title: "9.5 Emerging technologies: conclusion and summary"
--->
-
-<!-- grav:gen -->
 # 9.5 Emerging technologies: conclusion and summary
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2019/09/games-designer-2.jpg" alt="">
@@ -39,13 +33,12 @@ New technology developments show no sign of slowing down. Over time, other new t
 4. More important than the general characteristics of a new technology is its design and application in education; in other words, how does it perform as an educational medium? Being a big success in the financial sector for instance does not mean a technology will be automatically appropriate for education. Indeed, the technology may need to be heavily adapted or modified to be useful in the educational sector.
 5. Given the rate of change and the number of new technologies entering the market, educators need a strong framework or set of criteria for selecting and evaluating technologies, not just emerging technologies but also existing technology. This will be discussed in the next chapter.
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
 > ### Activity 9.5 Assessing and developing applications of emerging technologies
 >
-> <!-- grav: [exercise title="Interactive Activity"] -->
+> 
 > > [!TIP]
 > > **Interactive Activity**
 > >

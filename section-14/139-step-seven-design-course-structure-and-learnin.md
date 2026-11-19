@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/14.section-14/09.139-step-seven-design-course-structure-and-learnin/section-page.md"}
-title: "13.9 Step seven: design course structure and learning activities"
--->
-
-<!-- grav:gen -->
 # 13.9 Step seven: design course structure and learning activities
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/02/Structure-Arisean-Reach-2.jpg" alt="Figure 11.9.1 Structure is critical for a quality course or program Image: © Arisean Reach, 2012">

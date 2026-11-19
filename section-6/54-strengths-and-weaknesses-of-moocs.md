@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/06.section-6/04.54-strengths-and-weaknesses-of-moocs/section-page.md"}
-title: "5.4 Strengths and weaknesses of MOOCs"
--->
-
-<!-- grav:gen -->
 # 5.4 Strengths and weaknesses of MOOCs
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/11/African-man-using-iPad.png" alt="">

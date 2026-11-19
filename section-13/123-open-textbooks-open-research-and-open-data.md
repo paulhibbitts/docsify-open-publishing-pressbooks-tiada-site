@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/13.section-13/04.123-open-textbooks-open-research-and-open-data/section-page.md"}
-title: "12.3 Open textbooks, open research and open data"
--->
-
-<!-- grav:gen -->
 # 12.3 Open textbooks, open research and open data
-<!-- /grav:gen -->
 
 ` `
 

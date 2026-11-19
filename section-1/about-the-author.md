@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/01.section-1/04.about-the-author/section-page.md"}
-title: "About the author"
--->
-
-<!-- grav:gen -->
 # About the author
-<!-- /grav:gen -->
 
 [
  ](http://opentextbc.ca/teachinginadigitalage/wp-content/uploads/sites/29/2015/01/Wei-large-line.jpg)[![Tony smiling left](https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/05/Tony-smiling-left.jpg)

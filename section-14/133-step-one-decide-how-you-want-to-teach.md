@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/14.section-14/03.133-step-one-decide-how-you-want-to-teach/section-page.md"}
-title: "13.3 Step One: Decide how you want to teach"
--->
-
-<!-- grav:gen -->
 # 13.3 Step One: Decide how you want to teach
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/02/Changing-teaching-methods-2.jpg" alt="11.3 How do I want to teach? Image: © Tony Bates, 2010">

@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/01.section-1/03.about-the-book-and-how-to-use-it/section-page.md"}
-title: "About the book – and how to use it"
--->
-
-<!-- grav:gen -->
 # About the book – and how to use it
-<!-- /grav:gen -->
 
 ### The book in a nutshell
 

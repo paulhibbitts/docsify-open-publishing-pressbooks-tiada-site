@@ -1,12 +1,3 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/01.section-1/section.md"}
-title: "Front Matter"
-section_label: ""
-numbered: false
-description: "Accessibility, about, preface, and acknowledgements."
-redirect: /teaching-in-a-2026/section-1/scenario-a-1-a-university-professor-addresses-chan
--->
-
-<!-- grav:gen -->
 # Front Matter
 
 - [Scenario A 1: A university professor addresses change](section-1/scenario-a-1-a-university-professor-addresses-chan.md)
@@ -16,4 +7,3 @@ redirect: /teaching-in-a-2026/section-1/scenario-a-1-a-university-professor-addr
 - [Translations – First Edition](section-1/translations-first-edition.md)
 - [Other books by the author](section-1/other-books-by-the-author.md)
 - [Updates and revisions](section-1/updates-and-revisions.md)
-<!-- /grav:gen -->

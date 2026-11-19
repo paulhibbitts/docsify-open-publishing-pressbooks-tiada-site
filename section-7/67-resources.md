@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/07.section-7/07.67-resources/section-page.md"}
-title: "6.7 Resources"
--->
-
-<!-- grav:gen -->
 # 6.7 Resources
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/09/resources-2.jpg" alt="Figure A.7 Resources">

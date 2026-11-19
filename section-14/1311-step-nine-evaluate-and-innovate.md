@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/14.section-14/11.1311-step-nine-evaluate-and-innovate/section-page.md"}
-title: "13.11 Step nine: evaluate and innovate"
--->
-
-<!-- grav:gen -->
 # 13.11 Step nine: evaluate and innovate
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/02/Evaluation-2.jpg" alt="Figure 11.11 Evaluate and innovate Image: Hilary Page-Bucci, 2002">

@@ -1,12 +1,5 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/01.section-1/01.scenario-a-1-a-university-professor-addresses-chan/section-page.md"}
-title: "Scenario A 1: A university professor addresses change"
--->
-
-<!-- grav:gen -->
 # Scenario A 1: A university professor addresses change
-<!-- /grav:gen -->
 
-<!-- grav: [excerpt] -->
 > Overheard in a coffee shop near campus:
 >
 > *Hey, Frank, you don’t look too happy.*

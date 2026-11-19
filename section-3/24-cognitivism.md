@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/03.section-3/05.24-cognitivism/section-page.md"}
-title: "2.4 Cognitivism"
--->
-
-<!-- grav:gen -->
 # 2.4 Cognitivism
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/09/Screen-Shot-2019-05-07-at-3.27.31-AM-214x300.png" alt="">

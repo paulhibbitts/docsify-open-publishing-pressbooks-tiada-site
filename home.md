@@ -1,19 +1,3 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/section-list.md","images":["TeachingDigitalAgeCoverForWeb-768x994.jpg"]}
-title: "Teaching in a Digital Age: Third Edition - General"
-menu: "Teaching in a Digital Age"
-subtitle: "Guidelines for designing teaching and learning"
-cover_image: TeachingDigitalAgeCoverForWeb-768x994.jpg
-cover_image_layout: small
-authors: "A.W. (Tony) Bates"
-show_oer_attribution: true
-license: "CC BY-NC 4.0"
-license_url: "https://creativecommons.org/licenses/by-nc/4.0/"
-section_label: Chapter
-show_section_label: false
-attribution_text: "Teaching in a Digital Age: Third Edition - General by A.W. (Tony) Bates © 2022 is licensed under <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC BY-NC 4.0</a>."
--->
-
-<!-- grav:gen -->
 <div class="guide-cover guide-cover-portrait">
 
 ![Teaching in a Digital Age: Third Edition - General cover](TeachingDigitalAgeCoverForWeb-768x994.jpg ":no-zoom")
@@ -33,9 +17,7 @@ A.W. (Tony) Bates
 </div>
 
 </div>
-<!-- /grav:gen -->
 
-<!-- grav: [announcement title="Teaching in a Digital Age: Third Edition - General — Imported from Pressbooks"] -->
 > [!IMPORTANT]
 > **Teaching in a Digital Age: Third Edition - General — Imported from Pressbooks**
 >
@@ -49,7 +31,6 @@ A.W. (Tony) Bates
 
 The book examines the underlying principles that guide effective teaching in an age when all of us, and in particular the students we are teaching, are using technology. A framework for making decisions about your teaching is provided, while understanding that every subject is different, and every instructor has something unique and special to bring to their teaching. The book enables teachers and instructors to help students develop the knowledge and skills they will need in a digital age: not so much the IT skills, but the thinking and attitudes to learning that will bring them success. Book release date (third edition): 18 August, 2022. For subsequent updates, see Updates and Revisions in the front matter of the book.
 
-<!-- grav:gen -->
 <div class="card-list-rows">
 
 <div class="card">
@@ -183,11 +164,8 @@ Appendices, bibliography, and versioning history.
 </div>
 
 </div>
-<!-- /grav:gen -->
 
-<!-- grav:gen -->
 Teaching in a Digital Age: Third Edition - General by A.W. (Tony) Bates © 2022 is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a>.
 
 <!-- Hides the sidebar on this page -->
 <style>aside.sidebar, button.sidebar-toggle { display: none !important; } section.content { left: 0 !important; transition: none !important; }</style>
-<!-- /grav:gen -->

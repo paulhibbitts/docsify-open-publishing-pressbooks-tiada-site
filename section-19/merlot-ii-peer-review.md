@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/19.section-19/04.merlot-ii-peer-review/section-page.md"}
-title: "MERLOT II Peer Review"
--->
-
-<!-- grav:gen -->
 # MERLOT II Peer Review
-<!-- /grav:gen -->
 
 ![Merlot banner](https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/06/MERLOT-Banner.png)
 

@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/04.section-4/02.31-five-perspectives-on-teaching/section-page.md"}
-title: "3.1 Five perspectives on teaching"
--->
-
-<!-- grav:gen -->
 # 3.1 Five perspectives on teaching
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2022/08/Tony-in-Rio.jpg" alt="For my personal comments on why I wrote this chapter on campus-based teaching methods, please click on the podcast below">

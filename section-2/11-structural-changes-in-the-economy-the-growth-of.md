@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/02.section-2/01.11-structural-changes-in-the-economy-the-growth-of/section-page.md"}
-title: "1.1 Structural changes in the economy: the growth of a knowledge society"
--->
-
-<!-- grav:gen -->
 # 1.1 Structural changes in the economy: the growth of a knowledge society
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/09/Future-Internet-2.jpg" alt="Figure 1.1.1 Learning in a digital age Image: © CC Duncan Campbell, 2012">

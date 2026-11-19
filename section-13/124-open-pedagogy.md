@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/13.section-13/05.124-open-pedagogy/section-page.md"}
-title: "12.4 Open pedagogy"
--->
-
-<!-- grav:gen -->
 # 12.4 Open pedagogy
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/02/Open-landscape-Stacey.png" alt="">
@@ -180,7 +174,6 @@ Wiley, D. (2013) [What is Open Pedagogy](https://opencontent.org/blog/archives/2
 
 Wiley, D. (2017) [When opens collide](https://opencontent.org/blog/archives/4990), *iterating toward openness*, 21 April
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >

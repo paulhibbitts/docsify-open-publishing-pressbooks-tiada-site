@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/05.section-5/05.44-online-collaborative-learning/section-page.md"}
-title: "4.4 Online collaborative learning"
--->
-
-<!-- grav:gen -->
 # 4.4 Online collaborative learning
-<!-- /grav:gen -->
 
 ![Collaborative online group work 1024x755](https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/09/Collaborative-online-group-work-1024x755-1.png)
 

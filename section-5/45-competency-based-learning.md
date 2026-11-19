@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/05.section-5/06.45-competency-based-learning/section-page.md"}
-title: "4.5 Competency-based learning"
--->
-
-<!-- grav:gen -->
 # 4.5 Competency-based learning
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/11/Capella-competencies-2.jpg" alt="e-Commerce business course competencies, Capella University">

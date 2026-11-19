@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/07.section-7/06.66-learner-support/section-page.md"}
-title: "6.6 Learner support"
--->
-
-<!-- grav:gen -->
 # 6.6 Learner support
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/09/Learner-support-2.jpg" alt="Figure A.6.1 Learner support">

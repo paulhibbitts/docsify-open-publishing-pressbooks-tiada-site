@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/09.section-9/03.83-audio/section-page.md"}
-title: "8.3 Audio"
--->
-
-<!-- grav:gen -->
 # 8.3 Audio
-<!-- /grav:gen -->
 
 <figure>
 <img src="http://www.tonybates.ca/wp-content/uploads/Audio-speakers.jpg" alt="">

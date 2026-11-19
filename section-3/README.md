@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/03.section-3/section.md"}
-title: "Chapter 2: The nature of knowledge and the implications for teaching"
--->
-
-<!-- grav:gen -->
 # Chapter 2: The nature of knowledge and the implications for teaching
-<!-- /grav:gen -->
 
 #### Purpose of the chapter
 

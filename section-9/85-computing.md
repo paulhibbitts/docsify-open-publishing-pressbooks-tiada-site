@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/09.section-9/05.85-computing/section-page.md"}
-title: "8.5 Computing"
--->
-
-<!-- grav:gen -->
 # 8.5 Computing
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/01/Computer-marked-assignment-Jordan.png" alt="">

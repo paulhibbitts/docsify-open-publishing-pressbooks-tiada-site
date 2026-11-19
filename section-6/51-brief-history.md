@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/06.section-6/01.51-brief-history/section-page.md"}
-title: "5.1 Brief history"
--->
-
-<!-- grav:gen -->
 # 5.1 Brief history
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/11/Daphne-Koller.png" alt="">

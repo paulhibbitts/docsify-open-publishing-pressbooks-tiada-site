@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/14.section-14/07.137-step-five-master-the-technology/section-page.md"}
-title: "13.7 Step five: master the technology"
--->
-
-<!-- grav:gen -->
 # 13.7 Step five: master the technology
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/02/Blackboard-Help.png" alt="">

@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/10.section-10/01.91-social-media/section-page.md"}
-title: "9.1 Social media"
--->
-
-<!-- grav:gen -->
 # 9.1 Social media
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2022/07/Gartner-Hype-Cycle.png" alt="">

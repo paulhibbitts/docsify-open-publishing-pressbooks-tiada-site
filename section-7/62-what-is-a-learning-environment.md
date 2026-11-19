@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/07.section-7/02.62-what-is-a-learning-environment/section-page.md"}
-title: "6.2 What is a learning environment?"
--->
-
-<!-- grav:gen -->
 # 6.2 What is a learning environment?
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/09/Personal-learning-environment-2-Janson-Hews.jpg" alt="">

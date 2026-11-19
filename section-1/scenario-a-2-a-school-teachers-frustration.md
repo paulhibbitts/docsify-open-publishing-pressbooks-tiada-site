@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/01.section-1/02.scenario-a-2-a-school-teachers-frustration/section-page.md"}
-title: "Scenario A 2: A school teacher’s frustration"
--->
-
-<!-- grav:gen -->
 # Scenario A 2: A school teacher’s frustration
-<!-- /grav:gen -->
 
 Jenny enters the staff room and slams the door. Peter looks up from marking assignments.
 

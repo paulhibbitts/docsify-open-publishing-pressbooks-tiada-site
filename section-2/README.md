@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/02.section-2/section.md"}
-title: "Chapter 1: Fundamental Change in Education"
--->
-
-<!-- grav:gen -->
 # Chapter 1: Fundamental Change in Education
-<!-- /grav:gen -->
 
 #### The purpose of this chapter
 

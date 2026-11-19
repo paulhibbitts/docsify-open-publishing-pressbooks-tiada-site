@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/12.section-12/02.112-comparing-modes-of-delivery/section-page.md"}
-title: "11.2 Comparing modes of delivery"
--->
-
-<!-- grav:gen -->
 # 11.2 Comparing modes of delivery
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/02/Comparing-modes-2.jpg" alt="Figure 10.3 Which is the best?">

@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/06.section-6/06.56-why-moocs-are-only-part-of-the-answer/section-page.md"}
-title: "5.6 Why MOOCs are only part of the answer"
--->
-
-<!-- grav:gen -->
 # 5.6 Why MOOCs are only part of the answer
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/11/Screen-Shot-2019-08-05-at-5.41.15-PM-1024x553.png" alt="">

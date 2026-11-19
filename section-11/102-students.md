@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/11.section-11/02.102-students/section-page.md"}
-title: "10.2 Students"
--->
-
-<!-- grav:gen -->
 # 10.2 Students
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/01/Muslim-girls-using-mobiles-2.jpg" alt="">

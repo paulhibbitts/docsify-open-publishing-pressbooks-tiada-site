@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/15.section-15/02.142-the-development-and-training-of-teachers-and-i/section-page.md"}
-title: "14.2 The development and training of teachers and instructors in a digital age"
--->
-
-<!-- grav:gen -->
 # 14.2 The development and training of teachers and instructors in a digital age
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/03/Faculty-development-workshop-2.jpg" alt="Figure 12.1 A faculty development workshop">

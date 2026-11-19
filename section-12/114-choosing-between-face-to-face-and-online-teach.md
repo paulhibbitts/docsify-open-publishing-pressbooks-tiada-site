@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/12.section-12/04.114-choosing-between-face-to-face-and-online-teach/section-page.md"}
-title: "11.4 Choosing between face-to-face and online teaching on campus"
--->
-
-<!-- grav:gen -->
 # 11.4 Choosing between face-to-face and online teaching on campus
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/02/Students-using-computers-on-campus-ECUAD.png" alt="">

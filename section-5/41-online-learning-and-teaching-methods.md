@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/05.section-5/02.41-online-learning-and-teaching-methods/section-page.md"}
-title: "4.1 Online learning and teaching methods"
--->
-
-<!-- grav:gen -->
 # 4.1 Online learning and teaching methods
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2022/08/Tony-in-Rio.jpg" alt="For my personal comments on some of the issues raised in this chapter, please click on the podcast below, which discusses the relationship between quality, modes of delivery, teaching methods and design.">

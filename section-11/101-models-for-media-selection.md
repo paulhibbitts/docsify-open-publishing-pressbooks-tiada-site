@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/11.section-11/01.101-models-for-media-selection/section-page.md"}
-title: "10.1 Models for media selection"
--->
-
-<!-- grav:gen -->
 # 10.1 Models for media selection
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/01/SECTIONS-model-2.jpg" alt="Figure 8 The SECTIONS model">

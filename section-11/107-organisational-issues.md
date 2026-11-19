@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/11.section-11/07.107-organisational-issues/section-page.md"}
-title: "10.7 Organisational issues"
--->
-
-<!-- grav:gen -->
 # 10.7 Organisational issues
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/12/Video-production-studio-UI-UC.png" alt="">
@@ -65,7 +59,6 @@ Bates, A. and Sangrà, A. (2011) [*Managing Technology in Higher Education*](htt
 
 Marshall, S. (2009) [*E-Learning Maturity Model Version Two: New Zealand Tertiary Institution E-Learning Capability: Informing and Guiding E-Learning Architectural Change and Development* ](https://www.educationcounts.govt.nz/publications/tertiary_education/e-learning/58139)Wellington NZ: Victoria University of Wellington
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >

@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/13.section-13/section.md"}
-title: "Chapter 12: Trends in open education"
--->
-
-<!-- grav:gen -->
 # Chapter 12: Trends in open education
-<!-- /grav:gen -->
 
 ### The purpose of this chapter
 

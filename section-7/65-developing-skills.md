@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/07.section-7/05.65-developing-skills/section-page.md"}
-title: "6.5 Developing skills"
--->
-
-<!-- grav:gen -->
 # 6.5 Developing skills
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/09/skills-2.jpg" alt="Figure A.5 Skills">

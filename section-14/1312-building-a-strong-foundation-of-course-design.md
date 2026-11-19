@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/14.section-14/12.1312-building-a-strong-foundation-of-course-design/section-page.md"}
-title: "13.12  Building a strong foundation of course design"
--->
-
-<!-- grav:gen -->
 # 13.12  Building a strong foundation of course design
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/02/foundations-building-2.jpg" alt="Figure 11.12 Building a strong foundation for quality teaching Image: © Wikipedia Commons">

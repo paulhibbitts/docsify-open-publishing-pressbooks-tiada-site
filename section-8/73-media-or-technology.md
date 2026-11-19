@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/08.section-8/03.73-media-or-technology/section-page.md"}
-title: "7.3 Media or technology?"
--->
-
-<!-- grav:gen -->
 # 7.3 Media or technology?
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/12/Teaching-in-a-Digital-Age-signature-scaled-1.jpg" alt="">

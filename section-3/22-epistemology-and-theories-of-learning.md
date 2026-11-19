@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/03.section-3/03.22-epistemology-and-theories-of-learning/section-page.md"}
-title: "2.2 Epistemology and theories of learning"
--->
-
-<!-- grav:gen -->
 # 2.2 Epistemology and theories of learning
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/09/Epistemology-300x203.png" alt="">
@@ -45,7 +39,6 @@ Hofer, B. and Pintrich, P. (1997) ‘[The development of epistemological theorie
 
 Schunk, D. (2016) [*Learning Theories: An Educational Perspective: 7th edition*](https://www.amazon.ca/Learning-Theories-Educational-Perspective-Loose-Leaf/dp/0134013484) London: Pearson Education
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >

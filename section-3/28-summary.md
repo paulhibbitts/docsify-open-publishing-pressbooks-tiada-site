@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/03.section-3/09.28-summary/section-page.md"}
-title: "2.8 Summary"
--->
-
-<!-- grav:gen -->
 # 2.8 Summary
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/09/Screen-Shot-2019-05-07-at-8.25.25-AM-1024x755.png" alt="">

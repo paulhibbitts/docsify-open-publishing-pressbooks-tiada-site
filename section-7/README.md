@@ -1,17 +1,10 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/07.section-7/section.md"}
-title: "Chapter 6: Building an effective learning environment"
--->
-
-<!-- grav:gen -->
 # Chapter 6: Building an effective learning environment
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/11/Screen-Shot-2022-04-08-at-2.49.12-PM.png" alt="">
 <figcaption>Figure 6.1: One learning environment</figcaption>
 </figure>
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >

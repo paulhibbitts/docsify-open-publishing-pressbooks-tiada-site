@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/03.section-3/04.23-objectivism-and-behaviourism/section-page.md"}
-title: "2.3 Objectivism and behaviourism"
--->
-
-<!-- grav:gen -->
 # 2.3 Objectivism and behaviourism
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/09/The-solar-system-2-1024x533.jpg" alt="Figure 2.3.1 The solar system: an objective fact? Image: © International Astronomical Union/Wikipedia">

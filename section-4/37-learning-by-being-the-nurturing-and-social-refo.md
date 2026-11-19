@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/04.section-4/08.37-learning-by-being-the-nurturing-and-social-refo/section-page.md"}
-title: "3.7 Learning by being: The nurturing and social reform models of teaching"
--->
-
-<!-- grav:gen -->
 # 3.7 Learning by being: The nurturing and social reform models of teaching
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/04/Father-with-child.png" alt="">

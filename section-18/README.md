@@ -1,12 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/18.section-18/section.md"}
-title: "Appendix 2 Online learning quality standards, organisations and research"
-section_label: ""
-numbered: false
--->
-
-<!-- grav:gen -->
 # Appendix 2 Online learning quality standards, organisations and research
-<!-- /grav:gen -->
 
 [![Quality guarantee](http://www.tonybates.ca/wp-content/uploads/Quality-guarantee.jpg "Quality guarantee")
 ](http://www.tonybates.ca/wp-content/uploads/Quality-guarantee.jpg)

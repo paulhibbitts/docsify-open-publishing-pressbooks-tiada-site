@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/01.section-1/05.translations-first-edition/section-page.md"}
-title: "Translations – First Edition"
--->
-
-<!-- grav:gen -->
 # Translations – First Edition
-<!-- /grav:gen -->
 
 The first edition of this book has been translated into the following languages: Chinese, Farsi, French, Japanese, Portuguese, Spanish, Turkish, and Vietnamese. The files from those translations can be downloaded below.
 

@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/15.section-15/04.144-conditions-of-employment/section-page.md"}
-title: "14.4 Conditions of employment"
--->
-
-<!-- grav:gen -->
 # 14.4 Conditions of employment
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/09/Lecture-theatre-2.jpg" alt="Figure 12.4 Class size affects the capacity to develop the skills and knowledge needed in a digital age">
@@ -82,7 +76,6 @@ Chiose, S. (2018) [Increased pressures, class sizes, taking their toll on facult
 
 Jonker, L. and Hicks, M. (2014) *[Teaching Loads and Research Outputs of Ontario University Faculty: Implications for Productivity and Differentiation](http://www.heqco.ca/SiteCollectionDocuments/FINAL%20Teaching%20Loads%20and%20Research%20Outputs%20ENG.pdf)* Toronto: Higher Education Quality Council of Ontario
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >

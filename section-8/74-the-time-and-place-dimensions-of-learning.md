@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/08.section-8/04.74-the-time-and-place-dimensions-of-learning/section-page.md"}
-title: "7.4 The time and place dimensions of learning"
--->
-
-<!-- grav:gen -->
 # 7.4 The time and place dimensions of learning
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/12/Audio-cassette-scaled-1.jpg" alt="Figure 6.5.1 Audio cassettes are a recorded, asynchronous technology">

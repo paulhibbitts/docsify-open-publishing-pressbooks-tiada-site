@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/13.section-13/03.122-open-educational-resources-oer/section-page.md"}
-title: "12.2 Open educational resources (OER)"
--->
-
-<!-- grav:gen -->
 # 12.2 Open educational resources (OER)
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/02/OER-forum-2.jpg" alt="© Giulia Forsyth, 2012">

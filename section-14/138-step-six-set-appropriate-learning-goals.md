@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/14.section-14/08.138-step-six-set-appropriate-learning-goals/section-page.md"}
-title: "13.8 Step six: set appropriate learning goals"
--->
-
-<!-- grav:gen -->
 # 13.8 Step six: set appropriate learning goals
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/02/Goalposts-2.jpg" alt="Figure 11.8 Set appropriate learning goals Image: © www.geograph.ie">

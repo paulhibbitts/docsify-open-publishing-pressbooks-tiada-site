@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/08.section-8/01.71-choosing-technologies-for-teaching-and-learning/section-page.md"}
-title: "7.1 Choosing technologies for teaching and learning: the challenge"
--->
-
-<!-- grav:gen -->
 # 7.1 Choosing technologies for teaching and learning: the challenge
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/12/Home-technology-scaled-1.jpg" alt="">

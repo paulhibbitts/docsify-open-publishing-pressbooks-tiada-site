@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/07.section-7/03.63-learner-characteristics/section-page.md"}
-title: "6.3 Learner characteristics"
--->
-
-<!-- grav:gen -->
 # 6.3 Learner characteristics
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/09/Screen-Shot-2022-04-08-at-2.44.31-PM.png" alt="">

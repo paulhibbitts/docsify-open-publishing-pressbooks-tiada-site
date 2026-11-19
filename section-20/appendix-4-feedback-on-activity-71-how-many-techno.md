@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/20.section-20/02.appendix-4-feedback-on-activity-71-how-many-techno/section-page.md"}
-title: "Appendix 4: Feedback on Activity 7.1  How many technologies can you see in Figure 7.1?"
--->
-
-<!-- grav:gen -->
 # Appendix 4: Feedback on Activity 7.1  How many technologies can you see in Figure 7.1?
-<!-- /grav:gen -->
 
 Well, this is an unfair question, partly because the photo doesn’t show all the technologies, and also because you wouldn’t know what software or services were included, but just for the record, here’s my list:
 

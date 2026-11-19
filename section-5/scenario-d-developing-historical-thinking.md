@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/05.section-5/01.scenario-d-developing-historical-thinking/section-page.md"}
-title: "Scenario D: Developing historical thinking"
--->
-
-<!-- grav:gen -->
 # Scenario D: Developing historical thinking
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/09/History-of-Beijing-2.jpg" alt="">

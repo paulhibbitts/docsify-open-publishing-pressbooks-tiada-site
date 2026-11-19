@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/02.section-2/02.12-the-skills-needed-in-a-digital-age/section-page.md"}
-title: "1.2 The skills needed in a digital age"
--->
-
-<!-- grav:gen -->
 # 1.2 The skills needed in a digital age
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/09/LinkedIn-2-1024x991.jpg" alt="Figure 1.2.1 Using social media for communication is an essential skill for a digital age">

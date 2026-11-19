@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/02.section-2/09.19-navigating-new-developments-in-technology-and-o/section-page.md"}
-title: "1.9 Navigating new developments in technology and online learning"
--->
-
-<!-- grav:gen -->
 # 1.9 Navigating new developments in technology and online learning
-<!-- /grav:gen -->
 
 Instructors in both universities and colleges now face the following challenges:
 

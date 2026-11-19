@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/04.section-4/05.34-interactive-lectures-seminars-and-tutorials-lea/section-page.md"}
-title: "3.4 Interactive lectures, seminars, and tutorials: learning by talking"
--->
-
-<!-- grav:gen -->
 # 3.4 Interactive lectures, seminars, and tutorials: learning by talking
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/09/Screen-Shot-2019-05-20-at-2.51.33-PM.png" alt="">
@@ -82,7 +76,6 @@ Laurillard, D. (2001) [*Rethinking University Teaching:* ](https://www.taylorfra
 
 Marton, F. & Saljö, R. (1997). ‘Approaches to learning’, in F. Marton, D. Hounsell, & N. Entwistle (Eds.), [*The experience of learning*](https://www.ed.ac.uk/institute-academic-development/learning-teaching/research/experience-of-learning). Edinburgh: Scottish Academic Press
 
-<!-- grav: [exercise title="Activity 3.4 Developing conceptual learning"] -->
 > [!TIP]
 > **Activity 3.4 Developing conceptual learning**
 >

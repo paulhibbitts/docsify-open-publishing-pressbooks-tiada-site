@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/17.section-17/02.e-ease-of-use/section-page.md"}
-title: "E: Ease of use"
--->
-
-<!-- grav:gen -->
 # E: Ease of use
-<!-- /grav:gen -->
 
 8\. How intuitively easy to use is the technology you are considering, both by students and by yourself?
 

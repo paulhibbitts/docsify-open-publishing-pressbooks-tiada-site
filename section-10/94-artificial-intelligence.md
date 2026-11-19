@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/10.section-10/04.94-artificial-intelligence/section-page.md"}
-title: "9.4 Artificial intelligence"
--->
-
-<!-- grav:gen -->
 # 9.4 Artificial intelligence
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2019/09/Robot-vs-women-2.jpg" alt="">
@@ -282,7 +276,6 @@ Zawacki-Richter, O. er al. (2019) [Systematic review of research on artificial i
 
 Zeide, E. (2019) [Artificial Intelligence in Higher Education: Applications, Promise and Perils, and Ethical Questions](https://er.educause.edu/articles/2019/8/artificial-intelligence-in-higher-education-applications-promise-and-perils-and-ethical-questions) *EDUCAUSE Review*, Vol. 54, No. 3, August 26
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -295,7 +288,7 @@ Zeide, E. (2019) [Artificial Intelligence in Higher Education: Applications, Pro
 >
 > Click on the podcast below to get some feedback on these questions, plus some of my personal thoughts on AI and teaching and learning:
 >
-> <!-- grav: [exercise title="Interactive Activity"] -->
+> 
 > > [!TIP]
 > > **Interactive Activity**
 > >

@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/07.section-7/10.610-conclusions/section-page.md"}
-title: "6.10 Conclusions"
--->
-
-<!-- grav:gen -->
 # 6.10 Conclusions
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/09/2030-classroom.png" alt="">
@@ -19,7 +13,6 @@ Technology now enables us to build a wide variety of effective learning environm
 
 This concludes Part 1 of the book, which focuses on the fundamentals of teaching and learning in a digital age. Part 2 of the book (Chapters 7-13) pays special attention to the impact of digital technologies on teaching and learning, starting with [Chapter 7](section-8/README.md), which examines the nature and role of media and technologies in education.
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >

@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/07.section-7/01.61-integrating-design-principles-within-a-rich-lea/section-page.md"}
-title: "6.1 Integrating design principles within a rich learning environment"
--->
-
-<!-- grav:gen -->
 # 6.1 Integrating design principles within a rich learning environment
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/09/Nature-learning-2-300x239.jpg" alt="">
@@ -40,7 +34,6 @@ With regard to the first, teachers cannot do the learning for the learner. All t
 
 For this reason, I want to examine some of the fundamental components of most effective teaching environments. Not only will this provide some general guidance for the design of teaching, it will also allow consideration of technology-based learning environments that can fundamentally differ from traditional campus-based environments, while at the same time ensuring conditions for successful learning. I set out these components or conditions in the following sections.
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >

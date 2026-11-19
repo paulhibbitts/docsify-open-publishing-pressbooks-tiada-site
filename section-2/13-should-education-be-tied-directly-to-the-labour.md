@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/02.section-2/03.13-should-education-be-tied-directly-to-the-labour/section-page.md"}
-title: "1.3 Should education be tied directly to the labour market?"
--->
-
-<!-- grav:gen -->
 # 1.3 Should education be tied directly to the labour market?
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/09/workers-in-an-office.jpg" alt="Figure 1.4.1 Knowledge workers Image: Phil Whitehouse, 2009. Retrieved from https://www.flickr.com/photos/philliecasablanca/3344142642/.">
@@ -31,7 +25,6 @@ These activities do not challenge in any way core disciplinary values, or make u
 
 Weingarten, H. et al. (2018) *[Measuring Essential Skills of Postsecondary Students: Final Report of the Essential Adult Skills Initiative](http://www.heqco.ca/SiteCollectionDocuments/FIXED_English_Formatted_EASI%20Final%20Report%282%29.pdf)* Toronto ON: HEQCO
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >

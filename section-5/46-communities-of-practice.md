@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/05.section-5/07.46-communities-of-practice/section-page.md"}
-title: "4.6 Communities of practice"
--->
-
-<!-- grav:gen -->
 # 4.6 Communities of practice
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/09/Women-executives-2.jpg" alt="Bank of America&#039;s Vital Voices progam links women executives of small and medium sized enterprises Image: © Belfast Telegraph, 2014">

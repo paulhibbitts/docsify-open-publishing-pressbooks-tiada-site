@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/15.section-15/section.md"}
-title: "Chapter 14: Supporting teachers and instructors in a digital age"
--->
-
-<!-- grav:gen -->
 # Chapter 14: Supporting teachers and instructors in a digital age
-<!-- /grav:gen -->
 
 ### The purpose of the chapter
 
@@ -34,7 +28,6 @@ Also in this chapter you will find the following activities
 - Activity 14.5 Designing a team approach
 - Activity 14.6 Developing an institutional strategy for supporting teaching and learning
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >

@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/17.section-17/07.n-networking/section-page.md"}
-title: "N: Networking"
--->
-
-<!-- grav:gen -->
 # N: Networking
-<!-- /grav:gen -->
 
 35\. How important is it to enable learners to network beyond a course, with others such as subject specialists, professionals in the field, and relevant people in the community? Can the course, or student learning, benefit from such external connections?
 

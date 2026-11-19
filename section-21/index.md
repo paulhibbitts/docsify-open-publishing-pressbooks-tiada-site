@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/21.section-21/02.index/section-page.md"}
-title: "Index"
--->
-
-<!-- grav:gen -->
 # Index
-<!-- /grav:gen -->
 
 There is no need for an index in a digital textbook.
 

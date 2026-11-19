@@ -1,12 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/17.section-17/section.md"}
-title: "Appendix 1: Questions to guide media selection and use"
-section_label: ""
-numbered: false
--->
-
-<!-- grav:gen -->
 # Appendix 1: Questions to guide media selection and use
-<!-- /grav:gen -->
 
 The questions on the following pages should be used in conjunction with Chapter 10, and address a real context that you may be facing, such as designing a new course.
 

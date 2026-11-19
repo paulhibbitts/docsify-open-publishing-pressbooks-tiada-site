@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/07.section-7/04.64-managing-content/section-page.md"}
-title: "6.4 Managing content"
--->
-
-<!-- grav:gen -->
 # 6.4 Managing content
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/09/Content-2.png" alt="">
@@ -96,7 +90,6 @@ We shall see that technology enables us to widen considerably the range of activ
 
 Even or especially in a digital age, content, in terms of things to know, remains critically important, but in a digital age the role of content is subtly changing, in some ways becoming a means to other ends, such as skills development, rather than an end in itself. Because of the rapid growth in knowledge in nearly all subject areas, being clear about the role and purpose of content in a course, and communicating that effectively to students, becomes particularly important.
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >

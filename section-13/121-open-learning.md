@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/13.section-13/02.121-open-learning/section-page.md"}
-title: "12.1 Open learning"
--->
-
-<!-- grav:gen -->
 # 12.1 Open learning
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/02/Malala-2.jpg" alt="Figure 10.8 I&#039;m just a committed and even stubborn person who wants to see every child getting quality education Malala Yousafzai&#039;s Nobel Prize speech, 2014">

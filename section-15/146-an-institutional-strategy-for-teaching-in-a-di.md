@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/15.section-15/06.146-an-institutional-strategy-for-teaching-in-a-di/section-page.md"}
-title: "14.6 An institutional strategy for teaching in a digital age"
--->
-
-<!-- grav:gen -->
 # 14.6 An institutional strategy for teaching in a digital age
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/03/Ottawa-e-learning-plan-2.jpg" alt="Figure 12.5 The University of Ottawa&#039;s e-learning plan">
@@ -45,7 +39,6 @@ University of Ottawa (2017) [Report on the Blended Learning Initiative, 2013-201
 
 There is no feedback provided on this activity.
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >

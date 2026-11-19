@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/06.section-6/section.md"}
-title: "Chapter 5: MOOCs"
--->
-
-<!-- grav:gen -->
 # Chapter 5: MOOCs
-<!-- /grav:gen -->
 
 #### Purpose of the chapter
 

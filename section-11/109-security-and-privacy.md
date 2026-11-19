@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/11.section-11/09.109-security-and-privacy/section-page.md"}
-title: "10.9 Security and privacy"
--->
-
-<!-- grav:gen -->
 # 10.9 Security and privacy
-<!-- /grav:gen -->
 
 [![Data protection by country](https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/01/Data-protection-by-country-2022.png)
 ](https://www.dlapiperdataprotection.com/)
@@ -69,13 +63,12 @@ See also:
 
 Bates, T. (2011) [Cloud-based educational technology and privacy: a Canadian perspective](http://www.tonybates.ca/2011/03/25/cloud-based-educational-technology-and-privacy-a-canadian-perspective/), *Online Learning and Distance Education Resources*, March 25
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
 > ### Activity 10.9: Security and Privacy
 >
-> <!-- grav: [exercise title="Interactive Activity"] -->
+> 
 > > [!TIP]
 > > **Interactive Activity**
 > >

@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/05.section-5/03.42-old-wine-in-new-bottles-lecture-based-online-le/section-page.md"}
-title: "4.2 Old wine in new bottles: lecture-based online learning"
--->
-
-<!-- grav:gen -->
 # 4.2 Old wine in new bottles: lecture-based online learning
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/03/Video-streaming.jpg" alt="">

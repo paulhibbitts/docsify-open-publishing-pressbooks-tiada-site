@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/02.section-2/06.16-changing-students-changing-markets-for-higher-e/section-page.md"}
-title: "1.6 Changing students, changing markets for higher education"
--->
-
-<!-- grav:gen -->
 # 1.6 Changing students, changing markets for higher education
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/09/International-students-2.jpg" alt="Figure 1.6.1 More diverse students Image: © greatinternational students.blogspot.com, 2013">

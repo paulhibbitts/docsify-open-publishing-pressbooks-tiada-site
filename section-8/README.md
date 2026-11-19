@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/08.section-8/section.md"}
-title: "Chapter 7: Understanding technology in education"
--->
-
-<!-- grav:gen -->
 # Chapter 7: Understanding technology in education
-<!-- /grav:gen -->
 
 ### Purpose of this chapter
 

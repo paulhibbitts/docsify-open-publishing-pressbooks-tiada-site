@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/21.section-21/01.bibliography/section-page.md"}
-title: "Bibliography"
--->
-
-<!-- grav:gen -->
 # Bibliography
-<!-- /grav:gen -->
 
 **Note: at the end of each reference is a link to the relevant chapter(s) (e.g. Adamson, 4.7 = Chapter 4, Section 7).**
 

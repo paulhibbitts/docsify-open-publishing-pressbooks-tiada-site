@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/06.section-6/02.52-what-is-a-mooc/section-page.md"}
-title: "5.2 What is a MOOC?"
--->
-
-<!-- grav:gen -->
 # 5.2 What is a MOOC?
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/11/MOOC-Forsythe-2.jpg" alt="© Giulia Forsythe, 2012 and JISC, 2012">
@@ -65,7 +59,6 @@ Friedman, T. (2013) Revolution Hits the Universities [*New York Times*,](http://
 
 US Department of Education (2020) [*Digest of Education Statistics 2020*](https://nces.ed.gov/programs/digest/d20/tables/dt20_311.15.asp), Washington DC: National Center for Education Statistics. [Table 311.15](https://nces.ed.gov/programs/digest/d20/tables/dt20_311.15.asp).
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -78,7 +71,6 @@ US Department of Education (2020) [*Digest of Education Statistics 2020*](https:
 > For my feedback on these questions click the podcast below:
 >
 
-<!-- grav: [exercise title="Interactive Activity"] -->
 > [!TIP]
 > **Interactive Activity**
 >

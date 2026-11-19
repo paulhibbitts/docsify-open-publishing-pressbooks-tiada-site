@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/02.section-2/07.17-from-the-periphery-to-the-center-how-technology/section-page.md"}
-title: "1.7 From the periphery to the center: how technology is changing the way we teach"
--->
-
-<!-- grav:gen -->
 # 1.7 From the periphery to the center: how technology is changing the way we teach
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/09/2030-classroom.png" alt="">
@@ -90,7 +84,6 @@ Johnson, N. (2020) *[Tracking Online Education in Canadian Universities and Coll
 
 University of Ottawa (2013) [*Report of the e-Learning Working Group*](https://www.uottawa.ca/vice-president-academic/sites/www.uottawa.ca.vice-president-academic/files/e-learning-working-group-report.pdf) Ottawa ON: University of Ottawa: see also [*Report on the Blended Learning Initiative (2016)*](https://tlss.uottawa.ca/site/files/docs/TLSS/blended-report/Rapport_Initiative_Hybride_English.pdf), which reports on progress in implementing the plan
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >

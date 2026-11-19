@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/02.section-2/04.14-change-and-continuity/section-page.md"}
-title: "1.4 Change and continuity"
--->
-
-<!-- grav:gen -->
 # 1.4 Change and continuity
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/09/Harvard-scaled-1.jpg" alt="Figure i. Harvard University">

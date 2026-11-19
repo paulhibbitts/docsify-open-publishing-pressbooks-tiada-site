@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/08.section-8/07.78-understanding-the-foundations-of-educational-me/section-page.md"}
-title: "7.8 Understanding the foundations of educational media"
--->
-
-<!-- grav:gen -->
 # 7.8 Understanding the foundations of educational media
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/12/Dogs-heart-model-2.jpg" alt="">

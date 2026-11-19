@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/17.section-17/04.t-teaching-and-other-pedagogical-factors/section-page.md"}
-title: "T: Teaching and other pedagogical factors"
--->
-
-<!-- grav:gen -->
 # T: Teaching and other pedagogical factors
-<!-- /grav:gen -->
 
 22\. What are the desired learning outcomes from the teaching in terms of content and skills?
 

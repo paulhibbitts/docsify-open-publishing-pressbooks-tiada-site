@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/11.section-11/04.104-cost/section-page.md"}
-title: "10.4 Cost"
--->
-
-<!-- grav:gen -->
 # 10.4 Cost
-<!-- /grav:gen -->
 
 [![Figure 8.4.1 Total cost of a fully online masters' course over 7 years (from Bates and Sangrà, 2011)](https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/01/MET-costs-2.jpg)
 ](http://opentextbc.ca/teachinginadigitalage/wp-content/uploads/sites/29/2015/03/MET-costs-2.jpg)

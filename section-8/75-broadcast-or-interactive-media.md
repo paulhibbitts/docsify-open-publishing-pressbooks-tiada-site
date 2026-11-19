@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/08.section-8/05.75-broadcast-or-interactive-media/section-page.md"}
-title: "7.5 Broadcast or interactive media?"
--->
-
-<!-- grav:gen -->
 # 7.5 Broadcast or interactive media?
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/12/Broadcast-or-interactive.png" alt="">

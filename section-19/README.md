@@ -1,12 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/19.section-19/section.md"}
-title: "Appendix 3: Independent reviews"
-section_label: ""
-numbered: false
--->
-
-<!-- grav:gen -->
 # Appendix 3: Independent reviews
-<!-- /grav:gen -->
 
 ## The independent review process
 

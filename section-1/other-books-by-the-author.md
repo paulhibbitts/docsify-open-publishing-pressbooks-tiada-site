@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/01.section-1/06.other-books-by-the-author/section-page.md"}
-title: "Other books by the author"
--->
-
-<!-- grav:gen -->
 # Other books by the author
-<!-- /grav:gen -->
 
 Bates, T. and Robinson, J. (eds.) (1977) *Evaluating Educational Television and Radio* Milton Keynes UK: The Open University Press
 

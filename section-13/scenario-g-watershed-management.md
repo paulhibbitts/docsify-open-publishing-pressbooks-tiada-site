@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/13.section-13/01.scenario-g-watershed-management/section-page.md"}
-title: "Scenario G: Watershed management"
--->
-
-<!-- grav:gen -->
 # Scenario G: Watershed management
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/03/Hart-River-2.jpg" alt="Figure 10.1 The Hart River, Yukon. Image: © www.protectpeel.ca, CC BY-NC">

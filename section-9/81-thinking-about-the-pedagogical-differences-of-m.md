@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/09.section-9/01.81-thinking-about-the-pedagogical-differences-of-m/section-page.md"}
-title: "8.1 Thinking about the pedagogical differences of media"
--->
-
-<!-- grav:gen -->
 # 8.1 Thinking about the pedagogical differences of media
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/03/Caesium-in-water-copy-2-1024x578.jpg" alt="Figure 9. Is slow motion a unique characteristic of video? Image: Poring mercury into liquid nitrogen: University of Nottingham Image:">
@@ -130,7 +124,6 @@ Schramm, W. (1977) [*Big Media, Little Media*](https://www.abebooks.co.uk/book-s
 
 Trenaman, J. (1967) [*Communication and Comprehension*](https://www.amazon.com/Communication-comprehension-J-M-Trenaman/dp/B0000CNO5B) London: Longmans
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >

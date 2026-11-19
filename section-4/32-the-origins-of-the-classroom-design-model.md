@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/04.section-4/03.32-the-origins-of-the-classroom-design-model/section-page.md"}
-title: "3.2 The origins of the classroom design model"
--->
-
-<!-- grav:gen -->
 # 3.2 The origins of the classroom design model
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/09/Classroom-old-2.jpg" alt="Figure 3.2 Miss Bowls&#039;s class in an unidentified girls&#039; school Date: circa 1905 Image: Southall Board, Flickr">
@@ -35,7 +29,6 @@ Fukuyama, F. (2011) [*The Origins of Political Order: From Prehuman Times to the
 
 Fukuyama, F. (2014) [*Political Order and Political Decay: From the Industrial Revolution to the Globalisation of Democracy*](https://www.amazon.ca/Political-Order-Decay-Industrial-Globalization/dp/1491584874) New York: Farrar Strauss and Giroux
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >

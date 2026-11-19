@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/14.section-14/01.131-what-do-we-mean-by-quality-when-teaching-in-a/section-page.md"}
-title: "13.1 What do we mean by quality when teaching in a digital age?"
--->
-
-<!-- grav:gen -->
 # 13.1 What do we mean by quality when teaching in a digital age?
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/02/Quality-2-1024x611.jpg" alt="Figure 11.1 What do we mean by quality? Image: © Wikipedia Commons">
@@ -157,7 +151,6 @@ Clarke-Okah, W. and Daniel, J. (2010) *[The Commonwealth of Learning: Review and
 
 Jung, I. and Latchem, C. (2012) [Quality Assurance and Accreditation in Distance Education and e-Learning ](http://www.routledge.com/books/details/9780415887359/)New York/London: Routledge
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >

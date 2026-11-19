@@ -1,12 +1,5 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/14.section-14/section.md"}
-title: "Chapter 13: Ensuring quality teaching in a digital age"
--->
-
-<!-- grav:gen -->
 # Chapter 13: Ensuring quality teaching in a digital age
-<!-- /grav:gen -->
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >

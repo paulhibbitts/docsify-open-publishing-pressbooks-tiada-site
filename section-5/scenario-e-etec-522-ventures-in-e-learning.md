@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/05.section-5/09.scenario-e-etec-522-ventures-in-e-learning/section-page.md"}
-title: "Scenario E: ETEC 522: Ventures in e-Learning"
--->
-
-<!-- grav:gen -->
 # Scenario E: ETEC 522: Ventures in e-Learning
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/12/Students-in-bar.png" alt="">

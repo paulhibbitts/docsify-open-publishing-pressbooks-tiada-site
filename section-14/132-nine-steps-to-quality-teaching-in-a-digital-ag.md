@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/14.section-14/02.132-nine-steps-to-quality-teaching-in-a-digital-ag/section-page.md"}
-title: "13.2 Nine steps to quality teaching in a digital age"
--->
-
-<!-- grav:gen -->
 # 13.2 Nine steps to quality teaching in a digital age
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/02/Dovedale-scaled-1.jpg" alt="">

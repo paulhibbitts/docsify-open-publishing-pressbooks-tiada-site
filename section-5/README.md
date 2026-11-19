@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/05.section-5/section.md"}
-title: "Chapter 4: Methods of teaching with an online focus"
--->
-
-<!-- grav:gen -->
 # Chapter 4: Methods of teaching with an online focus
-<!-- /grav:gen -->
 
 ### Purpose of the chapter
 

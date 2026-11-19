@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/13.section-13/06.125-the-implications-of-open-for-course-and-progra/section-page.md"}
-title: "12.5 The implications of ‘open’ for course and program design: towards a paradigm shift?"
--->
-
-<!-- grav:gen -->
 # 12.5 The implications of ‘open’ for course and program design: towards a paradigm shift?
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2019/09/Beach-open.jpg" alt="10.10.1 Open and free Image: © Tony Bates 2015 CC BY-NC">
@@ -149,7 +143,6 @@ Gallagher, C. (2019) *[Integrative Learning for a Divided World](https://jhupboo
 
 Large, L. (2015) Rebundling College [*Inside Higher Ed*](https://www.insidehighered.com/views/2015/04/07/essay-calls-rebundling-college-and-its-functions), April 7
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >

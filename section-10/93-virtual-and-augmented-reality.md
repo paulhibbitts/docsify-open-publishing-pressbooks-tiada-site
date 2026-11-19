@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/10.section-10/03.93-virtual-and-augmented-reality/section-page.md"}
-title: "9.3 Virtual and augmented reality"
--->
-
-<!-- grav:gen -->
 # 9.3 Virtual and augmented reality
-<!-- /grav:gen -->
 
 [![Virtual reality of human anatomy](https://pressbooks.bccampus.ca/teachinginadigitalagev3/wp-content/uploads/sites/1475/2019/09/Virtual-Reality-of-Human-Anatomy-2.jpg)
 ](https://www.youtube.com/watch?v=CbynyhJ2PI0&ab_channel=VRTree)
@@ -154,7 +148,6 @@ Rolfson, E. (2019) [People think and behave differently in virtual reality than 
 
 Seidel, R. and Chatelier, P. (1997) [*Virtual Reality, Training’s Future?: Perspectives on Virtual Reality and Related Emerging Technologies*](https://link.springer.com/book/10.1007%2F978-1-4899-0038-8) Berlin: Springer Science & Business Media
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >

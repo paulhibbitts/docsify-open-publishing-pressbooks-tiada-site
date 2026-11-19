@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/17.section-17/06.o-organisational-issues/section-page.md"}
-title: "O: Organisational issues"
--->
-
-<!-- grav:gen -->
 # O: Organisational issues
-<!-- /grav:gen -->
 
 32\. How much and what kind of help can I get from the institution in choosing and using media for teaching? Is help easily accessible? How good is the help? Do they have the media professionalism I will need? Are they up to date in the use of new technologies for teaching?
 

@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/05.section-5/08.47-agile-design-flexible-designs-for-learning/section-page.md"}
-title: "4.7 ‘Agile’ Design: flexible designs for learning"
--->
-
-<!-- grav:gen -->
 # 4.7 ‘Agile’ Design: flexible designs for learning
-<!-- /grav:gen -->
 
 [![Figure 6.16 A volatile, uncertain, complex and ambiguous world Image: © Carol Mase, Free Management Library, 2011, used with permission](https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/09/VUCA-2.jpg)
 ](http://opentextbc.ca/teachinginadigitalage/wp-content/uploads/sites/29/2014/11/VUCA-2.jpg)

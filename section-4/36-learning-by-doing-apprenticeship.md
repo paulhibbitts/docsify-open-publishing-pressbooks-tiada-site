@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/04.section-4/07.36-learning-by-doing-apprenticeship/section-page.md"}
-title: "3.6 Learning by doing: Apprenticeship"
--->
-
-<!-- grav:gen -->
 # 3.6 Learning by doing: Apprenticeship
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/09/apprentices-2.jpg" alt="Figure 2.6 BMW Group UK Apprentice Recruitment, 2013 Image: © Motoring Insight, 2013">

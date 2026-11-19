@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/11.section-11/section.md"}
-title: "Chapter 10: Choosing and using media in education"
--->
-
-<!-- grav:gen -->
 # Chapter 10: Choosing and using media in education
-<!-- /grav:gen -->
 
 ### Purpose of the chapter
 

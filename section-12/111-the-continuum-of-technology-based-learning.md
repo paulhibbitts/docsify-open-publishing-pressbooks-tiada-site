@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/12.section-12/01.111-the-continuum-of-technology-based-learning/section-page.md"}
-title: "11.1 The continuum of technology-based learning"
--->
-
-<!-- grav:gen -->
 # 11.1 The continuum of technology-based learning
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/01/99B-2.jpg" alt="Figure 10.1 Why get on the bus when you can study online?">

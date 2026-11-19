@@ -1,12 +1,5 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/10.section-10/section.md"}
-title: "Chapter 9: Emerging technologies"
--->
-
-<!-- grav:gen -->
 # Chapter 9: Emerging technologies
-<!-- /grav:gen -->
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -35,7 +28,6 @@ Also in this chapter you will find the following activities:
 - Activity 9.4 Assessing artificial intelligence
 - Activity 9.5 Assessing and developing applications of emerging technologies
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >

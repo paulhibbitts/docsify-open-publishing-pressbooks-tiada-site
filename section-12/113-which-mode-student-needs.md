@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/12.section-12/03.113-which-mode-student-needs/section-page.md"}
-title: "11.3 Which mode? Student needs"
--->
-
-<!-- grav:gen -->
 # 11.3 Which mode? Student needs
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/02/Students-in-small-group-online-2.jpg" alt="Figure 10.4 Who are your students?">

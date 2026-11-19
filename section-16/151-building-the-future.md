@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/16.section-16/01.151-building-the-future/section-page.md"}
-title: "15.1 Building the future"
--->
-
-<!-- grav:gen -->
 # 15.1 Building the future
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/09/VUCA-2.jpg" alt="Figure 6.16 A volatile, uncertain, complex and ambiguous world Image: © Carol Mase, Free Management Library, 2011, used with permission">

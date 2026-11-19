@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/06.section-6/05.55-political-social-and-economic-drivers-of-moocs/section-page.md"}
-title: "5.5 Political, social and economic drivers of MOOCs"
--->
-
-<!-- grav:gen -->
 # 5.5 Political, social and economic drivers of MOOCs
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/11/MOOC-mania-2.jpg" alt="Figure 5.7 MOOC mania Image: © Park Ridge Underground, 2010">
@@ -109,7 +103,6 @@ For a more light-hearted look at MOOC mania see:
 
 **NOTE**: Both the two blog posts above are satirical: they are fictional!
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -120,7 +113,6 @@ For a more light-hearted look at MOOC mania see:
 > Once again, my views should carry no more weight than yours on these questions, as they are value rather than fact based, but here are my thoughts, for what they are worth:
 >
 
-<!-- grav: [exercise title="Interactive Activity"] -->
 > [!TIP]
 > **Interactive Activity**
 >

@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/04.section-4/04.33-transmissive-lectures-learning-by-listening/section-page.md"}
-title: "3.3 Transmissive lectures: learning by listening"
--->
-
-<!-- grav:gen -->
 # 3.3 Transmissive lectures: learning by listening
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/09/Lecture-theatre-2.jpg" alt="">

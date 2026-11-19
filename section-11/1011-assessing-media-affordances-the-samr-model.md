@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/11.section-11/11.1011-assessing-media-affordances-the-samr-model/section-page.md"}
-title: "10.11 Assessing media affordances: the SAMR model"
--->
-
-<!-- grav:gen -->
 # 10.11 Assessing media affordances: the SAMR model
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/12/SAMR.png" alt="">
@@ -46,13 +40,12 @@ Linderoth, J. (2013) [Open letter to Dr. Ruben Puentedura](https://web.archive.o
 
 Puentedura, R. (2014) [SAMR and Bloom’s Taxonomy: Assembling the Puzzle](https://www.commonsense.org/education/articles/samr-and-blooms-taxonomy-assembling-the-puzzle) *common sense education*, September 24
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
 > ### Activity 10.11: Assessing the SAMR model
 >
-> <!-- grav: [exercise title="Interactive Activity"] -->
+> 
 > > [!TIP]
 > > **Interactive Activity**
 > >

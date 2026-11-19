@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/12.section-12/05.115-the-future-of-the-campus/section-page.md"}
-title: "11.5 The future of the campus"
--->
-
-<!-- grav:gen -->
 # 11.5 The future of the campus
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/02/The-magic-of-the-campus-2.jpg" alt="Figure 10.5.1 The magic of the campus? Image: © Cambridge Advanced Studies Program, Cambridge University, U.K., 2015">
@@ -125,7 +119,6 @@ Steelcase Education (undated) [*Active Learning Spaces*](https://www.steelcase.c
 
 Steelcase Education (undated) [*Rethinking Space: Sparking Creativity*](https://www.steelcase.com/content/uploads/sites/10/2021/01/16-E0000213EN.pdf) Michigan: Grand Rapids
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >
@@ -140,7 +133,6 @@ Steelcase Education (undated) [*Rethinking Space: Sparking Creativity*](https://
 > There is no feedback on this activity.
 >
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >

@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/09.section-9/02.82-text/section-page.md"}
-title: "8.2 Text"
--->
-
-<!-- grav:gen -->
 # 8.2 Text
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/03/Katherine-reading-scaled-1.jpg" alt="Figure 9. There&#039;s nothing like a good book - or is there?">

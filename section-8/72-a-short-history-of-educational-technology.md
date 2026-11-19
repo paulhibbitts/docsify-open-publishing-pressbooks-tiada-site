@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/08.section-8/02.72-a-short-history-of-educational-technology/section-page.md"}
-title: "7.2 A short history of educational technology"
--->
-
-<!-- grav:gen -->
 # 7.2 A short history of educational technology
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/12/Moses-10-commandments-2.jpg" alt="Figure 6.2. Charlton Heston as Moses. Are the tablets of stone an educational technology? (See Selwood, 2014, for a discussion of the possible language of the Ten Commandments) Image: Allstar/Cinetext/Paramount">

@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/09.section-9/06.86-a-framework-for-analysing-the-pedagogical-chara/section-page.md"}
-title: "8.6 A framework for analysing the pedagogical characteristics of educational media"
--->
-
-<!-- grav:gen -->
 # 8.6 A framework for analysing the pedagogical characteristics of educational media
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2014/12/Media-analysis.png" alt="">
@@ -37,7 +31,6 @@ Bates, A. (2011) Understanding Web 2.0 and its implications for e-learning, in L
 
 ## Key takeaways
 
-<!-- grav: [announcement] -->
 > [!IMPORTANT]
 > **Announcement**
 >

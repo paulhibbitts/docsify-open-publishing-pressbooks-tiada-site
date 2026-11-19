@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/17.section-17/01.s-who-are-your-students/section-page.md"}
-title: "S: Who are your students?"
--->
-
-<!-- grav:gen -->
 # S: Who are your students?
-<!-- /grav:gen -->
 
 1\. What is the mandate or policy of your institution, department or program with respect to access? How will students who do not have access to a chosen technology be supported?
 

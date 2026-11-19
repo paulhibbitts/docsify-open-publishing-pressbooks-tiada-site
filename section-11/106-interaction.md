@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/11.section-11/06.106-interaction/section-page.md"}
-title: "10.6 Interaction"
--->
-
-<!-- grav:gen -->
 # 10.6 Interaction
-<!-- /grav:gen -->
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/01/Online-student-2.jpg" alt="Figure 9.6.1 Computers enable &#039;inherent&#039; interaction">

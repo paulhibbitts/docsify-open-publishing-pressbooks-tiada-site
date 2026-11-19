@@ -1,10 +1,4 @@
-<!-- grav: {"file":"10.teaching-in-a-2026/17.section-17/08.s-security-and-privacy/section-page.md"}
-title: "S: Security and privacy"
--->
-
-<!-- grav:gen -->
 # S: Security and privacy
-<!-- /grav:gen -->
 
 37\. What student information am I obliged to keep private and secure? What are my institution’s policies on this?
 
