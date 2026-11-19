@@ -59,7 +59,7 @@ It is possible of course that there is nothing pedagogically unique about face-t
 
 In the meantime, a method for determining which mode of delivery (face-to-face, blended or online) will be discussed in the next sections.
 
-## **References**
+## References
 
 Allen, I, and Seaman, J. (2012)[*Conflicted: Faculty and Online Education*](https://www.bayviewanalytics.com/reports/conflicted.pdf), Babson Survey Research Group
 

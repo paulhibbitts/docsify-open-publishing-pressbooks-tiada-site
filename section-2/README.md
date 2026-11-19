@@ -10,7 +10,7 @@ When you have read this chapter you should be able to:
 - discuss the extent to which contemporary developments require changes in how we teach and how students learn
 - understand the implications for digital learning of Covid-19 and emergency remote learning.
 
-## **What is covered in this chapter**
+## What is covered in this chapter
 
 In this chapter, I will be discussing the pressures that are mounting on educational institutions to change, particularly with regard to the way they deliver one of their core activities, teaching. I will be arguing that although our institutions will need to change if they are to survive, it is important to maintain and strengthen their core values. Thus it’s not a question of throwing out everything and starting afresh, but managing that change in such a way that the core values are protected.
 

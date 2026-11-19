@@ -29,7 +29,7 @@ One way knowledge is certainly changing is in the way it is represented. It shou
 
 Now we have other ways to record and transmit knowledge that can be studied and reflected upon, such as video, audio, animations, and graphics, and the Internet does expand enormously the speed and range by which these representations of knowledge can be transmitted. We shall also see in Chapter 8 and Chapter 9 that media are not neutral, but represent meaning in different ways.
 
-## **2.7.2 Knowledge as a commodity**
+## 2.7.2 Knowledge as a commodity
 
 All the above authors agree that the ‘new’ knowledge in the knowledge society is about the commercialisation or commodification of knowledge: ‘it is defined not through what it is, but through what it can do.’ (Gilbert, p.35). ‘The capacity to own, buy and sell knowledge has contributed, in major ways, to the development of the new, knowledge-based societies.’ (p.39)
 
@@ -60,7 +60,7 @@ If academic knowledge requires mediation, then this has major significance for t
 
 Laurillard’s reflections on the nature of academic knowledge are a counter-balance to the view that students can automatically construct knowledge through argument and discussion with their peers, or self-directed study, or the wisdom of the crowd. For academic knowledge, the role of the teacher is to help students understand not just the facts or concepts in a subject discipline, but the rules and conventions for acquiring and validating knowledge within that subject discipline. Academic knowledge shares common values or criteria, making academic knowledge itself a particular epistemological approach.
 
-## **2.7.4 Academic versus applied knowledge**
+## 2.7.4 Academic versus applied knowledge
 
 In a knowledge-based society, knowledge that leads to innovation and commercial activity is now recognised as critical to economic development. Again, there is a tendency to argue that this kind of knowledge – ‘commercial’ knowledge – is different from academic knowledge. I would argue that sometimes it is and sometimes it isn’t.
 
@@ -91,7 +91,7 @@ To do this learners must have access to appropriate and relevant content, know h
 
 Also, the importance of non-academic knowledge in the growth of knowledge-based industries should not be ignored. These other forms of knowledge have proved just as valuable. For instance it is important within a company to manage the every-day knowledge of employees through better internal communication, encouraging external networking, and rewards for collaboration and participation in improving products and services.
 
-## **2.7.5 The relevance of academic knowledge in the knowledge society**
+## 2.7.5 The relevance of academic knowledge in the knowledge society
 
 An over-emphasis on the functionality of knowledge will result in ‘academic knowledge’ being implicitly seen as irrelevant to the knowledge society. However, it has been the explosion in academic knowledge that has formed the basis of the knowledge society. It was academic development in sciences, medicine and engineering that led to the development of the Internet, biotechnology, digital financial services, computer software and telecommunications, for example. Indeed, it is no coincidence that those countries most advanced in knowledge-based industries were those that have the highest participation rates in university education.
 

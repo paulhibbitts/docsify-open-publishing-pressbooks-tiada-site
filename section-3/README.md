@@ -14,7 +14,7 @@ After reading this chapter you should be able to:
 - integrate these ideas into a personal strategy or philosophy for the teaching of your subject;
 - decide on whether or not to change your overall approach to teaching in the light of the issues raised in this chapter.
 
-## **What is covered in this chapter**
+## What is covered in this chapter
 
 In this chapter, I will be discussing different beliefs about the nature of knowledge, and how that influences teaching and learning. In particular, this chapter covers the following topics:
 

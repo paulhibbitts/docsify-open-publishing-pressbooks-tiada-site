@@ -11,7 +11,7 @@ When you have read this chapter you should be able to:
 - identify the extent to which each approach meets the needs of learners in a digital age;
 - choose an appropriate teaching method (or mix of methods) for your teaching context.
 
-## **What is covered in this chapter**
+## What is covered in this chapter
 
 Five perspectives on teaching are examined and related to epistemologies and theories of learning, with a particular emphasis on their relevance to a digital age. In particular this chapter covers the following topics:
 
