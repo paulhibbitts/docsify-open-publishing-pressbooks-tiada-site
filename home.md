@@ -54,7 +54,7 @@ The book examines the underlying principles that guide effective teaching in an 
 
 <div class="card">
 
-<h2><a href="#/section-1/scenario-a-1-a-university-professor-addresses-chan">Front Matter</a></h2>
+## [Front Matter](section-1/scenario-a-1-a-university-professor-addresses-chan.md) <!-- {docsify-ignore} -->
 
 Accessibility, about, preface, and acknowledgements.
 
@@ -62,121 +62,121 @@ Accessibility, about, preface, and acknowledgements.
 
 <div class="card">
 
-<h2><a href="#/section-2/README">Chapter 1: Fundamental Change in Education</a></h2>
+## [Chapter 1: Fundamental Change in Education](section-2/README.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-<h2><a href="#/section-3/README">Chapter 2: The nature of knowledge and the implications for teaching</a></h2>
+## [Chapter 2: The nature of knowledge and the implications for teaching](section-3/README.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-<h2><a href="#/section-4/README">Chapter 3: Methods of teaching: campus-focused</a></h2>
+## [Chapter 3: Methods of teaching: campus-focused](section-4/README.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-<h2><a href="#/section-5/README">Chapter 4: Methods of teaching with an online focus</a></h2>
+## [Chapter 4: Methods of teaching with an online focus](section-5/README.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-<h2><a href="#/section-6/README">Chapter 5: MOOCs</a></h2>
+## [Chapter 5: MOOCs](section-6/README.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-<h2><a href="#/section-7/README">Chapter 6: Building an effective learning environment</a></h2>
+## [Chapter 6: Building an effective learning environment](section-7/README.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-<h2><a href="#/section-8/README">Chapter 7: Understanding technology in education</a></h2>
+## [Chapter 7: Understanding technology in education](section-8/README.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-<h2><a href="#/section-9/README">Chapter 8: Pedagogical differences between media</a></h2>
+## [Chapter 8: Pedagogical differences between media](section-9/README.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-<h2><a href="#/section-10/README">Chapter 9: Emerging technologies</a></h2>
+## [Chapter 9: Emerging technologies](section-10/README.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-<h2><a href="#/section-11/README">Chapter 10: Choosing and using media in education</a></h2>
+## [Chapter 10: Choosing and using media in education](section-11/README.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-<h2><a href="#/section-12/README">Chapter 11: Modes of delivery</a></h2>
+## [Chapter 11: Modes of delivery](section-12/README.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-<h2><a href="#/section-13/README">Chapter 12: Trends in open education</a></h2>
+## [Chapter 12: Trends in open education](section-13/README.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-<h2><a href="#/section-14/README">Chapter 13: Ensuring quality teaching in a digital age</a></h2>
+## [Chapter 13: Ensuring quality teaching in a digital age](section-14/README.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-<h2><a href="#/section-15/README">Chapter 14: Supporting teachers and instructors in a digital age</a></h2>
+## [Chapter 14: Supporting teachers and instructors in a digital age](section-15/README.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-<h2><a href="#/section-16/README">15. The book in a nutshell</a></h2>
+## [15. The book in a nutshell](section-16/README.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-<h2><a href="#/section-17/README">Appendix 1: Questions to guide media selection and use</a></h2>
+## [Appendix 1: Questions to guide media selection and use](section-17/README.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-<h2><a href="#/section-18/README">Appendix 2 Online learning quality standards, organisations and research</a></h2>
+## [Appendix 2 Online learning quality standards, organisations and research](section-18/README.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-<h2><a href="#/section-19/README">Appendix 3: Independent reviews</a></h2>
+## [Appendix 3: Independent reviews](section-19/README.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-<h2><a href="#/section-20/appendix-4-feedback-on-activity-19-main-conclusion">Appendix 4: Feedback on Activities</a></h2>
+## [Appendix 4: Feedback on Activities](section-20/appendix-4-feedback-on-activity-19-main-conclusion.md) <!-- {docsify-ignore} -->
 
 </div>
 
 <div class="card">
 
-<h2><a href="#/section-21/bibliography">Back Matter</a></h2>
+## [Back Matter](section-21/bibliography.md) <!-- {docsify-ignore} -->
 
 Appendices, bibliography, and versioning history.
 
