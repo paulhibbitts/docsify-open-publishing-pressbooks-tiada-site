@@ -22,9 +22,9 @@ In this chapter, I will be discussing different beliefs about the nature of know
 - [2.1: Art, theory, research, and best practices in teaching](section-3/21-art-theory-research-and-best-practices-in-teach.md)
 - [2.2 Epistemology and theories of learning](section-3/22-epistemology-and-theories-of-learning.md)
 - [2.3 Objectivism and behaviourism](section-3/23-objectivism-and-behaviourism.md)
-- 2.4 Cognitivism
+- [2.4 Cognitivism](section-3/24-cognitivism.md)
 - [2.5 Constructivism](section-3/25-constructivism.md)
-- 2.6 Connectivism
+- [2.6 Connectivism](section-3/26-connectivism.md)
 - [2.7 Is the nature of knowledge changing?](section-3/27-is-the-nature-of-knowledge-changing.md)
 - [2.8 Summary](section-3/28-summary.md)
 
@@ -33,9 +33,9 @@ Also in this chapter you will find the following activities:
 - [Activity 2.1 What do you think makes a good teacher?](section-3/21-art-theory-research-and-best-practices-in-teach.md)
 - [Activity 2.2 Epistemologies at a dinner party](section-3/22-epistemology-and-theories-of-learning.md)
 - [Activity 2.3 Defining the limits of behaviourism](section-3/23-objectivism-and-behaviourism.md)
-- Activity 2.4 Defining the limits of cognitivism
+- [Activity 2.4 Defining the limits of cognitivism](section-3/24-cognitivism.md)
 - [Activity 2.5 Defining the limits of constructivism](section-3/25-constructivism.md)
-- Activity 2.6 Defining the limits of connectivism
+- [Activity 2.6 Defining the limits of connectivism](section-3/26-connectivism.md)
 - [Activity 2.7 Epistemology and academic knowledge](section-3/27-is-the-nature-of-knowledge-changing.md)
 - [Activity 2.8 Choosing a theory of learning](section-3/28-summary.md)
 

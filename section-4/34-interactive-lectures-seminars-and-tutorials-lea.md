@@ -52,7 +52,7 @@ The format can vary a great deal. One common format, especially at graduate leve
 
 Tutorials are a particular kind of seminar that are identified with Ivy League universities, and in particular Oxford or Cambridge. There may be as few as two students and a professor in a tutorial and the meeting often follows closely the Socratic method of the student presenting his or her findings and the professor rigorously questioning every assumption made by the student – and also drawing in the other student to the discussion.
 
-Both these forms of dialogical learning can be found not only in classroom contexts, but also online. Online discussion will be discussed in more detail in Chapter 4, Section 4. However, in general, the pedagogical similarities between online and face-to-face discussions are much greater than the differences.
+Both these forms of dialogical learning can be found not only in classroom contexts, but also online. Online discussion will be discussed in more detail in [Chapter 4, Section 4](section-5/44-online-collaborative-learning.md). However, in general, the pedagogical similarities between online and face-to-face discussions are much greater than the differences.
 
 ## 3.4.3 Are seminars a practical method in a massive education system?
 

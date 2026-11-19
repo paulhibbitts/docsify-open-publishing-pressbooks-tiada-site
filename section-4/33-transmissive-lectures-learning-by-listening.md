@@ -11,7 +11,7 @@
 
 Bligh, 2000
 
-This specific definition is important as it excludes contexts where a lecture is deliberately designed to be interrupted by questions or discussion between instructors and students. This form of more interactive lecturing will be discussed in the next section (Chapter 3, Section 4).
+This specific definition is important as it excludes contexts where a lecture is deliberately designed to be interrupted by questions or discussion between instructors and students. This form of more interactive lecturing will be discussed in the next section ([Chapter 3, Section 4](section-4/34-interactive-lectures-seminars-and-tutorials-lea.md)).
 
 ## 3.3.2 The origins of the lecture
 
@@ -104,7 +104,7 @@ Given all of the above, some explanation needs to be offered for the persistence
 
 That depends on how far into the future one wants to look. When teachers and instructors had to go online during the pandemic, most merely moved their lectures online. Given the inertia in the system, transmissive lectures are likely still to predominate for another ten years, but after that, in most institutions, courses based on three one-hour lectures a week over 13 weeks are likely to have disappeared. There are several reasons why this may happen:
 
-- all content can be easily digitalized and made available on demand at very low cost (see Chapter 11);
+- all content can be easily digitalized and made available on demand at very low cost (see [Chapter 11](section-13/README.md));
 - institutions will be making greater use of dynamic video (not talking heads) for demonstration, simulations, animations, etc. Thus most content modules will be multi-media;
 - third, open textbooks incorporating multi-media components and student activities will provide the content, organization and interpretation that are the rationale for most lectures;
 - lastly, and most significantly, the priority for teaching will have changed from information transmission and organization to knowledge management, where students have the responsibility for finding, analyzing, evaluating, sharing and applying knowledge, under the direction of a skilled subject expert. Project-based learning, collaborative learning and situated or experiential learning will become much more widely prevalent. Also many instructors will prefer to use the time they would have spent on a series of lectures in providing more direct, individual and group learner support, thus bringing them into closer contact with learners.

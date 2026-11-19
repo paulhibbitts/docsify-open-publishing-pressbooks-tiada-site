@@ -19,11 +19,11 @@ Although xMOOCs are currently much more popular and more readily available, cMOO
 
 However, cMOOCs at present are unable to do this, because they lack organisation and do not apply what is already known about how online groups work best. Once we learn these lessons and apply them, though, cMOOCs can be a tremendous tool for tackling some of the great challenges we face in the areas of global health, climate change, civil rights, and other ‘good civil ventures’. The beauty of cMOOCs is that they every participant has the power to define and solve the problems being tackled.
 
-Scenario F that ends this chapter is an example of how cMOOCs could be used for such ‘good civil ventures.’ In Scenario F, the MOOC is not a replacement for formal education, but a rocket that needs formal education as its launch pad. Behind this MOOC are the resources of a very powerful institution, that provides the initial impetus, simple to use software, overall structure, organization and co-ordination within the MOOC, and some essential human resources for supporting the MOOC when running. At the same time, it does not have to be an educational institution. It could be a public health authority, or a broadcasting organization, or an international charity, or a consortium of organisations with a common interest. Also, of course, there is the danger that even cMOOCs could be manipulated by corporate or government interests.
+[Scenario F](section-6/scenario-f-how-to-cope-with-being-old.md) that ends this chapter is an example of how cMOOCs could be used for such ‘good civil ventures.’ In Scenario F, the MOOC is not a replacement for formal education, but a rocket that needs formal education as its launch pad. Behind this MOOC are the resources of a very powerful institution, that provides the initial impetus, simple to use software, overall structure, organization and co-ordination within the MOOC, and some essential human resources for supporting the MOOC when running. At the same time, it does not have to be an educational institution. It could be a public health authority, or a broadcasting organization, or an international charity, or a consortium of organisations with a common interest. Also, of course, there is the danger that even cMOOCs could be manipulated by corporate or government interests.
 
 ## 5.6.3 In conclusion
 
-Having said that, there is enormous scope for improvements within the public higher education system. MOOCs, open education and new media offer promising ways to bring about some much needed improvements. Scenario F is one possible way in which MOOCs could bring about much needed social change.
+Having said that, there is enormous scope for improvements within the public higher education system. MOOCs, open education and new media offer promising ways to bring about some much needed improvements. [Scenario F](section-6/scenario-f-how-to-cope-with-being-old.md) is one possible way in which MOOCs could bring about much needed social change.
 
 However, MOOCs must build on what we already know from the use of credit based online learning, from prior experience in open and distance learning, and designing courses and programs in a variety of ways appropriate to the wide range of learning needs. MOOCs can be one important part of that environment, but not a replacement for other forms of educational provision that meet different needs.
 
@@ -31,7 +31,7 @@ However, MOOCs must build on what we already know from the use of credit based o
 
 This completes the discussion about different design models for teaching and learning. The next chapter looks at the importance of building an effective learning environment in which these different design models can best operate.
 
-But first, Scenario F, which envisions what MOOCs could look like in the future.
+But first, [Scenario F](section-6/scenario-f-how-to-cope-with-being-old.md), which envisions what MOOCs could look like in the future.
 
 ### Activity 5.6: Strategising about MOOCs
 

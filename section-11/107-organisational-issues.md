@@ -13,7 +13,7 @@ One of the critical issues that will influence the selection of media by teacher
 - the instructional and technology services already in place;
 - the support for media and technology use that their institution provides.
 
-If an institution is organised around a set number of classroom periods every day, and the use of physical classrooms, the teachers are likely to focus mainly on classroom delivery. As Mackenzie was quoted in Chapter 10 Section 1:
+If an institution is organised around a set number of classroom periods every day, and the use of physical classrooms, the teachers are likely to focus mainly on classroom delivery. As Mackenzie was quoted in [Chapter 10 Section 1](section-11/101-models-for-media-selection.md):
 
 ‘*Teachers have always made the best of whatever they’ve got at hand, but it’s what we have to work with. Teachers make due*.’
 
@@ -49,7 +49,7 @@ The key point here is that although it is now possible for teachers and instruct
 
 If the answers are negative for each of these questions, you would be wise to set very modest goals initially for using media and technology.
 
-Nevertheless the good news is that it is increasingly easy to create and manage your own media such as web sites, blogs, wikis, podcasts and simple video production using a desktop computer or even a mobile phone. Furthermore students themselves are often capable and interested in participating or helping with creating learning resources, if given the chance. Getting students involved in media production is a very good way for them to get a deeper understanding of a subject. Above all, there is an increasing amount of really good educational media coming available for free use for educational purposes, as we shall see in Chapter 12, so it is not necessary always to create media from scratch.
+Nevertheless the good news is that it is increasingly easy to create and manage your own media such as web sites, blogs, wikis, podcasts and simple video production using a desktop computer or even a mobile phone. Furthermore students themselves are often capable and interested in participating or helping with creating learning resources, if given the chance. Getting students involved in media production is a very good way for them to get a deeper understanding of a subject. Above all, there is an increasing amount of really good educational media coming available for free use for educational purposes, as we shall see in [Chapter 12](section-13/README.md), so it is not necessary always to create media from scratch.
 
 Other organisational issues will be discussed in more detail in [Chapter 14](section-15/README.md) but clearly the amount of support you can get from your organisation is a key criterion in choosing and using media.
 

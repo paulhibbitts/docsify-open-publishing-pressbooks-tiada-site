@@ -9,7 +9,7 @@
 
 Determining what kind of course in terms of the mix of face-to-face and online teaching is the natural next step after considering how you want to teach a course. This topic has been dealt with extensively in [Chapter 11](section-12/README.md), so to summarise, there are four factors or variables to take into account when deciding what ‘mix’ of face-to-face and online learning will be best for your course:
 
-- your preferred teaching philosophy – how you like to teach (see Step 1)
+- your preferred teaching philosophy – how you like to teach (see [Step 1](section-14/133-step-one-decide-how-you-want-to-teach.md))
 - the needs of the students (or potential students)
 - the demands of the discipline
 - the resources available to you.
@@ -31,7 +31,7 @@ Bates, A. and Sangrà, A. (2011) [*Managing Technology in Higher Education*](htt
 >
 > ### Activity 13.4 Which mode of delivery?
 >
-> If you did not do Activities 11.2, 11.3, 11.4, go back and do them now.
+> If you did not do Activities [11.2](section-12/112-comparing-modes-of-delivery.md), [11.3](section-12/113-which-mode-student-needs.md), [11.4](section-12/114-choosing-between-face-to-face-and-online-teach.md), go back and do them now.
 >
 > If you have done these activities, review your answers in terms of deciding on the best mix of face-to-face and online teaching for your course.
 >

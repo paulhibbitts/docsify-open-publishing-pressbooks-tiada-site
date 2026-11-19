@@ -83,7 +83,7 @@ The attraction of web-based video-conferencing was two-fold:
 
 This approach though ignored more than 20 years of best practice in online learning. The results of the hasty move to synchronous video-conferencing were not pretty, but it did save the academic year, and more importantly, many lives. Also, lessons were learned. There were some advantages as well as disadvantages of synchronous video-conferencing. The sudden move to emergency remote learning also highlighted the critical importance of support units such as Centres for Teaching and Learning and specialists such as instructional designers. As a result, there was a huge increase in professional development and training in teaching.
 
-These and other lessons learned require that the third edition of this book takes into account both developments during the pandemic, and the consequences for post-pandemic teaching and learning. I have a new section (Chapter 1.8) on some of the key lessons learned, and other lessons are considered in the context of the book as a whole.
+These and other lessons learned require that the third edition of this book takes into account both developments during the pandemic, and the consequences for post-pandemic teaching and learning. I have a new section ([Chapter 1.8](section-2/18-the-impact-of-covid-19-on-teaching-and-learning.md)) on some of the key lessons learned, and other lessons are considered in the context of the book as a whole.
 
 Fortunately, and perhaps also surprisingly, though, earlier editions of the book stand up well to the lessons learned from Covid-19. In particular the overall structure and themes are still relevant, but this edition makes an effort to take the lessons from the pandemic into account.
 
@@ -185,11 +185,11 @@ The focus in these five chapters is on how to choose and use different media and
 
 [Chapter 9](section-10/README.md) examines four emerging technologies (social media, artificial intelligence, virtual/augmented reality, and serious/educational games)
 
-Chapter 10 offers a set of criteria and a model (SECTIONS) for making decisions about different media and technologies for teaching.
+[Chapter 10](section-11/README.md) offers a set of criteria and a model (SECTIONS) for making decisions about different media and technologies for teaching.
 
 [Chapter 11](section-12/README.md) addresses the question of how to determine what mode of delivery should be used: campus-based, blended or fully online.
 
-Chapter 12 examines the potentially disruptive implications of recent developments in open content, open publishing, open data and open research. This chapter above all is a messenger of the radical changes to come to education.
+[Chapter 12](section-13/README.md) examines the potentially disruptive implications of recent developments in open content, open publishing, open data and open research. This chapter above all is a messenger of the radical changes to come to education.
 
 ### Chapters 13-14: Ensuring quality in teaching in a digital age
 
@@ -201,7 +201,7 @@ These take two different but complementary approaches to the issue of ensuring h
 
 ### Chapter 15: The book in a nutshell
 
-Chapter 15 provides a brief summary of the main issues the book attempts to address
+[Chapter 15](section-16/README.md) provides a brief summary of the main issues the book attempts to address
 
 ### Appendices
 

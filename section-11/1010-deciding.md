@@ -69,7 +69,7 @@ Now you’ve read this chapter you already have a set of questions for considera
 
 Media selection does not happen in a vacuum. There are many other factors to consider when designing teaching. In particular, embedded within any decision about the use of technology in education and training will be assumptions about the learning process. We have already seen earlier in this book how different epistemological positions and theories of learning affect the design of teaching, and these influences will also determine a teacher’s or an instructor’s choice of appropriate media. Media selection is just one part of the course design process. It has to fit within the broader framework of course design.
 
-In Figure 10.10.2 below, Hibbitts and Travin’s modification of the ADDIE model (see Chapter 4, Section 3) presents the following learning and technology development model that incorporates the various stages of course design:
+In Figure 10.10.2 below, Hibbitts and Travin’s modification of the ADDIE model (see [Chapter 4, Section 3](section-5/43-the-addie-model.md)) presents the following learning and technology development model that incorporates the various stages of course design:
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/01/Hibbits-and-Travin-model-3.jpg" alt="">
@@ -91,7 +91,7 @@ All this further reinforces the inductive approach to decision making that I hav
 
  ### Activity 10.10: Choosing media and technologies
 
-1\. Choose the same course that you chose for Activity 10.1.
+1\. Choose the same course that you chose for [Activity 10.1](section-11/101-models-for-media-selection.md).
 
 2\. Go to [Appendix 1](section-17/README.md), and see how many of the questions you can answer. Use Chapter 10 to help, if necessary, including your answers to some the activities in Chapters 8 and 9.
 

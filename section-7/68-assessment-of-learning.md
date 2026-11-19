@@ -23,8 +23,8 @@ Assessment again is discussed throughout the book, but particularly in:
 
 - [Scenario C](section-4/scenario-c-a-stats-lecturer-fights-the-system.md)
 - [Chapter 5, Section 4.6](section-6/54-strengths-and-weaknesses-of-moocs.md)
-- Chapter 9.4
-- Chapter 13, Section 11.
+- [Chapter 9.4](section-10/94-artificial-intelligence.md)
+- [Chapter 13, Section 11](section-14/1311-step-nine-evaluate-and-innovate.md).
 
 However, assessment requires a section on its own. Probably nothing drives the behaviour of students more than how they will be assessed. Not all students are instrumental in their learning, but given the competing pressures on students’ time in a digital age, most ‘successful’ learners focus on what will be examined and how they can most effectively meet the assessment requirements (which for most students means in as little time as possible). Therefore decisions about methods of assessment will in most contexts be fundamental to building an effective learning environment.
 
@@ -61,7 +61,7 @@ This method is good for testing ‘objective’ knowledge of facts, ideas, princ
 
 This method is good for assessing comprehension and some of the more advanced intellectual skills, such as critical thinking, but it is labour intensive, open to subjectivity, and not good for assessing practical skills.
 
-Experiments are taking place with automated essay marking, using developments in artificial intelligence, but so far automated essay marking still struggles to identify valid semantic meaning, especially at a higher education level. For more discussion of automated essay marking, see Chapter 9.4.
+Experiments are taking place with automated essay marking, using developments in artificial intelligence, but so far automated essay marking still struggles to identify valid semantic meaning, especially at a higher education level. For more discussion of automated essay marking, see [Chapter 9.4](section-10/94-artificial-intelligence.md).
 
 ### 6.8.3.4 Peer assessment
 
@@ -105,7 +105,7 @@ These enable the practice and evaluation of skills, such as:
 <figcaption>Figure 6.8.2 Virtual world border crossing, Loyalist College, Ontario</figcaption>
 </figure>
 
- Simulations and serious or educational games (discussed more extensively in Chapter 9.2) are currently expensive to develop, but cost-effective with multiple use, where they replace the use of extremely expensive equipment, where operational activities cannot be halted for training purposes, or where available as open educational resources. Because students’ actions and decision-making are recorded, authentic assessment is embedded in the process.
+ Simulations and serious or educational games (discussed more extensively in [Chapter 9.2](section-10/92-serious-games-and-gamification.md)) are currently expensive to develop, but cost-effective with multiple use, where they replace the use of extremely expensive equipment, where operational activities cannot be halted for training purposes, or where available as open educational resources. Because students’ actions and decision-making are recorded, authentic assessment is embedded in the process.
 
 ### 6.8.3.8 Use of online proctoring
 

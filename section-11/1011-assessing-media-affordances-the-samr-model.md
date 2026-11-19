@@ -7,7 +7,7 @@
 
  ## 10.11.1 Exploiting the affordances of a medium
 
-It has been noted in several of the preceding chapters (for example, Chapter 7, Section 4 and Chapter 8, Section 4,) that video technology can be used as a straight replacement for a face-to-face lecture by merely substituting the face-to-face delivery with online delivery. The mode of delivery has changed but not the pedagogy. The full affordances of the medium of video have not been exploited.
+It has been noted in several of the preceding chapters (for example, [Chapter 7, Section 4 ](section-8/74-the-time-and-place-dimensions-of-learning.md)and [Chapter 8, Section 4,)](section-9/84-video.md) that video technology can be used as a straight replacement for a face-to-face lecture by merely substituting the face-to-face delivery with online delivery. The mode of delivery has changed but not the pedagogy. The full affordances of the medium of video have not been exploited.
 
 On the other hand, using video to show a documentary can bring powerful examples of situations to which can be applied the ideas and concepts covered in an academic course. A documentary thus has the potential to make better use of the affordances of video than recording a lecture because the learning experience from watching a documentary is different from watching a lecture; at the same time, using a documentary video will require a different approach to teaching than using a lecture and will probably have different outcomes. With the video lecture students will focus on comprehension and understanding; with the documentary the students’ focus will be on analysing and critiquing the material.
 
@@ -45,7 +45,6 @@ Puentedura, R. (2014) [SAMR and Bloom’s Taxonomy: Assembling the Puzzle](https
 >
 > ### Activity 10.11: Assessing the SAMR model
 >
-> 
 > > [!TIP]
 > > **Interactive Activity**
 > >

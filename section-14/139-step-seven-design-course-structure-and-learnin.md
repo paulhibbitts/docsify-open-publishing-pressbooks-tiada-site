@@ -91,7 +91,7 @@ This decision should also be influenced by the type of students you are teaching
 
 My preference is for a strong structure for fully online teaching, so students are clear about what they are expected to do, and when it has to be done by, even at graduate level. The difference is that with post-graduates, I will give them more choices of what to study, and longer periods to complete more complex assignments, but I will still define clearly the desired learning outcomes in terms of skill development in particular, such as research skills or analytical thinking, and provide clear deadlines for student work, otherwise I find my workload increases dramatically.
 
-[ETEC 522](https://met.ubc.ca/courses/etec-522/) at the University of British Columbia is a loosely structured graduate course, in that students organize their own work around the course themes. The course design changes every year because the course deals with a fast-changing study domain (the potential of new technologies for education), an example of agile design.
+[ETEC 522](https://met.ubc.ca/courses/etec-522/) at the University of British Columbia is a loosely structured graduate course, in that students organize their own work around the course themes. The course design changes every year because the course deals with a fast-changing study domain (the potential of new technologies for education), an example of [agile design](section-5/47-agile-design-flexible-designs-for-learning.md).
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2022/08/ETEC-522-2011-2.jpg" alt="Figure 11.9.5 The University of British Columbia&#039;s ETEC 522">
@@ -161,7 +161,7 @@ There are many other ways to ensure an appropriate structure for an online cours
 
 The History instructor in [Scenario D](section-5/scenario-d-developing-historical-thinking.md) kept a normal three lectures a week structure for the first three weeks, then students worked entirely online in small groups on a major project for five weeks, then returned to class for one three-hour session a week for five weeks for students to report back on and discuss their projects as a whole class group.
 
-We saw that in competency-based learning, students can work at their own speed through highly structured courses academically, in terms of topic sequences and learner activities, that nevertheless have flexibility in the time students can take to successfully complete a competency.
+We saw that in [competency-based learning,](section-5/45-competency-based-learning.md) students can work at their own speed through highly structured courses academically, in terms of topic sequences and learner activities, that nevertheless have flexibility in the time students can take to successfully complete a competency.
 
 The [Integrated Science Program](https://science.mcmaster.ca/sis/undergraduate/isci.html) at McMaster University is built around 6-10 week undergraduate research projects.
 

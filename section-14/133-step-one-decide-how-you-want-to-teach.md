@@ -37,7 +37,7 @@ Using technology or moving part or all of your course online opens up a range of
 
 Thus if you are thinking about a new course, or redesigning one that you are not too happy with, take the opportunity before you start teaching the course or program to think about how you’d really like to be teaching, and whether this can be accommodated in a different learning environment. It’s not a decision you have to make immediately though. As you work through the nine steps, it will become easier to make this decision. The important point is to be open to doing things differently.
 
-[Chapter 4](section-5/README.md) and Chapters [11](section-12/README.md) and 12 suggest a variety of approaches to teaching that might fit with the answers to some of these questions.
+[Chapter 4](section-5/README.md) and Chapters [11](section-12/README.md) and [12](section-13/README.md) suggest a variety of approaches to teaching that might fit with the answers to some of these questions.
 
 ## 13.3.4 What NOT to do
 

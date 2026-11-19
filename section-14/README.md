@@ -21,33 +21,33 @@
 
  ## What is covered in this chapter
 
-- 13.1 What do we mean by quality when teaching in a digital age?
-- 13.2 Nine steps to quality teaching in a digital age
-- 13.3 Step One: Decide how you want to teach
-- 13.4 Step two: what kind of course or program?
-- 13.5 Step three: work in a team
-- 13.6 Step four: build on existing resources
-- 13.7 Step five: master the technology
-- 13.8 Step six: set appropriate learning goals
-- 13.9 Step seven: design course structure and learning activities
-- 13.10 Step eight: communicate, communicate, communicate
-- 13.11 Step nine: evaluate and innovate
-- 13.12 Building a strong foundation of course design
+- [13.1 What do we mean by quality when teaching in a digital age?](section-14/131-what-do-we-mean-by-quality-when-teaching-in-a.md)
+- [13.2 Nine steps to quality teaching in a digital age](section-14/132-nine-steps-to-quality-teaching-in-a-digital-ag.md)
+- [13.3 Step One: Decide how you want to teach](section-14/133-step-one-decide-how-you-want-to-teach.md)
+- [13.4 Step two: what kind of course or program?](section-14/134-step-two-what-kind-of-course-or-program.md)
+- [13.5 Step three: work in a team](section-14/135-step-three-work-in-a-team.md)
+- [13.6 Step four: build on existing resources](section-14/136-step-four-build-on-existing-resources.md)
+- [13.7 Step five: master the technology](section-14/137-step-five-master-the-technology.md)
+- [13.8 Step six: set appropriate learning goals](section-14/138-step-six-set-appropriate-learning-goals.md)
+- [13.9 Step seven: design course structure and learning activities](section-14/139-step-seven-design-course-structure-and-learnin.md)
+- [13.10 Step eight: communicate, communicate, communicate](section-14/1310-step-eight-communicate-communicate-communicat.md)
+- [13.11 Step nine: evaluate and innovate](section-14/1311-step-nine-evaluate-and-innovate.md)
+- [13.12 Building a strong foundation of course design](section-14/1312-building-a-strong-foundation-of-course-design.md)
 
 Also in this chapter you will find the following activities:
 
-- Activity 13.1 Assessing quality in teaching and learning
+- [Activity 13.1 Assessing quality in teaching and learning](section-14/131-what-do-we-mean-by-quality-when-teaching-in-a.md)
 - Activity 13.2 There is no activity for this section
-- Activity 13.3 Re-thinking your teaching
-- Activity 13.4 Which mode of delivery?
+- [Activity 13.3 Re-thinking your teaching](section-14/133-step-one-decide-how-you-want-to-teach.md)
+- [Activity 13.4 Which mode of delivery?](section-14/134-step-two-what-kind-of-course-or-program.md)
 - Activity 13. 5 There is no activity for this section
-- Activity 13.6 Building on existing resources
-- Activity 13.7 Mastering the technology
-- Activity 13.8 Setting learning goals
-- Activity 13.9 Structuring your course or program
-- Activity 13.10 Communicating with your students
-- Activity 13.11 Evaluating your course or program
-- Activity 13.12 Develop a future scenario for your teaching
+- [Activity 13.6 Building on existing resources](section-14/136-step-four-build-on-existing-resources.md)
+- [Activity 13.7 Mastering the technology](section-14/137-step-five-master-the-technology.md)
+- [Activity 13.8 Setting learning goals](section-14/138-step-six-set-appropriate-learning-goals.md)
+- [Activity 13.9 Structuring your course or program](section-14/139-step-seven-design-course-structure-and-learnin.md)
+- [Activity 13.10 Communicating with your students](section-14/1310-step-eight-communicate-communicate-communicat.md)
+- [Activity 13.11 Evaluating your course or program](section-14/1311-step-nine-evaluate-and-innovate.md)
+- [Activity 13.12 Develop a future scenario for your teaching](section-16/151-building-the-future.md)
 
 ### Key Takeaways
 

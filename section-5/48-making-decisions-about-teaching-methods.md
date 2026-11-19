@@ -7,7 +7,7 @@
 
  ## 4.8.1 Choosing a method
 
-Chapters 3 and 4 cover a range of different teaching methods and design models. There are many more that could have been included. I will be discussing open pedagogy in Chapter 11, Section 4. MOOCs are also a notable omission. However, the design models behind MOOCs require a full chapter of their own ([Chapter 5](section-6/README.md).)
+Chapters 3 and 4 cover a range of different teaching methods and design models. There are many more that could have been included. I will be discussing open pedagogy in [Chapter 11, Section 4](section-13/124-open-pedagogy.md). MOOCs are also a notable omission. However, the design models behind MOOCs require a full chapter of their own ([Chapter 5](section-6/README.md).)
 
 Your choice of teaching method and the design of the teaching within that method will depend very much on the context in which you are teaching. However, a key criterion should be the suitability of the method and/or design model for developing the knowledge and skills that learners will need in a digital age. Other critical factors will be the demands of the subject domain, characteristics of the learners you will likely be teaching, the resources available, especially in terms of supporting learners, and probably most important of all, your own views and beliefs about what constitutes ‘good teaching.’
 
@@ -51,7 +51,7 @@ Lastly, the review of different methods indicate some of the key issues around q
 - third, quality depends not only on the choice of an appropriate teaching method, but also on how that approach to teaching is implemented. Online collaborative learning can be done well, or it can be done badly. The same applies to other methods. Following core design principles is critical for the successful use of any particular teaching method. Also there is considerable research on what the conditions are for success in using some of the newer methods or design models. The findings from such research need to be applied when implementing a particular method (this is discussed further throughout the book, but specifically in Chapter 12);
 - lastly students *and* teachers get better with practice. If you are moving to a new method of teaching or design model, give yourself (and your students) time to get comfortable with it. It will probably take two or three courses where the new method or design is applied before you begin to feel comfortable that it is producing the results you were hoping for. However, it is better to make some mistakes along the way than to continue to teach comfortably, but not produce the graduates that are needed in the future.
 
-There are still two major teaching methods to be discussed, Open Pedagogy in Chapter 11, Section 4, and MOOCs, which needs their own chapter (next).
+There are still two major teaching methods to be discussed, Open Pedagogy in [Chapter 11, Section 4](section-13/124-open-pedagogy.md), and MOOCs, which needs their own chapter (next).
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2022/08/Tony-in-Rio.jpg" alt="For my personal comments on some of the issues raised in this chapter, please click on the podcast below, which summarises some of the issues in the last two chapters">

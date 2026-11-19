@@ -14,19 +14,19 @@
 
  ## What is covered in this chapter
 
-- 9.1 Social media
-- 9.2 Serious games and gamification
-- 9.3 Virtual and augmented reality
-- 9.4 Artificial intelligence
-- 9.5 Emerging technologies: conclusion and summary
+- [9.1 Social media](section-10/91-social-media.md)
+- [9.2 Serious games and gamification](section-10/92-serious-games-and-gamification.md)
+- [9.3 Virtual and augmented reality](section-10/93-virtual-and-augmented-reality.md)
+- [9.4 Artificial intelligence](section-10/94-artificial-intelligence.md)
+- [9.5 Emerging technologies: conclusion and summary](section-10/95-emerging-technologies-conclusion-and-summary.md)
 
 Also in this chapter you will find the following activities:
 
-- Activity 9.1 Identifying the unique pedagogical characteristics of social media
-- Activity 9.2 Using and designing serious games
-- Activity 0.3 Using and designing VR and AR
-- Activity 9.4 Assessing artificial intelligence
-- Activity 9.5 Assessing and developing applications of emerging technologies
+- [Activity 9.1 Identifying the unique pedagogical characteristics of social media](section-10/91-social-media.md)
+- [Activity 9.2 Using and designing serious games](section-10/92-serious-games-and-gamification.md)
+- [Activity 0.3 Using and designing VR and AR](section-10/93-virtual-and-augmented-reality.md)
+- [Activity 9.4 Assessing artificial intelligence](section-10/94-artificial-intelligence.md)
+- [Activity 9.5 Assessing and developing applications of emerging technologies](section-10/95-emerging-technologies-conclusion-and-summary.md)
 
 > [!IMPORTANT]
 > **Announcement**

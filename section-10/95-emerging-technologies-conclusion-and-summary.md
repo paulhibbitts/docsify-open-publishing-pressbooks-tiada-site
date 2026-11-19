@@ -38,7 +38,6 @@ New technology developments show no sign of slowing down. Over time, other new t
 >
 > ### Activity 9.5 Assessing and developing applications of emerging technologies
 >
-> 
 > > [!TIP]
 > > **Interactive Activity**
 > >

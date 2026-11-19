@@ -151,7 +151,7 @@ Nigam et al. (2021) systematically reviewed 43 papers on AI- and non-AI based pr
 
  *‘Our analysis …reveals that security issues associated with AIPS are multiplying and are a cause of legitimate concern. Major issues include security and privacy concerns, ethical concerns, trust in AI-based technology, lack of training among usage of technology, cost and many more. It is difficult to know whether the benefits of these online proctoring technologies outweigh their risks. The most reasonable conclusion we can reach in the present is that the ethical justification of these technologies and their various capabilities requires us to rigorously ensure that a balance is struck between these concerns and the possible benefits.’*
 
-Online proctoring is a good example of trying to adapt 19th century methods to 21st century technology. Online assessment is discussed more fully in Chapter 6.8.4, which indicated that assessment can be done differently with online learning, using for instance continuous assessment, as student learning is automatically tracked through an LMS, or ePortfolios, which allow students to create an authentic digital portfolio of work. What should be avoided is the intrusiveness, lack of privacy, and lack of transparency that come with AI-based proctoring services.
+Online proctoring is a good example of trying to adapt 19th century methods to 21st century technology. Online assessment is discussed more fully in [Chapter 6.8.4](section-7/68-assessment-of-learning.md), which indicated that assessment can be done differently with online learning, using for instance continuous assessment, as student learning is automatically tracked through an LMS, or ePortfolios, which allow students to create an authentic digital portfolio of work. What should be avoided is the intrusiveness, lack of privacy, and lack of transparency that come with AI-based proctoring services.
 
 ## 9.4.5 Strengths and weaknesses
 
@@ -288,7 +288,6 @@ Zeide, E. (2019) [Artificial Intelligence in Higher Education: Applications, Pro
 >
 > Click on the podcast below to get some feedback on these questions, plus some of my personal thoughts on AI and teaching and learning:
 >
-> 
 > > [!TIP]
 > > **Interactive Activity**
 > >

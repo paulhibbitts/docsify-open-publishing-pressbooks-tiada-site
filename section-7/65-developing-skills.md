@@ -16,9 +16,9 @@ It is of course somewhat artificial to separate content from skills, because con
 Thus a critical step is to be explicit about what skills a particular course or program is trying to develop, and to define these goals in such a way that they can be implemented and assessed. In other words it is not enough to say that a course aims to develop critical thinking, but to state clearly what this would look like in the context of the particular course or content area, in ways that are clear to students. In particular skills should be defined in such a way that they can be assessed, and students should be aware of the criteria or rubrics that will be used for assessment. Skills development is discussed throughout the book, but particularly in:
 
 - [Chapter 1, Section 2](section-2/12-the-skills-needed-in-a-digital-age.md)
-- Chapter 3, Section 5 and Section 6
-- Chapter 4, Section 5
-- Chapter 11, Section 4
+- [Chapter 3, Section 5](section-4/35-learning-by-doing-experiential-learning.md) and [Section 6](section-4/36-learning-by-doing-apprenticeship.md)
+- [Chapter 4, Section 5](section-5/45-competency-based-learning.md)
+- [Chapter 11, Section 4](section-12/114-choosing-between-face-to-face-and-online-teach.md)
 
 ## 6.5.3 Thinking activities
 
@@ -38,7 +38,7 @@ In the history scenario ([Scenario D](section-5/scenario-d-developing-historical
 
 Discussion is a very important tool for developing thinking skills. However, not *any* kind of discussion. It was argued in Chapter 2 that academic knowledge requires a different kind of thinking to everyday thinking. It usually requires students to see the world differently, in terms of underlying principles, abstractions and ideas.
 
-Thus discussion needs to be carefully managed by the instructor, so that it focuses on the development of skills in thinking that are integral to the area of study. This requires the instructor to plan, structure and support discussion within the class, keeping the discussions in focus, and providing opportunities to demonstrate how experts in the field approach topics under discussion, and comparing students’ efforts. The role of discussion is covered more fully in Chapter 3, Section 4, Chapter 4, Section 4 and Chapter 12, Section 10.
+Thus discussion needs to be carefully managed by the instructor, so that it focuses on the development of skills in thinking that are integral to the area of study. This requires the instructor to plan, structure and support discussion within the class, keeping the discussions in focus, and providing opportunities to demonstrate how experts in the field approach topics under discussion, and comparing students’ efforts. The role of discussion is covered more fully in [Chapter 3, Section 4,](section-4/34-interactive-lectures-seminars-and-tutorials-lea.md) [Chapter 4, Section 4](section-5/44-online-collaborative-learning.md) and [Chapter 12, Section 10](section-14/1310-step-eight-communicate-communicate-communicat.md).
 
 ## 6.5.6 In conclusion
 

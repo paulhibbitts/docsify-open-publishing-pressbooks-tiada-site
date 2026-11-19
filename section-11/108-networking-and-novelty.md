@@ -58,7 +58,6 @@ Beasley-Murray, J. (2008) [Was introducing Wikipedia to the classroom an act of 
 >
 > ### Activity 10.8: Networking (and novelty)
 >
-> 
 > > [!TIP]
 > > **Interactive Activity**
 > >

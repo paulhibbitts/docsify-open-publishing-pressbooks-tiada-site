@@ -9,10 +9,10 @@
 
 Learner support focuses on forms of assistance to learners beyond the delivery of content, skills development, or formal assessment. Learner support covers a wide range of functions, and is discussed throughout the book, but particularly in:
 
-- Chapter 3, Section 7
-- Chapter 4, Section 4
+- [Chapter 3, Section 7](section-4/37-learning-by-being-the-nurturing-and-social-refo.md)
+- [Chapter 4, Section 4](section-5/44-online-collaborative-learning.md)
 - [Chapter 9, Section 6](section-11/106-interaction.md)
-- Chapter 12, Section 10.
+- [Chapter 12, Section 10.](section-14/1310-step-eight-communicate-communicate-communicat.md)
 
 Brindley et al. ([2004](https://www.researchgate.net/publication/235335238_Learner_support_in_open_online_and_distance_learning_environments)) provide an extensive overview of the full range of activities in providing learner support for online and distance education learners. Here though my focus is limited to indicating why it is an essential element of an effective learning environment, and to describe briefly some of the main sub-components of learner support.
 

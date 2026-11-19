@@ -43,7 +43,7 @@ These are places where participants can post questions, ask for help, or comment
 
 The extent to which the discussion or comments are moderated varies probably more than any other feature in xMOOCs, but at its most, moderation is directed at all participants rather than to individuals. Because of the very large numbers participating and commenting, moderation by the instructor(s) offering the MOOC of comments by individual learners is rarely possible. Some instructors offer no moderation whatsoever, so participants rely on other participants to respond to questions or comments. Some instructors ‘sample’ comments and questions, and post comments in response to these. Some instructors use volunteers or paid teaching assistants to comb comments to identify common areas of concern shared by a number of participants then the instructor and/or the teaching assistants will respond. However, in most cases, participants moderate each other’s comments or questions.
 
-Some MOOCs now use automated chatbots, software which identifies key terms or questions from students and summarises them for the instructor, who then takes account of this in future lectures (see Chapter 8.7.c.4.4 for more details).
+Some MOOCs now use automated chatbots, software which identifies key terms or questions from students and summarises them for the instructor, who then takes account of this in future lectures (see [Chapter 8.7.c.4.4](section-10/94-artificial-intelligence.md) for more details).
 
 ### 5.3.1.8 Badges or certificates
 
@@ -94,9 +94,9 @@ Nevertheless, at the moment the following are key design practices in cMOOCs:
 
 ### 5.3.2.3 cMOOCs summary
 
-cMOOCs therefore primarily use a networked approach to learning based on autonomous learners connecting with each other across open and connected social media and sharing knowledge through their own personal contributions. There is no pre-set curriculum and no formal teacher-student relationship, either for delivery of content or for learner support. Participants learn from the contributions of others, from the meta-level knowledge generated through the community, and from self-reflection on their own contributions, thus reflecting many of the features of communities of interest or practice (see Chapter 4.6).
+cMOOCs therefore primarily use a networked approach to learning based on autonomous learners connecting with each other across open and connected social media and sharing knowledge through their own personal contributions. There is no pre-set curriculum and no formal teacher-student relationship, either for delivery of content or for learner support. Participants learn from the contributions of others, from the meta-level knowledge generated through the community, and from self-reflection on their own contributions, thus reflecting many of the features of communities of interest or practice (see [Chapter 4.6](section-5/46-communities-of-practice.md)).
 
-cMOOCs have a very different educational philosophy from xMOOCs. Downes and Siemens have argued that cMOOCs reflect a new theory of learning, ‘connectivism’, based on exploiting online social networks (see Chapter 2.6). cMOOCs certainly reflect a constructivist epistemology.
+cMOOCs have a very different educational philosophy from xMOOCs. Downes and Siemens have argued that cMOOCs reflect a new theory of learning, ‘connectivism’, based on exploiting online social networks (see [Chapter 2.6](section-3/26-connectivism.md)). cMOOCs certainly reflect a constructivist epistemology.
 
 ## 5.3.3 Other variations of MOOCs
 
@@ -119,7 +119,7 @@ The MOOCs developed by the University of British Columbia and a number of other 
 
 It is not surprising that over time, the design of MOOCs is evolving. There seem to be three distinct kinds of development:
 
-- some of the newer MOOCs, especially those from institutions with a history of credit-based online learning prior to the introduction of MOOCs, are beginning to apply some of the best practices, such as organised and moderated discussion groups, from online credit courses to MOOCs (see Chapter 4, Section 4);
+- some of the newer MOOCs, especially those from institutions with a history of credit-based online learning prior to the introduction of MOOCs, are beginning to apply some of the best practices, such as organised and moderated discussion groups, from online credit courses to MOOCs (see [Chapter 4, Section 4](section-5/44-online-collaborative-learning.md));
 - others are trying to open up their regular campus classes also, simultaneously, to non-registered students (which in fact is how the first MOOC, from Cormier, Downes and Siemens, originated);
 - yet others are trying to blend online MOOC materials or content with their on-campus teaching.
 
@@ -133,7 +133,7 @@ There is even more confusion about mixing MOOCs with on-campus teaching. At the 
 
 Thinking through the policy implications of incorporating MOOCs or MOOC materials with on-campus teaching does not appear to be happening at the moment in most institutions experimenting with ‘blended’ MOOCs. If MOOC participants are taking exactly the same course and assessment as registered on-campus for-credit students, will the institution award the external MOOC participants who successfully complete the assessment credit for it and/or admit them to the institution? If not, why not? For an excellent discussion of these issues framed for an institution’s Board of Governors, see Green[, 2013](https://agb.org/trusteeship-article/mission-moocs-money/).
 
-Thus some of these MOOC developments seem to be operating in a policy vacuum regarding open learning in general. At some point, institutions will need to develop a clearer, more consistent strategy for open learning, in terms of how it can best be provided, how it calibrates with formal learning, and how open learning can be accommodated within the fiscal constraints of the institution, and then where MOOCs, other OERs and conventional for-credit online courses might fit with the strategy. For more on this topic, see Chapter 11.
+Thus some of these MOOC developments seem to be operating in a policy vacuum regarding open learning in general. At some point, institutions will need to develop a clearer, more consistent strategy for open learning, in terms of how it can best be provided, how it calibrates with formal learning, and how open learning can be accommodated within the fiscal constraints of the institution, and then where MOOCs, other OERs and conventional for-credit online courses might fit with the strategy. For more on this topic, see [Chapter 11](section-13/README.md).
 
 ## References
 

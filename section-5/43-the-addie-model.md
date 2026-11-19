@@ -53,7 +53,7 @@ Another criticism is that while the five stages are reasonably well described in
 
 The over-enthusiastic application of the ADDIE model can result in overly complex design stages, with many different categories of workers (faculty, instructional designers, editors, web designers) and consequently a strong division of labour, resulting in courses taking up to two years from initial approval to actual delivery. The more complex the design and management infrastructure, the more opportunities there are for cost over-runs and very expensive programming. It is a very good example of the industrial approach to course design.
 
-My main criticism though is that the model is too inflexible for the digital age. How does a teacher respond to rapidly developing new content, new technologies or apps being launched on a daily basis, to a constantly changing student base? Although the ADDIE model has served us well in the past, and provides a good foundation for designing teaching and learning, it can be too pre-determined, linear and inflexible to handle more volatile learning contexts. I will discuss more flexible models for design in Section 4.7.
+My main criticism though is that the model is too inflexible for the digital age. How does a teacher respond to rapidly developing new content, new technologies or apps being launched on a daily basis, to a constantly changing student base? Although the ADDIE model has served us well in the past, and provides a good foundation for designing teaching and learning, it can be too pre-determined, linear and inflexible to handle more volatile learning contexts. I will discuss more flexible models for design in [Section 4.7](section-5/47-agile-design-flexible-designs-for-learning.md).
 
 ## References
 

@@ -77,7 +77,7 @@ There is also the issue of the context-free nature of OER. Research into learnin
 
 The weakness with open content is that by its nature, at its purest it is stripped of these developmental, contextual and ‘environmental’ components that are essential for effective learning. In other words, OER are just like coal, sitting there waiting to be loaded. Coal of course is still a very valuable product. But it has to be mined, stored, shipped and processed.
 
-More attention needs to be paid to those contextual elements that turn OER from raw ‘content’ into a useful learning experience. This means instructors need to build learning experiences or environments into which the OER will fit. (See Chapter 12, Section 4 for more discussion of this issue)
+More attention needs to be paid to those contextual elements that turn OER from raw ‘content’ into a useful learning experience. This means instructors need to build learning experiences or environments into which the OER will fit. (See [Chapter 12, Section 4](section-13/124-open-pedagogy.md) for more discussion of this issue)
 
 ### 12.2.4.5 Study the research
 
@@ -91,14 +91,14 @@ There are therefore several choices:
 
 - take OER selectively from elsewhere, and incorporate or adapt them into your own courses;
 - create your own digital resources for your own teaching, and make them available to others (see for instance [Creating OER and Combining Licenses](https://www.youtube.com/watch?v=Hkz4q2yuQU8&feature=youtu.be) from Florida State University);
-- build a course around OER, where students have to find content to solve problems, write reports or do research on a topic (see [Scenario G](section-13/scenario-g-watershed-management.md) at the beginning of this chapter, and Chapter 12, Section 4.2);
+- build a course around OER, where students have to find content to solve problems, write reports or do research on a topic (see [Scenario G](section-13/scenario-g-watershed-management.md) at the beginning of this chapter, and [Chapter 12, Section 4.2](section-13/124-open-pedagogy.md));
 - take a whole course from [OERu](http://oeru.org/), then build student activities and assessment and provide learner support for the course.
 
 Learners can use OER to support any type of learning. For instance, MIT’s OpenCourseWare (OCW) could be used just for interest, or students who struggle with the topics in a classroom lecture for a credit course may well go to OCW to get an alternative approach to the same topic.
 
 ## 12.2.6 Still worth the effort
 
-Despite some of the current limitations or weaknesses of OER, their use is likely to grow, simply because it makes no sense to create everything from scratch when good quality materials are freely and easily available. We have seen in Chapter 10 on selecting media that there is now an increasing amount of excellent open material available to teachers and instructors. This will only grow over time. We shall see in Section 12.5 that this is bound to change the way courses are designed and offered. Indeed, OER will prove to be one of the essential features of teaching in a digital age.
+Despite some of the current limitations or weaknesses of OER, their use is likely to grow, simply because it makes no sense to create everything from scratch when good quality materials are freely and easily available. We have seen in Chapter 10 on selecting media that there is now an increasing amount of excellent open material available to teachers and instructors. This will only grow over time. We shall see in [Section 12.5](section-13/125-the-implications-of-open-for-course-and-progra.md) that this is bound to change the way courses are designed and offered. Indeed, OER will prove to be one of the essential features of teaching in a digital age.
 
 ## References
 

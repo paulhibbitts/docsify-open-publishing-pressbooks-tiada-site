@@ -11,19 +11,19 @@ When you have completed this chapter you should be able to determine:
 ##  What is covered in this chapter
 
 - [Scenario G: Watershed management](section-13/scenario-g-watershed-management.md)
-- 12.1 Open learning
+- [12.1 Open learning](section-13/121-open-learning.md)
 - [12.2 Open educational resources (OER)](section-13/122-open-educational-resources-oer.md)
-- 12.3 Open textbooks, open research and open data
-- 12.4 Open pedagogy
-- 12.5 The implications of ‘open’ for course and program design: towards a paradigm shift?
+- [12.3 Open textbooks, open research and open data](section-13/123-open-textbooks-open-research-and-open-data.md)
+- [12.4 Open pedagogy](section-13/124-open-pedagogy.md)
+- [12.5 The implications of ‘open’ for course and program design: towards a paradigm shift?](section-13/125-the-implications-of-open-for-course-and-progra.md)
 
 Also in this chapter you will find the following activities:
 
-- Activity 12.1 Should access to post-secondary education be completely open to everyone?
+- [Activity 12.1 Should access to post-secondary education be completely open to everyone?](section-13/121-open-learning.md)
 - [Activity 12.2 Deciding on OER](section-13/122-open-educational-resources-oer.md)
-- Activity 12.3 Using other open resources
-- Activity 12.4 Contemplating open pedagogy
-- Activity 12.5 Building a course that is open in practice and theory
+- [Activity 12.3 Using other open resources](section-13/123-open-textbooks-open-research-and-open-data.md)
+- [Activity 12.4 Contemplating open pedagogy](section-13/124-open-pedagogy.md)
+- [Activity 12.5 Building a course that is open in practice and theory](section-13/125-the-implications-of-open-for-course-and-progra.md)
 
 ### Key Takeaways
 

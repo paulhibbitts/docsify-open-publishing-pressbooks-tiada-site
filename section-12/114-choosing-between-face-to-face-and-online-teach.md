@@ -94,7 +94,7 @@ Time to learn how to do online teaching is especially important. There is a stee
 
 ### 11.4.2.2. Learning technology support staff.
 
-If your institution has a service unit for faculty development and training, instructional designers and web designers for supporting teaching, use them. Such staff are often qualified in both educational sciences and computer technology. They have unique knowledge and skills that can make your life much easier when teaching online. (This will be discussed further in Chapter 14.)
+If your institution has a service unit for faculty development and training, instructional designers and web designers for supporting teaching, use them. Such staff are often qualified in both educational sciences and computer technology. They have unique knowledge and skills that can make your life much easier when teaching online. (This will be discussed further in [Chapter 14](section-15/143-learning-technology-support.md).)
 
 The availability and skill level of learning technology support from the institution or school board is a critical factor. Can you get the support of an instructional designer and media producers? If not, it is likely that much more will be done face-to-face than online, unless you are already very experienced in online learning.
 

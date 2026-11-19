@@ -19,31 +19,31 @@ On completion of this chapter, you should be able to choose appropriate media an
 
 ## What is covered in this chapter
 
-- 10.1 Models for media selection
-- 10.2 Students
-- 10.3 Ease of Use
-- 10.4 Cost
-- 10.5 Teaching and media selection
+- [10.1 Models for media selection](section-11/101-models-for-media-selection.md)
+- [10.2 Students](section-11/102-students.md)
+- [10.3 Ease of Use](section-11/103-ease-of-use.md)
+- [10.4 Cost](section-11/104-cost.md)
+- [10.5 Teaching and media selection](section-11/105-teaching-and-media-selection.md)
 - [10.6 Interaction](section-11/106-interaction.md)
-- 10.7 Organisational issues
-- 10.8 Networking (and novelty)
-- 10.9 Security and privacy
+- [10.7 Organisational issues](section-11/107-organisational-issues.md)
+- [10.8 Networking (and novelty)](section-11/108-networking-and-novelty.md)
+- [10.9 Security and privacy](section-11/109-security-and-privacy.md)
 - [10.10 Deciding](section-11/1010-deciding.md)
-- 10.11 The SAMR model
+- [10.11 The SAMR model](section-11/1011-assessing-media-affordances-the-samr-model.md)
 
 Also in this chapter you will find the following activities:
 
-- Activity 10.1 Making a preliminary decision
-- Activity 10.2 Knowing your students
-- Activity 10.3 Ease of use
-- Activity 10.4 How will cost affect your decision about what media to use?
-- Activity 10.5 Multimedia design principles
+- [Activity 10.1 Making a preliminary decision ](section-11/101-models-for-media-selection.md)
+- [Activity 10.2 Knowing your students](section-11/102-students.md)
+- [Activity 10.3 Ease of use](section-11/103-ease-of-use.md)
+- [Activity 10.4 How will cost affect your decision about what media to use?](section-11/104-cost.md)
+- [Activity 10.5 Multimedia design principles](section-11/105-teaching-and-media-selection.md)
 - [Activity 10.6 Using media to promote student activity.](section-11/106-interaction.md)
 - Activity 10.7 Organisational issues (no activity)
-- Activity 10.8 Networking (and novelty)
-- Activity 10.9 Security and privacy
+- [Activity 10.8 Networking (and novelty)](section-11/108-networking-and-novelty.md)
+- [Activity 10.9 Security and privacy](section-11/109-security-and-privacy.md)
 - [Activity 10.10 Choosing media and technologies](section-11/1010-deciding.md)
-- Activity 10.11 Assessing the SAMR model
+- [Activity 10.11 Assessing the SAMR model](section-11/1011-assessing-media-affordances-the-samr-model.md)
 
 ### Chapter 10 Key Takeaways
 

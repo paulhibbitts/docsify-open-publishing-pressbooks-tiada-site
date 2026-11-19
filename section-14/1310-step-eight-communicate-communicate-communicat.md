@@ -5,7 +5,7 @@
 <figcaption>Figure 13.10.1 Communicate!<br>Image: Care2, 2012</figcaption>
 </figure>
 
- Some methods of teaching, such as online collaborative learning (Chapter 4, Section 4), depend on high quality discussion between instructor and students. However, there is substantial research evidence to suggest that ongoing, continuing communication between teacher/instructor and students is essential in *all* online learning. At the same time it needs to be carefully managed in order to control the teacher/instructor’s workload.
+ Some methods of teaching, such as online collaborative learning ([Chapter 4, Section 4](section-5/44-online-collaborative-learning.md)), depend on high quality discussion between instructor and students. However, there is substantial research evidence to suggest that ongoing, continuing communication between teacher/instructor and students is essential in *all* online learning. At the same time it needs to be carefully managed in order to control the teacher/instructor’s workload.
 
 ## 13.10.1 The concept of ‘teacher presence’
 
@@ -23,7 +23,7 @@ However, a skilled teacher can create just as compelling a learning environment 
 
 It is essential right at the start of a course for the teacher or instructor to make it clear to students what is expected of them when they are studying online, whether in a blended or fully online course. (On reflection, why would we not do the same for face-to-face teaching?)
 
-Most institutions have a code of behaviour for the use of computers and the Internet, but these are often lengthy documents written in a bureaucratic language, and are more concerned with spam, general online behaviour such as ‘flaming’ or bullying, or hacking. Although necessary, this is not sufficient for teaching purposes. Thus teachers or instructors are advised to develop a set of specific requirements for student behaviour that is related to the needs of the particular course, and deals with the academic requirements of studying online. Some guidelines or principles for developing meaningful online discussion can found in Chapter 4, Section 4.4.4. However, there are some other specific actions that teachers and instructors can take to ensure teacher presence.
+Most institutions have a code of behaviour for the use of computers and the Internet, but these are often lengthy documents written in a bureaucratic language, and are more concerned with spam, general online behaviour such as ‘flaming’ or bullying, or hacking. Although necessary, this is not sufficient for teaching purposes. Thus teachers or instructors are advised to develop a set of specific requirements for student behaviour that is related to the needs of the particular course, and deals with the academic requirements of studying online. Some guidelines or principles for developing meaningful online discussion can found in [Chapter 4, Section 4.4.4](section-5/44-online-collaborative-learning.md). However, there are some other specific actions that teachers and instructors can take to ensure teacher presence.
 
 A small task can be set in the first week of a course that sets up student expectations for the rest of the course. For instance students can be asked to post their bio and respond to other students bio posts, or can be asked to comment on a topic related to the course and their views on this before the course really begins, using the discussion forum facility in the learning management system. It is important to pay particular attention to this activity, because research indicates that online students who do not respond to set activities in the first week are at high risk of non-completion. Teachers or instructors should follow up with a phone call or e-mail to non-respondents at the end of the first week, and ensure that each student is following the guidelines or doing the task set, even if students are experienced in studying online. Students know that the teacher/instructor is then following what they do (or more importantly don’t do) from the outset.
 
@@ -58,7 +58,7 @@ Blogs or e-portfolios can be used by students to record their learning or to ref
 
 ## 13.10.6 Managing online discussion
 
-Whole books have been written on this topic (see Salmon, [2000](https://www.taylorfrancis.com/books/9780203816684), Paloff and Pratt, [2007](https://books.google.ca/books/about/Building_Online_Learning_Communities.html?id=Ztcp8E8T-M4C&hl=en); Harasim, [2017](https://www.routledge.com/Learning-Theory-and-Online-Technologies-2nd-Edition/Harasim/p/book/9781138860001)) and this is discussed in detail in Chapter 4, Section 4.4.4. However, there are some basic guidelines to follow.
+Whole books have been written on this topic (see Salmon, [2000](https://www.taylorfrancis.com/books/9780203816684), Paloff and Pratt, [2007](https://books.google.ca/books/about/Building_Online_Learning_Communities.html?id=Ztcp8E8T-M4C&hl=en); Harasim, [2017](https://www.routledge.com/Learning-Theory-and-Online-Technologies-2nd-Edition/Harasim/p/book/9781138860001)) and this is discussed in detail in [Chapter 4, Section 4.4.4](section-5/44-online-collaborative-learning.md). However, there are some basic guidelines to follow.
 
 ### 13.10.6.1 Threaded discussion
 

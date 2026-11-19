@@ -22,21 +22,21 @@ In this chapter, which focuses on the foundations of educational technology, you
 
 - [7.1 Choosing technologies for teaching and learning: the challenge](section-8/71-choosing-technologies-for-teaching-and-learning.md)
 - [7.2 A short history of educational technology](section-8/72-a-short-history-of-educational-technology.md)
-- 7.3 Media or technology?
-- 7.4 The time and space dimensions of media
-- 7.5 Broadcast vs interactive media
-- 7.6 Media richness
-- 7.7 Understanding the foundations of educational media
+- [7.3 Media or technology?](section-8/73-media-or-technology.md)
+- [7.4 The time and space dimensions of media](section-8/74-the-time-and-place-dimensions-of-learning.md)
+- [7.5 Broadcast vs interactive media](section-8/75-broadcast-or-interactive-media.md)
+- [7.6 Media richness](section-8/77-media-richness.md)
+- [7.7 Understanding the foundations of educational media](section-8/78-understanding-the-foundations-of-educational-me.md)
 
 Also in this chapter you will find the following activities:
 
 - [Activity 7.1 How do you currently make decisions about what technology to use for teaching?](section-8/71-choosing-technologies-for-teaching-and-learning.md)
 - [Activity 7.2 What does history tell us?](section-8/72-a-short-history-of-educational-technology.md)
-- Activity 7.3 Media or technology?
-- Activity 7.4 Time and space dimensions of media
-- Activity 7.5 Broadcast or interactive?
-- Activity 7.6 How rich is your medium?
-- Activity 7.7 Analysing your current use of technology
+- [Activity 7.3 Media or technology?](section-8/73-media-or-technology.md)
+- [Activity 7.4 Time and space dimensions of media](section-8/74-the-time-and-place-dimensions-of-learning.md)
+- [Activity 7.5 Broadcast or interactive?](section-8/75-broadcast-or-interactive-media.md)
+- [Activity 7.6 How rich is your medium?](section-8/77-media-richness.md)
+- [Activity 7.7 Analysing your current use of technology](section-8/78-understanding-the-foundations-of-educational-me.md)
 
 ### Key Takeaways
 

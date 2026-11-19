@@ -23,7 +23,7 @@ In particular, this chapter covers the following topics:
 - [1.5 The impact of expansion on teaching methods](section-2/15-the-impact-of-expansion-on-teaching-methods.md)
 - [1.6 Changing students, changing markets for higher education](section-2/16-changing-students-changing-markets-for-higher-e.md)
 - [1.7 From the periphery to the center: how technology is changing the way we teach](section-2/17-from-the-periphery-to-the-center-how-technology.md)
-- 1.8 The impact of the Covid-19 pandemic on teaching and learning
+- [1.8 The impact of the Covid-19 pandemic on teaching and learning](section-2/18-the-impact-of-covid-19-on-teaching-and-learning.md)
 - [1.9 Navigating new developments in technology and online learning](section-2/19-navigating-new-developments-in-technology-and-o.md)
 
 Also in this chapter you will find the following activities:
@@ -35,7 +35,7 @@ Also in this chapter you will find the following activities:
 - [Activity 1.5 How much wriggle room do you have?](section-2/15-the-impact-of-expansion-on-teaching-methods.md)
 - [Activity 1.6 Dealing with diversity](section-2/16-changing-students-changing-markets-for-higher-e.md)
 - [Activity 1.7 The consequences of change](section-2/17-from-the-periphery-to-the-center-how-technology.md)
-- Activity 1.8 Lessons from Covid-19
+- [Activity 1.8 Lessons from Covid-19](section-2/18-the-impact-of-covid-19-on-teaching-and-learning.md)
 - [Activity 1.9 Navigating new developments in technology and online learning](section-2/19-navigating-new-developments-in-technology-and-o.md)
 
 #### Key Takeaways from the Chapter

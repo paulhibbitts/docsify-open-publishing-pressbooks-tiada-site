@@ -55,7 +55,7 @@ However, online learning has now become so prevalent and effective in so many co
 
 *what are the unique characteristics of face-to-face teaching that make it pedagogically different from online learning?*
 
-It is possible of course that there is nothing pedagogically unique about face-to-face teaching, but given the rhetoric around ‘the magic of the campus’ (Sarma, [2013](https://linc.mit.edu/linc2013/proceedings/LINC-2013-Proceedings.pdf)) and the hugely expensive fees associated with elite campus-based teaching, or indeed the high cost of publicly funded campus-based education, it is about time that we had some evidence-based theory about what makes face-to-face teaching so special. This will be discussed further in Section 5 of this chapter.
+It is possible of course that there is nothing pedagogically unique about face-to-face teaching, but given the rhetoric around ‘the magic of the campus’ (Sarma, [2013](https://linc.mit.edu/linc2013/proceedings/LINC-2013-Proceedings.pdf)) and the hugely expensive fees associated with elite campus-based teaching, or indeed the high cost of publicly funded campus-based education, it is about time that we had some evidence-based theory about what makes face-to-face teaching so special. This will be discussed further in [Section 5](section-12/115-the-future-of-the-campus.md) of this chapter.
 
 In the meantime, a method for determining which mode of delivery (face-to-face, blended or online) will be discussed in the next sections.
 

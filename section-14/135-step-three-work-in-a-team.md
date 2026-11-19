@@ -5,7 +5,7 @@
 <figcaption>Figure 13.5.1 Work in a team</figcaption>
 </figure>
 
- One of the strongest means of ensuring quality is to work as a team. This is addressed at several points in the book, such as Chapter 10, Section 7, Chapter 11, Section 4, and Chapter 14, Sections 3 and 5.
+ One of the strongest means of ensuring quality is to work as a team. This is addressed at several points in the book, such as [Chapter 10, Section 7](section-11/107-organisational-issues.md), [Chapter 11, Section 4](section-12/114-choosing-between-face-to-face-and-online-teach.md), and Chapter 14, [Sections 3](section-15/143-learning-technology-support.md) and [5](section-15/145-team-teaching.md).
 
 ## 13.5.1 Why work in a team?
 

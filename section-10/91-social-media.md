@@ -86,7 +86,7 @@ The use of social media raises the inevitable issue of quality. How can learners
 
 These are key challenges for the digital age, but as well as being part of the problem, social media can also be part of the solution. Teachers can consciously use social media for the development of knowledge management and the responsible use of social media, but the development of such knowledge and skills through the use of social media will need a teacher-supported environment. Many students look for structure and guidance in their learning, and it is the responsibility of teachers to provide it. We therefore need a middle ground between the total authority and control of the teacher, and the complete anarchy of the children roaming free on a desert island in the novel “Lord of the Flies” (Golding, [1954](https://www.abebooks.com/book-search/title/lord-flies/author/golding/publisher/faber/)). Social media allow for such a middle ground, but only if as teachers we have a clear pedagogy or educational philosophy to guide our choices and use of the technology.
 
-For more on social media, see Chapter 10, Section 8.
+For more on social media, see [Chapter 10, Section 8.](section-11/108-networking-and-novelty.md)
 
 ## References
 

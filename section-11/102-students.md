@@ -23,7 +23,7 @@ Third and fourth year undergraduate students may appreciate a mix of classroom-b
 
 Lastly, within any single class or group of learners, there will be a wide range of differences in prior knowledge, language skills, and preferred study styles. The intelligent use of media and technology can help accommodate these differences. In particular, if you are trying to reach students in remote areas, or homeless or poor people, or students with physical disabilities, then this too should influence your choice of technology. Indeed, for most courses, there is likely to be a mix of different student needs, which suggests that a multi-media approach (including on-campus face-to-face teaching) will be necessary to accommodate all student needs.
 
-So, once again, it is important to know your students, and to keep this in mind when making decisions about what media or technology to use. This will be discussed further in Chapter 11 Section 3.
+So, once again, it is important to know your students, and to keep this in mind when making decisions about what media or technology to use. This will be discussed further in [Chapter 11 Section 3](section-12/113-which-mode-student-needs.md).
 
 ### 10.2.2 Access
 
@@ -51,7 +51,7 @@ Students (as well as the instructor) need to know the answers to these questions
 - what will students need to do on the device in your course?
 - is it really essential for them to use a device in these ways, or could they easily manage without the device? In particular, how will assessment be linked to the use of the device?
 
-It will really help if your institution has good policies in place for student technology access (see Section 7 of this chapter). If the institution does not have clear policies or infrastructure for supporting the technologies you want to use, then your job is going to be a lot harder.
+It will really help if your institution has good policies in place for student technology access (see [Section 7 of this chapter)](section-11/107-organisational-issues.md). If the institution does not have clear policies or infrastructure for supporting the technologies you want to use, then your job is going to be a lot harder.
 
 The answer to the question of access and the choice of technology will also depend somewhat on the mandate of the institution and your personal educational goals. For instance, highly selective universities can require students to use particular devices, and can help the relatively few students who have financial difficulties in purchasing and using specified devices. If though the mandate of the institution is to reach learners denied access to conventional institutions, equity groups, the unemployed, the working poor, or workers needing up-grading or more advanced education and training, then it becomes critical to find out what technology they have access to or are willing to use. If an institution’s policy is open access to anyone who wants to take its courses (which covers most publicly funded school systems), the availability of equipment already in the *home* (usually purchased for entertainment or work purposes) becomes of paramount importance.
 

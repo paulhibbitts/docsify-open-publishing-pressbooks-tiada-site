@@ -17,24 +17,24 @@ Five perspectives on teaching are examined and related to epistemologies and the
 
 - [Scenario C: A stats lecturer fights the system](section-4/scenario-c-a-stats-lecturer-fights-the-system.md)
 - [3.1 Five perspectives on teaching](section-4/31-five-perspectives-on-teaching.md)
-- 3.2 The origins of the classroom design model
-- 3.3 Transmissive lectures: learning by listening
-- 3.4 Interactive lectures, seminars, and tutorials: learning by talking
-- 3.5 Learning by doing: Experiential learning
-- 3.6 Learning by doing: Apprenticeship
-- 3.7 Learning by being: The nurturing and social reform models of teaching
-- 3.8 Main conclusions
+- [3.2 The origins of the classroom design model](section-4/32-the-origins-of-the-classroom-design-model.md)
+- [3.3 Transmissive lectures: learning by listening](section-4/33-transmissive-lectures-learning-by-listening.md)
+- [3.4 Interactive lectures, seminars, and tutorials: learning by talking](section-4/34-interactive-lectures-seminars-and-tutorials-lea.md)
+- [3.5 Learning by doing: Experiential learning](section-4/35-learning-by-doing-experiential-learning.md)
+- [3.6 Learning by doing: Apprenticeship](section-4/36-learning-by-doing-apprenticeship.md)
+- [3.7 Learning by being: The nurturing and social reform models of teaching](section-4/37-learning-by-being-the-nurturing-and-social-refo.md)
+- [3.8 Main conclusions](section-4/38-main-conclusions.md)
 
 Also in this chapter you will find the following activities:
 
 - Activity 3.1 There is no activity for this section
-- Activity 3.2 Thinking outside the \[classroom\] box
-- Activity 3.3 The future of lectures
-- Activity 3.4 Developing conceptual learning
-- Activity 3.5 Assessing experiential design models
-- Activity 3.6 Applying apprenticeship to university teaching
-- Activity 3.7 Nurturing, social reform and connectivism
-- Activity 3.8 ‘Labelling’ your own teaching
+- [Activity 3.2 Thinking outside the \[classroom\] box](section-4/32-the-origins-of-the-classroom-design-model.md)
+- [Activity 3.3 The future of lectures](section-4/33-transmissive-lectures-learning-by-listening.md)
+- [Activity 3.4 Developing conceptual learning](section-4/34-interactive-lectures-seminars-and-tutorials-lea.md)
+- [Activity 3.5 Assessing experiential design models](section-4/35-learning-by-doing-experiential-learning.md)
+- [Activity 3.6 Applying apprenticeship to university teaching](section-4/36-learning-by-doing-apprenticeship.md)
+- [Activity 3.7 Nurturing, social reform and connectivism](section-4/37-learning-by-being-the-nurturing-and-social-refo.md)
+- [Activity 3.8 ‘Labelling’ your own teaching](section-4/38-main-conclusions.md)
 
 #### Key Takeaways
 
