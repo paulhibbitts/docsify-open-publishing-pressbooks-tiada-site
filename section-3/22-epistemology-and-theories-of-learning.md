@@ -44,7 +44,7 @@ Schunk, D. (2016) [*Learning Theories: An Educational Perspective: 7th edition*]
 >
 > ### Activity 2.2 Epistemologies at a dinner party
 >
-> 1. Draw two columns. Under one column, write down a list of the justifications that Caroline used for her book in [Scenario B.](section-3/scenario-b-a-pre-dinner-party-discussion.md) Similarly, in the other column, write down Stephen’s objections.
+> 1. Draw two columns. Under one column, write down a list of the justifications that Caroline used for her book in [Scenario B.](/section-3/scenario-b-a-pre-dinner-party-discussion.md) Similarly, in the other column, write down Stephen’s objections.
 > 2. What are the common themes underlying each person’s justification for their arguments? (Try not to make a value judgement about which were the ‘best’ arguments.)
 > 3. Would it be possible to reconcile both approaches?
 >

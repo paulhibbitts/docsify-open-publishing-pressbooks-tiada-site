@@ -63,13 +63,13 @@ In terms of selecting media, you probably start with a number of possible techno
 
 ### 10.10.1.3 Rapid decision-making
 
-Now you’ve read this chapter you already have a set of questions for consideration (I have listed them all together in [Appendix 1](section-17/README.md) for easy reference). You are now in the same position as the king who asked the alchemist how to make gold. ‘It’s easy’, said the alchemist, ‘so long as you don’t think about elephants.’ Well, having read the three chapters on media in full, you now have the elephants in your head. It will be difficult to ignore them. The brain is in fact a wonderful instrument for making intuitive or inductive decisions of this kind. The trick though is to have all this information somewhere in your head, so you can pull it all out when you need it. The brain does this very quickly. Your decisions won’t always be perfect, but they will be a lot better than if you hadn’t already thought about all these issues, and in life, rough but ready usually beats perfect but late.
+Now you’ve read this chapter you already have a set of questions for consideration (I have listed them all together in [Appendix 1](/section-17/README.md) for easy reference). You are now in the same position as the king who asked the alchemist how to make gold. ‘It’s easy’, said the alchemist, ‘so long as you don’t think about elephants.’ Well, having read the three chapters on media in full, you now have the elephants in your head. It will be difficult to ignore them. The brain is in fact a wonderful instrument for making intuitive or inductive decisions of this kind. The trick though is to have all this information somewhere in your head, so you can pull it all out when you need it. The brain does this very quickly. Your decisions won’t always be perfect, but they will be a lot better than if you hadn’t already thought about all these issues, and in life, rough but ready usually beats perfect but late.
 
 ## 10.10.2 Grounding media selection within a course development framework
 
 Media selection does not happen in a vacuum. There are many other factors to consider when designing teaching. In particular, embedded within any decision about the use of technology in education and training will be assumptions about the learning process. We have already seen earlier in this book how different epistemological positions and theories of learning affect the design of teaching, and these influences will also determine a teacher’s or an instructor’s choice of appropriate media. Media selection is just one part of the course design process. It has to fit within the broader framework of course design.
 
-In Figure 10.10.2 below, Hibbitts and Travin’s modification of the ADDIE model (see [Chapter 4, Section 3](section-5/43-the-addie-model.md)) presents the following learning and technology development model that incorporates the various stages of course design:
+In Figure 10.10.2 below, Hibbitts and Travin’s modification of the ADDIE model (see [Chapter 4, Section 3](/section-5/43-the-addie-model.md)) presents the following learning and technology development model that incorporates the various stages of course design:
 
 <figure>
 <img src="https://pressbooks.bccampus.ca/tonybates/wp-content/uploads/sites/1751/2015/01/Hibbits-and-Travin-model-3.jpg" alt="">
@@ -91,9 +91,9 @@ All this further reinforces the inductive approach to decision making that I hav
 
  ### Activity 10.10: Choosing media and technologies
 
-1\. Choose the same course that you chose for [Activity 10.1](section-11/101-models-for-media-selection.md).
+1\. Choose the same course that you chose for [Activity 10.1](/section-11/101-models-for-media-selection.md).
 
-2\. Go to [Appendix 1](section-17/README.md), and see how many of the questions you can answer. Use Chapter 10 to help, if necessary, including your answers to some the activities in Chapters 8 and 9.
+2\. Go to [Appendix 1](/section-17/README.md), and see how many of the questions you can answer. Use Chapter 10 to help, if necessary, including your answers to some the activities in Chapters 8 and 9.
 
 3\. When you have answered as many questions as you can from Appendix 1, what media or technologies will you now think of using. How does this differ from your original list? If there are changes, why?
 

@@ -74,7 +74,7 @@ I will now attempt in the next sections to identify some of the unique pedagogic
 - social media
 - emerging technologies, in particular, virtual/augmented reality, serious games and artificial intelligence.
 
-Technically, face-to-face teaching should also be considered a medium, but I will look specifically at the unique characteristics of face-to-face teaching in [Chapter 11](section-12/README.md), where I discuss different modes of delivery.
+Technically, face-to-face teaching should also be considered a medium, but I will look specifically at the unique characteristics of face-to-face teaching in [Chapter 11](/section-12/README.md), where I discuss different modes of delivery.
 
 ## 8.1.5 Purpose of the exercise
 

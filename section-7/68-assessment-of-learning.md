@@ -21,10 +21,10 @@ Because assessment is a huge topic, it is important to be clear that the purpose
 
 Assessment again is discussed throughout the book, but particularly in:
 
-- [Scenario C](section-4/scenario-c-a-stats-lecturer-fights-the-system.md)
-- [Chapter 5, Section 4.6](section-6/54-strengths-and-weaknesses-of-moocs.md)
-- [Chapter 9.4](section-10/94-artificial-intelligence.md)
-- [Chapter 13, Section 11](section-14/1311-step-nine-evaluate-and-innovate.md).
+- [Scenario C](/section-4/scenario-c-a-stats-lecturer-fights-the-system.md)
+- [Chapter 5, Section 4.6](/section-6/54-strengths-and-weaknesses-of-moocs.md)
+- [Chapter 9.4](/section-10/94-artificial-intelligence.md)
+- [Chapter 13, Section 11](/section-14/1311-step-nine-evaluate-and-innovate.md).
 
 However, assessment requires a section on its own. Probably nothing drives the behaviour of students more than how they will be assessed. Not all students are instrumental in their learning, but given the competing pressures on students’ time in a digital age, most ‘successful’ learners focus on what will be examined and how they can most effectively meet the assessment requirements (which for most students means in as little time as possible). Therefore decisions about methods of assessment will in most contexts be fundamental to building an effective learning environment.
 
@@ -61,11 +61,11 @@ This method is good for testing ‘objective’ knowledge of facts, ideas, princ
 
 This method is good for assessing comprehension and some of the more advanced intellectual skills, such as critical thinking, but it is labour intensive, open to subjectivity, and not good for assessing practical skills.
 
-Experiments are taking place with automated essay marking, using developments in artificial intelligence, but so far automated essay marking still struggles to identify valid semantic meaning, especially at a higher education level. For more discussion of automated essay marking, see [Chapter 9.4](section-10/94-artificial-intelligence.md).
+Experiments are taking place with automated essay marking, using developments in artificial intelligence, but so far automated essay marking still struggles to identify valid semantic meaning, especially at a higher education level. For more discussion of automated essay marking, see [Chapter 9.4](/section-10/94-artificial-intelligence.md).
 
 ### 6.8.3.4 Peer assessment
 
-This is a very large and specialised topic, which I touched on in [Chapter 5, Section 4.6.2](section-6/54-strengths-and-weaknesses-of-moocs.md). There are three main advantages of peer assessment:
+This is a very large and specialised topic, which I touched on in [Chapter 5, Section 4.6.2](/section-6/54-strengths-and-weaknesses-of-moocs.md). There are three main advantages of peer assessment:
 
 - if conducted properly, it can be an excellent pedagogical benefit to student learning as it requires students to think critically about what they have learned in order to judge other students’ work. It enables them to see other students’ perspectives on the concepts and ideas, thus widening and deepening their understanding;
 - it enables learner support to be scaled up, allowing instructors to handle larger numbers of students;
@@ -105,7 +105,7 @@ These enable the practice and evaluation of skills, such as:
 <figcaption>Figure 6.8.2 Virtual world border crossing, Loyalist College, Ontario</figcaption>
 </figure>
 
- Simulations and serious or educational games (discussed more extensively in [Chapter 9.2](section-10/92-serious-games-and-gamification.md)) are currently expensive to develop, but cost-effective with multiple use, where they replace the use of extremely expensive equipment, where operational activities cannot be halted for training purposes, or where available as open educational resources. Because students’ actions and decision-making are recorded, authentic assessment is embedded in the process.
+ Simulations and serious or educational games (discussed more extensively in [Chapter 9.2](/section-10/92-serious-games-and-gamification.md)) are currently expensive to develop, but cost-effective with multiple use, where they replace the use of extremely expensive equipment, where operational activities cannot be halted for training purposes, or where available as open educational resources. Because students’ actions and decision-making are recorded, authentic assessment is embedded in the process.
 
 ### 6.8.3.8 Use of online proctoring
 
@@ -142,7 +142,7 @@ Topping, K. (2108) [*Using Peer Assessment to Inspire Reflection and Learning*](
 2. There is still a heavy reliance on computer-based multiple-choice tests in much teaching, mainly for cost reasons. However, although there are exceptions, I would argue in general that these really don’t assess the high level conceptual skills needed in a digital age. Do you agree?
 3. Are there other methods that are equally as economical, particularly in terms of instructor time, that are more suitable for assessment in a digital age? For instance, do you think automated essay grading is a viable alternative?
 4. Would it be helpful to think about assessment right at the start of course planning, rather than at the end? Is this feasible?
-5. In Scenario D, ‘[Developing historical thinking](section-5/scenario-d-developing-historical-thinking.md)‘, did the instructor use assessment to help develop and assess the skills needed in a digital age in an effective manner? If so, how and if not, why not?
+5. In Scenario D, ‘[Developing historical thinking](/section-5/scenario-d-developing-historical-thinking.md)‘, did the instructor use assessment to help develop and assess the skills needed in a digital age in an effective manner? If so, how and if not, why not?
 
 For my comments on this activity, click on the podcast below:
 

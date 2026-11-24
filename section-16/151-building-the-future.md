@@ -53,15 +53,15 @@ Without this basic foundation, it is difficult for teachers and instructors to m
 
 Although governments, institutions and learners themselves can do a great deal to ensure success in teaching and learning, in the end the responsibility and to some extent the power to change lies within teachers and instructors themselves. In probably no other profession is there such an opportunity to work in the way that you choose.
 
-To help you create the kind of teaching needed in a digital age, [Chapter 6, Section 10](section-7/610-conclusions.md) provides an exercise for building a rich learning environment for your students, applying the guidelines outlined in this book.
+To help you create the kind of teaching needed in a digital age, [Chapter 6, Section 10](/section-7/610-conclusions.md) provides an exercise for building a rich learning environment for your students, applying the guidelines outlined in this book.
 
 Although a sound basis of knowledge and experience is important, no other quality in teachers is more important than vision and imagination. This book attempts to provide a glimpse into the possibilities of teaching in the future, but that future still needs to be invented. The demands of the market, the ethical and moral challenges of society, changing technologies, and the diversity of learning needs are all components in a complex mix of factors that require an appropriate response from teachers and instructors.
 
-This book attempts to provide some foundations for decision-making in this volatile, uncertain, complex and ambiguous world, and I end with [Scenario H](section-16/scenario-h-stopping-the-flu.md) that aims to suggest one possibility for the future, but it will be the imagination of you and other teachers inventing new ways of teaching that will eventually result in the kind of graduates the world will need in the future. I hope this book in some small way will help you along this road.
+This book attempts to provide some foundations for decision-making in this volatile, uncertain, complex and ambiguous world, and I end with [Scenario H](/section-16/scenario-h-stopping-the-flu.md) that aims to suggest one possibility for the future, but it will be the imagination of you and other teachers inventing new ways of teaching that will eventually result in the kind of graduates the world will need in the future. I hope this book in some small way will help you along this road.
 
 ### Activity 15.1 Develop a future scenario for your teaching
 
-1\. Read [Scenario H](section-16/scenario-h-stopping-the-flu.md) and/or the other scenarios in this book. Now write your own scenario for your own teaching. Do NOT take into account current resources or institutional policies.
+1\. Read [Scenario H](/section-16/scenario-h-stopping-the-flu.md) and/or the other scenarios in this book. Now write your own scenario for your own teaching. Do NOT take into account current resources or institutional policies.
 
 2\. What would have to change in your organisation to make your scenario possible?
 

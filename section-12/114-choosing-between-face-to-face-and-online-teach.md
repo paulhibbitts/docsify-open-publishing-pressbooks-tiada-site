@@ -94,7 +94,7 @@ Time to learn how to do online teaching is especially important. There is a stee
 
 ### 11.4.2.2. Learning technology support staff.
 
-If your institution has a service unit for faculty development and training, instructional designers and web designers for supporting teaching, use them. Such staff are often qualified in both educational sciences and computer technology. They have unique knowledge and skills that can make your life much easier when teaching online. (This will be discussed further in [Chapter 14](section-15/143-learning-technology-support.md).)
+If your institution has a service unit for faculty development and training, instructional designers and web designers for supporting teaching, use them. Such staff are often qualified in both educational sciences and computer technology. They have unique knowledge and skills that can make your life much easier when teaching online. (This will be discussed further in [Chapter 14](/section-15/143-learning-technology-support.md).)
 
 The availability and skill level of learning technology support from the institution or school board is a critical factor. Can you get the support of an instructional designer and media producers? If not, it is likely that much more will be done face-to-face than online, unless you are already very experienced in online learning.
 
@@ -110,7 +110,7 @@ It really helps if there are experienced colleagues in the school or department 
 
 Are there resources available to buy you out for one semester to spend time on course design? Many post-secondary institutions have development funds for innovative teaching and learning, and there may be external grants for creating new open educational resources, for instance. This will increase the practicality and hence the likelihood of more of the teaching moving online.
 
-We shall see that as more and more learning material becomes available as open educational resources, teachers and instructors will be freed up from mainly content presentation to focusing on more interaction with students, both online and face to face. However, although open educational resources are becoming increasingly available, they may not exist in the topics required or they may not be of adequate quality in terms of either content or production standards (see [Chapter 12.2](section-13/122-open-educational-resources-oer.md) for more on OERs).
+We shall see that as more and more learning material becomes available as open educational resources, teachers and instructors will be freed up from mainly content presentation to focusing on more interaction with students, both online and face to face. However, although open educational resources are becoming increasingly available, they may not exist in the topics required or they may not be of adequate quality in terms of either content or production standards (see [Chapter 12.2](/section-13/122-open-educational-resources-oer.md) for more on OERs).
 
 The extent to which these resources are available will help inform you on the extent to which you will be able to go online and meet quality standards. In particular, you should think twice about going online if none of the resources listed above is going to be available to you.
 

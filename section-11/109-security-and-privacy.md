@@ -6,7 +6,7 @@
 Figure 10.9.1 Strength of data protection laws. Click on image for more information.
  Image: © 2022 DLA Piper
 
-‘S’ too is a change from the earlier ACTIONS model, where ‘S’ stood for speed, in terms of how quickly a technology enabled a course to be developed. However, the issues previously raised under speed have also been included in SECTIONS ‘Ease of Use’ ([Chapter 10, Section 3](section-11/103-ease-of-use.md)). This allows ‘Speed’ to be replaced with ‘Security and privacy’, issues which have become increasingly important for education in a digital age.
+‘S’ too is a change from the earlier ACTIONS model, where ‘S’ stood for speed, in terms of how quickly a technology enabled a course to be developed. However, the issues previously raised under speed have also been included in SECTIONS ‘Ease of Use’ ([Chapter 10, Section 3](/section-11/103-ease-of-use.md)). This allows ‘Speed’ to be replaced with ‘Security and privacy’, issues which have become increasingly important for education in a digital age.
 
 ## 10.9.1 The need for privacy and security when teaching
 

@@ -55,7 +55,7 @@ The significant point is that it is important to identify those components that 
 ### Activity 6.2 Influencing a learning environment
 
 1. Why do you think I focused on learning environments from a teacher’s perspective rather than a learner’s perspective? Could you design a similar model of a learning environment from the perspective of a learner? What would be the main differences?
-2. In order to create the learning environment for HIST 305 in [Scenario D (Chapter 4)](section-5/scenario-d-developing-historical-thinking.md), Ralph Goodyear carefully considered the learning environment he wanted to create and ones he had little or no control over. What components do you think he had little or no control over?
+2. In order to create the learning environment for HIST 305 in [Scenario D (Chapter 4)](/section-5/scenario-d-developing-historical-thinking.md), Ralph Goodyear carefully considered the learning environment he wanted to create and ones he had little or no control over. What components do you think he had little or no control over?
 3. What would you add (or remove) from the learning environment in Figure 6.2.2?
 4. What is missing in Figure 6.2.1 – the technology-based personal learning environment? For what kind of purpose would it work really well?
 5. Does thinking about the whole learning environment overly complicate the teaching endeavour? Why not just get on with it?

@@ -13,12 +13,12 @@
 
  ## What is covered in this chapter
 
-- 1[5.1 Building the future](section-16/151-building-the-future.md)
-- [Scenario H: Stopping the flu](section-16/scenario-h-stopping-the-flu.md)
+- 1[5.1 Building the future](/section-16/151-building-the-future.md)
+- [Scenario H: Stopping the flu](/section-16/scenario-h-stopping-the-flu.md)
 
 Also in this chapter you will find the following activity
 
-- [Activity 15.1 Develop a future scenario for your teaching](section-16/151-building-the-future.md)
+- [Activity 15.1 Develop a future scenario for your teaching](/section-16/151-building-the-future.md)
 
 ### Key Takeaways (from the book as a whole)
 

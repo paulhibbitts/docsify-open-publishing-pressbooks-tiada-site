@@ -34,7 +34,7 @@ Many instructors too often see such technology as a distraction. Attentive liste
 
 Instead we should be encouraging students to use their technological devices to find, analyse, evaluate and apply their knowledge. This means giving them engaging tasks in class time that require the use of their phones. Yes, they will probably use their device to text other students but then that can be also used for group work and social learning. In particular, mobile phones can be used to support the learning of higher level skills, such as problem solving and critical thinking.
 
-But this means providing criteria and procedures for students that enable their learning – and also learning when they need to put their phones down and switch off. These are skills and knowledge that are essential for life in today’s society and it is irresponsible for the education system to ignore such needs. Students expect to use social media in all other aspects of their life. Why should their learning experience be different? We shall explore this further in [Chapter 8, Section 6](section-10/91-social-media.md).
+But this means providing criteria and procedures for students that enable their learning – and also learning when they need to put their phones down and switch off. These are skills and knowledge that are essential for life in today’s society and it is irresponsible for the education system to ignore such needs. Students expect to use social media in all other aspects of their life. Why should their learning experience be different? We shall explore this further in [Chapter 8, Section 6](/section-10/91-social-media.md).
 
 ## 1.6.4 From elitism to success
 

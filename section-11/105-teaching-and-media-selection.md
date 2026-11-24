@@ -21,7 +21,7 @@ Therefore, it is not enough to focus just on the design of multimedia materials,
 2. What content needs to be covered?
 3. What are the desired learning outcomes from the teaching in terms of skills development?
 4. What instructional strategies or approaches to learning do I plan using?
-5. What are the unique pedagogical characteristics of different media ([Chapters](section-9/README.md) [7,](section-8/README.md) [8](section-9/README.md), and [9](section-10/README.md))? How might different media help with the presentation of content and development of student skills in this course?
+5. What are the unique pedagogical characteristics of different media ([Chapters](/section-9/README.md) [7,](/section-8/README.md) [8](/section-9/README.md), and [9](/section-10/README.md))? How might different media help with the presentation of content and development of student skills in this course?
 6. What is the best way to present the content to be covered in this course? How can media help with the presentation of content? Which media for what content?
 7. What skills am I trying to develop on this course? How can media help students with the development of the requisite skills for this course? Which media for which skills?
 8. What principles do I need to use when designing multimedia materials for their most effective use?

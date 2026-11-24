@@ -7,7 +7,7 @@
 
  ## 8.4.1 More power, more complexity
 
-Although there have been massive changes in video technology over the last 25 years, resulting in dramatic reductions in the costs of both creating and distributing video, the unique educational characteristics are largely unaffected. (More recent computer-generated media such as simulations, will be analysed under ‘Emerging Technologies’, in [Chapter 9](section-10/README.md)).
+Although there have been massive changes in video technology over the last 25 years, resulting in dramatic reductions in the costs of both creating and distributing video, the unique educational characteristics are largely unaffected. (More recent computer-generated media such as simulations, will be analysed under ‘Emerging Technologies’, in [Chapter 9](/section-10/README.md)).
 
 Video is a much richer medium than either text or audio, as in addition to its ability to offer text and sound, it can also offer dynamic or moving pictures. Thus while it can offer all the affordances of audio, and some of text, it also has unique pedagogical characteristics of its own. Once again, there has been considerable research on the use of video in education, and again I will be drawing on research from the Open University (Bates, [1984](https://www.amazon.com/Broadcasting-Education-Evaluation-Media-Studies/dp/009463680X); [2005](https://www.routledge.com/Technology-e-learning-and-Distance-Education-2nd-Edition/Bates/p/book/9780415284370); Koumi, [2006](https://www.routledge.com/Designing-Video-and-Multimedia-for-Open-and-Flexible-Learning-1st-Edition/Koumi/p/book/9780415383035)) as well as from Mayer ([2020](https://www.cambridge.org/highereducation/books/multimedia-learning/FB7E79A165D24D47CEACEB4D2C426ECD#overview)).
 
@@ -133,7 +133,7 @@ The University of British Columbia also provides two annotated bibliographies of
 
 1\. Take one of the courses you are teaching. What key presentational aspects of video could be important for this course?
 
-2\. Look at the skills listed in [Section 1.2 ](section-2/12-the-skills-needed-in-a-digital-age.md)of this book. Which of these skills would best be developed through the use of video rather than other media? How would you do this using video-based teaching?
+2\. Look at the skills listed in [Section 1.2 ](/section-2/12-the-skills-needed-in-a-digital-age.md)of this book. Which of these skills would best be developed through the use of video rather than other media? How would you do this using video-based teaching?
 
 3\. Under what conditions would it be more appropriate for students to be assessed by asking them to analyse or make their own video recording? How could this be done under assessment conditions?
 

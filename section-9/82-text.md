@@ -29,7 +29,7 @@ Some of the unique presentational characteristics of text are as follows:
 
 There is some overlap of each of these features with other media, but no other medium combines all these characteristics, or is as powerful as text with respect to these characteristics.
 
-Earlier ([Chapter 2, Section 2.7.3](section-3/27-is-the-nature-of-knowledge-changing.md)) I argued that academic knowledge is a specific form of knowledge that has characteristics that differentiate it from other kinds of knowledge, and particularly from knowledge or beliefs based solely on direct personal experience. Academic knowledge is a second-order form of knowledge that seeks abstractions and generalizations based on reasoning and evidence.
+Earlier ([Chapter 2, Section 2.7.3](/section-3/27-is-the-nature-of-knowledge-changing.md)) I argued that academic knowledge is a specific form of knowledge that has characteristics that differentiate it from other kinds of knowledge, and particularly from knowledge or beliefs based solely on direct personal experience. Academic knowledge is a second-order form of knowledge that seeks abstractions and generalizations based on reasoning and evidence.
 
 Fundamental components of or criteria for academic knowledge are:
 
@@ -119,7 +119,7 @@ However, I am sure that my lack of references is due to my lack of scholarship i
 
 1\. Take one of the courses you are teaching. What key presentational aspects of text are important for this course? Is text the best medium for representing knowledge in your subject area; if not, what concepts or topics would be best represented through other media?
 
-2\. Look at the skills listed in [Section 1.2 ](section-2/12-the-skills-needed-in-a-digital-age.md)of this book. Which of these skills would best be developed through the use of text rather than other media? How would you do this using text-based teaching?
+2\. Look at the skills listed in [Section 1.2 ](/section-2/12-the-skills-needed-in-a-digital-age.md)of this book. Which of these skills would best be developed through the use of text rather than other media? How would you do this using text-based teaching?
 
 3\. What do you think about books for learning? Do you think the book is dead or about to become obsolete? If you think books are still valuable for learning, what changes, if any, do you think should be made to academic books? What would be lost if books were entirely replaced by new media? What would be gained?
 

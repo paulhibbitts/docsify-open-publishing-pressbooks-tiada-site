@@ -76,7 +76,7 @@ Figure 6.9.2: All the components of an effective learning environment
 
 ## 6.9.7 Next
 
-[Section 6.10](section-7/610-conclusions.md) provides a brief conclusion to this chapter on building effective learning environments.
+[Section 6.10](/section-7/610-conclusions.md) provides a brief conclusion to this chapter on building effective learning environments.
 
 > [!IMPORTANT]
 > **Announcement**

@@ -13,7 +13,7 @@ One of the critical issues that will influence the selection of media by teacher
 - the instructional and technology services already in place;
 - the support for media and technology use that their institution provides.
 
-If an institution is organised around a set number of classroom periods every day, and the use of physical classrooms, the teachers are likely to focus mainly on classroom delivery. As Mackenzie was quoted in [Chapter 10 Section 1](section-11/101-models-for-media-selection.md):
+If an institution is organised around a set number of classroom periods every day, and the use of physical classrooms, the teachers are likely to focus mainly on classroom delivery. As Mackenzie was quoted in [Chapter 10 Section 1](/section-11/101-models-for-media-selection.md):
 
 ‘*Teachers have always made the best of whatever they’ve got at hand, but it’s what we have to work with. Teachers make due*.’
 
@@ -45,13 +45,13 @@ The key point here is that although it is now possible for teachers and instruct
 1. How much and what kind of help can I get from the institution in choosing and using media for teaching? Is help easily accessible? How good is the help? Do the support people have the media professionalism I will need? Are they up to date in the use of new technologies for teaching?
 2. Is there possible funding available to ‘buy me out’ for a semester and/or to fund a teaching assistant so I can concentrate on designing a new course or revising an existing course? Is there funding for media production?
 3. To what extent will I have to follow ‘standard’ technologies, practices and procedures, such as using a learning management or video-conferencing system, or will I be encouraged and supported to try something new?
-4. Are there already suitable media resources freely available that I can use in my teaching, rather than creating everything from scratch? Can I get help from the library for instance in identifying these resources and dealing with any copyright issues (see [Chapter 12, Section 2)](section-13/122-open-educational-resources-oer.md)?
+4. Are there already suitable media resources freely available that I can use in my teaching, rather than creating everything from scratch? Can I get help from the library for instance in identifying these resources and dealing with any copyright issues (see [Chapter 12, Section 2)](/section-13/122-open-educational-resources-oer.md)?
 
 If the answers are negative for each of these questions, you would be wise to set very modest goals initially for using media and technology.
 
-Nevertheless the good news is that it is increasingly easy to create and manage your own media such as web sites, blogs, wikis, podcasts and simple video production using a desktop computer or even a mobile phone. Furthermore students themselves are often capable and interested in participating or helping with creating learning resources, if given the chance. Getting students involved in media production is a very good way for them to get a deeper understanding of a subject. Above all, there is an increasing amount of really good educational media coming available for free use for educational purposes, as we shall see in [Chapter 12](section-13/README.md), so it is not necessary always to create media from scratch.
+Nevertheless the good news is that it is increasingly easy to create and manage your own media such as web sites, blogs, wikis, podcasts and simple video production using a desktop computer or even a mobile phone. Furthermore students themselves are often capable and interested in participating or helping with creating learning resources, if given the chance. Getting students involved in media production is a very good way for them to get a deeper understanding of a subject. Above all, there is an increasing amount of really good educational media coming available for free use for educational purposes, as we shall see in [Chapter 12](/section-13/README.md), so it is not necessary always to create media from scratch.
 
-Other organisational issues will be discussed in more detail in [Chapter 14](section-15/README.md) but clearly the amount of support you can get from your organisation is a key criterion in choosing and using media.
+Other organisational issues will be discussed in more detail in [Chapter 14](/section-15/README.md) but clearly the amount of support you can get from your organisation is a key criterion in choosing and using media.
 
 ## References
 

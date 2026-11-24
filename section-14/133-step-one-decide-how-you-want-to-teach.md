@@ -31,13 +31,13 @@ Finally, are you just overloaded with work on this course, because there are too
 
 ## 13.3.3 Use technology to re-think your teaching
 
-Considering using new technologies or an alternative delivery method will give you an opportunity to rethink your teaching, perhaps to be able to tackle some of the limitations of classroom teaching, and to renew your approach to teaching. One way to help you rethink how you want to teach is to think of how you could build a rich learning environment for the course (see [Chapter 6](section-7/README.md)).
+Considering using new technologies or an alternative delivery method will give you an opportunity to rethink your teaching, perhaps to be able to tackle some of the limitations of classroom teaching, and to renew your approach to teaching. One way to help you rethink how you want to teach is to think of how you could build a rich learning environment for the course (see [Chapter 6](/section-7/README.md)).
 
-Using technology or moving part or all of your course online opens up a range of possibilities for teaching that may not be possible in the confines of a school timetable or scheduled three credit weekly semester of lectures (see [Chapter 4](section-5/README.md)). It may mean not doing everything online, but focusing the campus experience on what can only be done on campus. Alternatively, it may enable you to totally rethink the curriculum, to exploit some of the benefits of online learning, such as getting students to find, analyse and apply information for themselves.
+Using technology or moving part or all of your course online opens up a range of possibilities for teaching that may not be possible in the confines of a school timetable or scheduled three credit weekly semester of lectures (see [Chapter 4](/section-5/README.md)). It may mean not doing everything online, but focusing the campus experience on what can only be done on campus. Alternatively, it may enable you to totally rethink the curriculum, to exploit some of the benefits of online learning, such as getting students to find, analyse and apply information for themselves.
 
 Thus if you are thinking about a new course, or redesigning one that you are not too happy with, take the opportunity before you start teaching the course or program to think about how you’d really like to be teaching, and whether this can be accommodated in a different learning environment. It’s not a decision you have to make immediately though. As you work through the nine steps, it will become easier to make this decision. The important point is to be open to doing things differently.
 
-[Chapter 4](section-5/README.md) and Chapters [11](section-12/README.md) and [12](section-13/README.md) suggest a variety of approaches to teaching that might fit with the answers to some of these questions.
+[Chapter 4](/section-5/README.md) and Chapters [11](/section-12/README.md) and [12](/section-13/README.md) suggest a variety of approaches to teaching that might fit with the answers to some of these questions.
 
 ## 13.3.4 What NOT to do
 

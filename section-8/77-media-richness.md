@@ -7,7 +7,7 @@
 
  ## 7.7.1 The historical development of media richness
 
-In Section 7.2, ‘[A short history of educational technology’](section-8/72-a-short-history-of-educational-technology.md), the development of different media in education was outlined, beginning with oral teaching and learning, moving on to written or textual communication, then to video, and finally computing. Each of these means of communication has usually been accompanied by an increase in the richness of the medium, in terms of how many senses and interpretative abilities are needed to process information.
+In Section 7.2, ‘[A short history of educational technology’](/section-8/72-a-short-history-of-educational-technology.md), the development of different media in education was outlined, beginning with oral teaching and learning, moving on to written or textual communication, then to video, and finally computing. Each of these means of communication has usually been accompanied by an increase in the richness of the medium, in terms of how many senses and interpretative abilities are needed to process information.
 
 Another way of defining the richness of media is by the symbol systems employed to communicate through the medium. Thus textual material from an early stage incorporated graphics and drawings as well as words. Television or video incorporates audio as well as still and moving images. Computing now can incorporate text, audio, video, animations, simulations, computing, and networking, all through the Internet.
 

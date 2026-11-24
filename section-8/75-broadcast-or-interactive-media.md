@@ -100,6 +100,6 @@ From the list below:
 
 4\. How useful is this continuum in making decisions about which medium or technology to use in your teaching? What would help you to decide?
 
-My analysis can be accessed by clicking [here](section-20/appendix-4-feedback-on-activity-75-broadcast-or-in.md).
+My analysis can be accessed by clicking [here](/section-20/appendix-4-feedback-on-activity-75-broadcast-or-in.md).
 
 [^1]: In earlier versions of this book, I used the term 'communicative' instead of 'interactive'. However, broadcasting is also communicative. Interactive emphasises the relationship between all participants in the communication.

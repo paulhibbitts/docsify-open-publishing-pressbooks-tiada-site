@@ -17,7 +17,7 @@ The next chapter deals with the most important question of all: how do you want 
 
 Write down at least five conclusions you would draw from this chapter, in addition to the key takeaways below.
 
-Click [here to compare your answers with mine.](section-20/appendix-4-feedback-on-activity-19-main-conclusion.md)
+Click [here to compare your answers with mine.](/section-20/appendix-4-feedback-on-activity-19-main-conclusion.md)
 
 ### Key Takeaways
 

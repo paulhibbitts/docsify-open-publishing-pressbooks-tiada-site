@@ -11,27 +11,27 @@ At the end of this chapter you should be able to:
 
 ## What is covered in this chapter
 
-- [Scenario D: Developing historical thinking](section-5/scenario-d-developing-historical-thinking.md)
-- [4.1 Online learning and teaching methods](section-5/41-online-learning-and-teaching-methods.md)
-- [4.2 Old wine in new bottles: classroom-type online learning](section-5/42-old-wine-in-new-bottles-lecture-based-online-le.md)
-- [4.3 The ADDIE model](section-5/43-the-addie-model.md)
-- [4.4 Online collaborative learning](section-5/44-online-collaborative-learning.md)
-- [4.5 Competency-based learning](section-5/45-competency-based-learning.md)
-- [4.6 Communities of practice](section-5/46-communities-of-practice.md)
-- [Scenario E: ETEC 522: Ventures in e-Learning](section-5/scenario-e-etec-522-ventures-in-e-learning.md)
-- [4.7 ‘Agile’ Design: flexible designs for learning](section-5/47-agile-design-flexible-designs-for-learning.md)
-- [4.8 Making decisions about teaching methods](section-5/48-making-decisions-about-teaching-methods.md)
+- [Scenario D: Developing historical thinking](/section-5/scenario-d-developing-historical-thinking.md)
+- [4.1 Online learning and teaching methods](/section-5/41-online-learning-and-teaching-methods.md)
+- [4.2 Old wine in new bottles: classroom-type online learning](/section-5/42-old-wine-in-new-bottles-lecture-based-online-le.md)
+- [4.3 The ADDIE model](/section-5/43-the-addie-model.md)
+- [4.4 Online collaborative learning](/section-5/44-online-collaborative-learning.md)
+- [4.5 Competency-based learning](/section-5/45-competency-based-learning.md)
+- [4.6 Communities of practice](/section-5/46-communities-of-practice.md)
+- [Scenario E: ETEC 522: Ventures in e-Learning](/section-5/scenario-e-etec-522-ventures-in-e-learning.md)
+- [4.7 ‘Agile’ Design: flexible designs for learning](/section-5/47-agile-design-flexible-designs-for-learning.md)
+- [4.8 Making decisions about teaching methods](/section-5/48-making-decisions-about-teaching-methods.md)
 
 Also in this chapter you will find the following activities:
 
 - Activity 4.1 There is no activity for this section
-- [Activity 4.2 Moving the classroom model online](section-5/42-old-wine-in-new-bottles-lecture-based-online-le.md)
-- [Activity 4.3 Using the ADDIE model](section-5/43-the-addie-model.md)
-- [Activity 4.4 Evaluating online collaborative learning models](section-5/44-online-collaborative-learning.md)
-- [Activity 4.5 Thinking about competency-based education](section-5/45-competency-based-learning.md)
-- [Activity 4.6 Making communities of practice work](section-5/46-communities-of-practice.md)
-- [Activity 4.7 Taking risks with ‘agile’ design](section-5/47-agile-design-flexible-designs-for-learning.md)
-- [Activity 4.8 Making choices](section-5/48-making-decisions-about-teaching-methods.md)
+- [Activity 4.2 Moving the classroom model online](/section-5/42-old-wine-in-new-bottles-lecture-based-online-le.md)
+- [Activity 4.3 Using the ADDIE model](/section-5/43-the-addie-model.md)
+- [Activity 4.4 Evaluating online collaborative learning models](/section-5/44-online-collaborative-learning.md)
+- [Activity 4.5 Thinking about competency-based education](/section-5/45-competency-based-learning.md)
+- [Activity 4.6 Making communities of practice work](/section-5/46-communities-of-practice.md)
+- [Activity 4.7 Taking risks with ‘agile’ design](/section-5/47-agile-design-flexible-designs-for-learning.md)
+- [Activity 4.8 Making choices](/section-5/48-making-decisions-about-teaching-methods.md)
 
 ### Key Takeaways
 

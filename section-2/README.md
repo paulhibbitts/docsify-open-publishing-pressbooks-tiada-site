@@ -16,27 +16,27 @@ In this chapter, I will be discussing the pressures that are mounting on educati
 
 In particular, this chapter covers the following topics:
 
-- [1.1 Structural changes in the economy: the growth of a knowledge society](section-2/11-structural-changes-in-the-economy-the-growth-of.md)
-- [1.2 The skills needed in a digital age](section-2/12-the-skills-needed-in-a-digital-age.md)
-- [1.3 Should education be tied directly to the labour market?](section-2/13-should-education-be-tied-directly-to-the-labour.md)
-- [1.4 Change and continuity](section-2/14-change-and-continuity.md)
-- [1.5 The impact of expansion on teaching methods](section-2/15-the-impact-of-expansion-on-teaching-methods.md)
-- [1.6 Changing students, changing markets for higher education](section-2/16-changing-students-changing-markets-for-higher-e.md)
-- [1.7 From the periphery to the center: how technology is changing the way we teach](section-2/17-from-the-periphery-to-the-center-how-technology.md)
-- [1.8 The impact of the Covid-19 pandemic on teaching and learning](section-2/18-the-impact-of-covid-19-on-teaching-and-learning.md)
-- [1.9 Navigating new developments in technology and online learning](section-2/19-navigating-new-developments-in-technology-and-o.md)
+- [1.1 Structural changes in the economy: the growth of a knowledge society](/section-2/11-structural-changes-in-the-economy-the-growth-of.md)
+- [1.2 The skills needed in a digital age](/section-2/12-the-skills-needed-in-a-digital-age.md)
+- [1.3 Should education be tied directly to the labour market?](/section-2/13-should-education-be-tied-directly-to-the-labour.md)
+- [1.4 Change and continuity](/section-2/14-change-and-continuity.md)
+- [1.5 The impact of expansion on teaching methods](/section-2/15-the-impact-of-expansion-on-teaching-methods.md)
+- [1.6 Changing students, changing markets for higher education](/section-2/16-changing-students-changing-markets-for-higher-e.md)
+- [1.7 From the periphery to the center: how technology is changing the way we teach](/section-2/17-from-the-periphery-to-the-center-how-technology.md)
+- [1.8 The impact of the Covid-19 pandemic on teaching and learning](/section-2/18-the-impact-of-covid-19-on-teaching-and-learning.md)
+- [1.9 Navigating new developments in technology and online learning](/section-2/19-navigating-new-developments-in-technology-and-o.md)
 
 Also in this chapter you will find the following activities:
 
-- [Activity 1.1 Thinking about skills](section-2/11-structural-changes-in-the-economy-the-growth-of.md)
-- [Activity 1.2 What skills are you developing in your students? Part 1](section-2/12-the-skills-needed-in-a-digital-age.md)
-- [Activity 1.3 What skills are you developing in your students? Part 2](section-2/13-should-education-be-tied-directly-to-the-labour.md)
-- [Activity 1.4 Change and continuity](section-2/14-change-and-continuity.md)
-- [Activity 1.5 How much wriggle room do you have?](section-2/15-the-impact-of-expansion-on-teaching-methods.md)
-- [Activity 1.6 Dealing with diversity](section-2/16-changing-students-changing-markets-for-higher-e.md)
-- [Activity 1.7 The consequences of change](section-2/17-from-the-periphery-to-the-center-how-technology.md)
-- [Activity 1.8 Lessons from Covid-19](section-2/18-the-impact-of-covid-19-on-teaching-and-learning.md)
-- [Activity 1.9 Navigating new developments in technology and online learning](section-2/19-navigating-new-developments-in-technology-and-o.md)
+- [Activity 1.1 Thinking about skills](/section-2/11-structural-changes-in-the-economy-the-growth-of.md)
+- [Activity 1.2 What skills are you developing in your students? Part 1](/section-2/12-the-skills-needed-in-a-digital-age.md)
+- [Activity 1.3 What skills are you developing in your students? Part 2](/section-2/13-should-education-be-tied-directly-to-the-labour.md)
+- [Activity 1.4 Change and continuity](/section-2/14-change-and-continuity.md)
+- [Activity 1.5 How much wriggle room do you have?](/section-2/15-the-impact-of-expansion-on-teaching-methods.md)
+- [Activity 1.6 Dealing with diversity](/section-2/16-changing-students-changing-markets-for-higher-e.md)
+- [Activity 1.7 The consequences of change](/section-2/17-from-the-periphery-to-the-center-how-technology.md)
+- [Activity 1.8 Lessons from Covid-19](/section-2/18-the-impact-of-covid-19-on-teaching-and-learning.md)
+- [Activity 1.9 Navigating new developments in technology and online learning](/section-2/19-navigating-new-developments-in-technology-and-o.md)
 
 #### Key Takeaways from the Chapter
 

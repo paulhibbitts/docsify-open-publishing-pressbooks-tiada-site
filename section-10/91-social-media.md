@@ -77,7 +77,7 @@ Some of the advantages of social media are as follows:
 - they can enable teachers to set online group work, based on cases or projects, and students can collect data in the field using social media such as mobile phones and apps such as [Questogo](http://questogo.appstor.io/);
 - learners can post media-rich assignments either individually or as a group;
 - these assignments when assessed can be loaded by the learner into their own personal learning environment or e-portfolios for later use when seeking employment or transfer to graduate school;
-- learners can take more control over their own learning, as we have seen in connectivist MOOCs in [Chapter 5 Section 3.2](section-6/53-a-taxonomy-of-moocs.md)
+- learners can take more control over their own learning, as we have seen in connectivist MOOCs in [Chapter 5 Section 3.2](/section-6/53-a-taxonomy-of-moocs.md)
 - through the use of blogs and wikis, courses and learning can be thrown open to the world, adding richness and wider perspectives to learning.
 
 However, many students are not, at least initially, independent learners (see Candy, [1991](https://www.amazon.com/Self-Direction-Lifelong-Learning-Comprehensive-Education/dp/1555423035)). Many students come to a learning task without the necessary skills or confidence to study independently from scratch (Moore and Thompson, [1990](https://eric.ed.gov/?id=ED330321)). They need structured support, structured and selected content, and recognized accreditation. The advent of new tools that give students more control over their learning will not necessarily change their need for a structured educational experience. However, learners can be taught the skills needed to become independent learners (Moore, [1973](https://www.tandfonline.com/doi/abs/10.1080/00221546.1973.11776906); Marshall and Rowland, [1993](https://www.amazon.com/Guide-Learning-Independently-Lorraine-Marshall/dp/0335203663)). Social media can make the learning of how to learn much more effective but still only in most cases within an initially structured environment.
@@ -86,7 +86,7 @@ The use of social media raises the inevitable issue of quality. How can learners
 
 These are key challenges for the digital age, but as well as being part of the problem, social media can also be part of the solution. Teachers can consciously use social media for the development of knowledge management and the responsible use of social media, but the development of such knowledge and skills through the use of social media will need a teacher-supported environment. Many students look for structure and guidance in their learning, and it is the responsibility of teachers to provide it. We therefore need a middle ground between the total authority and control of the teacher, and the complete anarchy of the children roaming free on a desert island in the novel “Lord of the Flies” (Golding, [1954](https://www.abebooks.com/book-search/title/lord-flies/author/golding/publisher/faber/)). Social media allow for such a middle ground, but only if as teachers we have a clear pedagogy or educational philosophy to guide our choices and use of the technology.
 
-For more on social media, see [Chapter 10, Section 8.](section-11/108-networking-and-novelty.md)
+For more on social media, see [Chapter 10, Section 8.](/section-11/108-networking-and-novelty.md)
 
 ## References
 

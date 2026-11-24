@@ -17,21 +17,21 @@
 
 ## What is covered in this chapter
 
-- [8.1 Thinking about the pedagogical differences of media](section-9/81-thinking-about-the-pedagogical-differences-of-m.md)
-- [8.2 Text](section-9/82-text.md)
-- [8.3 Audio](section-9/83-audio.md)
-- [8.4 Video](section-9/84-video.md)
-- [8.5 Computing](section-9/85-computing.md)
-- [8.6 A framework for analysing the pedagogical characteristics of educational media](section-9/86-a-framework-for-analysing-the-pedagogical-chara.md)
+- [8.1 Thinking about the pedagogical differences of media](/section-9/81-thinking-about-the-pedagogical-differences-of-m.md)
+- [8.2 Text](/section-9/82-text.md)
+- [8.3 Audio](/section-9/83-audio.md)
+- [8.4 Video](/section-9/84-video.md)
+- [8.5 Computing](/section-9/85-computing.md)
+- [8.6 A framework for analysing the pedagogical characteristics of educational media](/section-9/86-a-framework-for-analysing-the-pedagogical-chara.md)
 
 Also in this chapter you will find the following activities:
 
-- [Activity 8.1 Thinking about the pedagogical differences between media](section-9/81-thinking-about-the-pedagogical-differences-of-m.md)
-- [Activity 8.2 Identifying the unique pedagogical characteristics of text](section-9/82-text.md)
-- [Activity 8.3 Identifying the unique pedagogical characteristics of audio](section-9/83-audio.md)
-- [Activity 8.4 Identifying the unique pedagogical characteristics of video](section-9/84-video.md)
-- [Activity 8.5 Identifying the unique pedagogical characteristics of computing](section-9/85-computing.md)
-- [Activity 8.6 Choosing media for a teaching module](section-9/86-a-framework-for-analysing-the-pedagogical-chara.md)
+- [Activity 8.1 Thinking about the pedagogical differences between media](/section-9/81-thinking-about-the-pedagogical-differences-of-m.md)
+- [Activity 8.2 Identifying the unique pedagogical characteristics of text](/section-9/82-text.md)
+- [Activity 8.3 Identifying the unique pedagogical characteristics of audio](/section-9/83-audio.md)
+- [Activity 8.4 Identifying the unique pedagogical characteristics of video](/section-9/84-video.md)
+- [Activity 8.5 Identifying the unique pedagogical characteristics of computing](/section-9/85-computing.md)
+- [Activity 8.6 Choosing media for a teaching module](/section-9/86-a-framework-for-analysing-the-pedagogical-chara.md)
 
 ### Key Takeaways
 

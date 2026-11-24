@@ -49,7 +49,7 @@ Hegarty also makes the point that it is almost impossible to separate the compon
 
 There is a close connection between networking, social media such as blogs and wikis, which enable students to create open educational resources, and open pedagogy.
 
-Jon Beasley-Murray’s course where students created [a Wikipedia entry on Latin American literature](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Murder_Madness_and_Mayhem) is a good example, as is the [Math Exam Resources](https://wiki.ubc.ca/Science:Math_Exam_Resources) created by graduate students at UBC (see [Chapter 10, Section 8.8.3](section-11/108-networking-and-novelty.md)). This approach is particularly valuable for partly redressing cultural and historical bias, through the organization of [Wikipedia edit-a-thons](https://www.ubyssey.ca/culture/Indigenous-Writers-Edit-a-Thon-wikipedia/). For two examples, see [Women in Red/Indigenous Women.](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Women_in_Red/Indigenous_Women) and [Indigenous Literature Edit-a-Thon.](https://en.wikipedia.org/wiki/Category:Indigenous_Literature_Edit-athon)
+Jon Beasley-Murray’s course where students created [a Wikipedia entry on Latin American literature](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Murder_Madness_and_Mayhem) is a good example, as is the [Math Exam Resources](https://wiki.ubc.ca/Science:Math_Exam_Resources) created by graduate students at UBC (see [Chapter 10, Section 8.8.3](/section-11/108-networking-and-novelty.md)). This approach is particularly valuable for partly redressing cultural and historical bias, through the organization of [Wikipedia edit-a-thons](https://www.ubyssey.ca/culture/Indigenous-Writers-Edit-a-Thon-wikipedia/). For two examples, see [Women in Red/Indigenous Women.](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Women_in_Red/Indigenous_Women) and [Indigenous Literature Edit-a-Thon.](https://en.wikipedia.org/wiki/Category:Indigenous_Literature_Edit-athon)
 
 The Universidad de Guadalajara (Mexico) has an interesting [web site (in English)](https://muraludg.org/topics/open-pedagogy/) that provides a number of examples of open pedagogy from around the world, related to its [Agora](http://udg.theagoraonline.net/) project.
 
@@ -89,7 +89,7 @@ Claude Paquette, following the cultural revolution in Québec, wrote in [1979](h
 
 \[My translation: Open pedagogy is focused on the interaction within a class between a learner and the educational environment that is created for him. It is about a way of thinking and a way of acting. The primary role of the teacher then is to contribute to the management of this educational environment.’
 
-Note that there is no mention of free or open educational resources, and the quote could have come straight from Rousseau’s ‘Emile’ ([1972](https://www.amazon.ca/Emile-Education-Jean-jacques-Rousseau/dp/0465019315)). It is the basis for the whole of [Chapter 6](section-7/README.md) in this book.
+Note that there is no mention of free or open educational resources, and the quote could have come straight from Rousseau’s ‘Emile’ ([1972](https://www.amazon.ca/Emile-Education-Jean-jacques-Rousseau/dp/0465019315)). It is the basis for the whole of [Chapter 6](/section-7/README.md) in this book.
 
 David Wiley (who was the originator of the term ‘open educational resources’) writes ([2017](https://opencontent.org/blog/archives/4990)):
 

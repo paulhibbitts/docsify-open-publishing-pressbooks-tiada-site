@@ -36,7 +36,7 @@ Fukuyama, F. (2014) [*Political Order and Political Decay: From the Industrial R
 >
 > If classrooms, schools and university campuses are the physical products of an industrial age, what type of learning environment would be a product of a digital age? In other words, if we were starting from scratch today, how would you design an environment for teaching and learning that would reflect the age in which we live?
 >
-> Obviously there is no right or wrong answer to this, but later you may want to look at [Chapter 6 on learning environments](section-7/README.md) to see if your ‘digital’ learning environment contains all the necessary components.
+> Obviously there is no right or wrong answer to this, but later you may want to look at [Chapter 6 on learning environments](/section-7/README.md) to see if your ‘digital’ learning environment contains all the necessary components.
 >
 > You may also want to consider the social, economic and political context of the 21st century in terms of identifying an appropriate learning environment. How much would the campus experience still be necessary? (For instance, how would the environment deal with the effects of too much screen time on children’s development?)
 >

@@ -5,7 +5,7 @@
 <figcaption>Figure 1.7.1 Technology is changing the way we teach – and the way students learn Image: Vidyo.com</figcaption>
 </figure>
 
- We shall see in [Chapter 7, Section 2](section-8/72-a-short-history-of-educational-technology.md) that technology has played an important role in teaching from time immemorial, but until recently, it has remained more on the periphery of education. Technology has been used mainly to support regular classroom teaching, or operated in the form of distance education, for a minority of students or in specialized departments (often in continuing education or extension).
+ We shall see in [Chapter 7, Section 2](/section-8/72-a-short-history-of-educational-technology.md) that technology has played an important role in teaching from time immemorial, but until recently, it has remained more on the periphery of education. Technology has been used mainly to support regular classroom teaching, or operated in the form of distance education, for a minority of students or in specialized departments (often in continuing education or extension).
 
 However, in the last ten to fifteen years, technology has been increasingly influencing the core teaching activities of universities, colleges and schools. Some of the ways technology is moving from the periphery to the centre can be seen from the following trends.
 
@@ -30,7 +30,7 @@ These trends of course were shattered during Covid-19, when all students in Nort
 
 ## 1.7.2. Blended and hybrid learning
 
-As more instructors have become involved in online learning, they have realised that much that has traditionally been done in class can be done equally well or better online (a theme that will be explored more in [Chapter 10, Section 2](section-12/112-comparing-modes-of-delivery.md)). As a result, instructors have been gradually introducing more online study elements into their classroom teaching. So learning management systems may be used to store lecture notes in the form of slides or PDFs, links to online readings may be provided, or online forums for discussion may be established. With or without direction from instructors, students are increasingly going online to seek answers to questions or to find resources that will assist them with their learning. Thus online learning is gradually being blended with face-to-face teaching, but without changing the basic classroom teaching model. Here online learning is being used as a supplement to traditional teaching. Although there is no standard or commonly agreed definitions in this area, I will use the term ‘blended learning’ for this use of technology.
+As more instructors have become involved in online learning, they have realised that much that has traditionally been done in class can be done equally well or better online (a theme that will be explored more in [Chapter 10, Section 2](/section-12/112-comparing-modes-of-delivery.md)). As a result, instructors have been gradually introducing more online study elements into their classroom teaching. So learning management systems may be used to store lecture notes in the form of slides or PDFs, links to online readings may be provided, or online forums for discussion may be established. With or without direction from instructors, students are increasingly going online to seek answers to questions or to find resources that will assist them with their learning. Thus online learning is gradually being blended with face-to-face teaching, but without changing the basic classroom teaching model. Here online learning is being used as a supplement to traditional teaching. Although there is no standard or commonly agreed definitions in this area, I will use the term ‘blended learning’ for this use of technology.
 
 More recently, though, lecture capture has resulted in instructors realising that if the lecture is recorded, students could view this in their own time, and then the classroom time could be used for more interactive sessions. This model has become known as the ‘flipped classroom’.
 
@@ -44,7 +44,7 @@ Another increasingly important development linked to online learning is the move
 
 Open educational resources (OER) are another recent development in open education. These are digital educational materials freely available over the Internet that can be downloaded by instructors (or students) without charge, and if necessary adapted or amended, under a [Creative Commons license](https://creativecommons.org/licenses/) that provides protections for the creators of the material. Probably the best known source of OER is the Massachusetts Institute of Technology [OpenCourseWare project](http://ocw.mit.edu/index.htm). With individual professors’ permission, MIT has made available for free downloading over the Internet video lectures recorded with lecture capture as well as supporting materials such as slides.
 
-The implications of developments in open learning will be discussed further in [Chapter 11](section-13/README.md).
+The implications of developments in open learning will be discussed further in [Chapter 11](/section-13/README.md).
 
 ## 1.7.4. MOOCs
 
@@ -58,7 +58,7 @@ Although the format of MOOCs can vary, in general they have the following charac
 - computer-based assessment, usually using multiple-choice questions and immediate feedback, combined sometimes with peer assessment
 - a wide range of commitment from learners: up to 50 per cent never do more than register, 25 per cent never take more than the first assignment, less than 10 per cent complete the final assessment.
 
-However, MOOCs are merely the latest example of the rapid evolution of technology, the over-enthusiasm of early adopters, and the need for careful analysis of the strengths and weaknesses of new technologies for teaching. They are evolving over time, and are beginning to find a more limited but still important niche in the higher education market. MOOCs will be discussed more fully in [Chapter 5](section-6/README.md).
+However, MOOCs are merely the latest example of the rapid evolution of technology, the over-enthusiasm of early adopters, and the need for careful analysis of the strengths and weaknesses of new technologies for teaching. They are evolving over time, and are beginning to find a more limited but still important niche in the higher education market. MOOCs will be discussed more fully in [Chapter 5](/section-6/README.md).
 
 ## 1.7.5 Managing the changing landscape of education
 

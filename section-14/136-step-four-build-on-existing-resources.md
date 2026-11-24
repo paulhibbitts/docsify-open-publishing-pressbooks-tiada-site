@@ -5,7 +5,7 @@
 <figcaption>Figure 13.6.1 Radiating charge simulation, phET: click on image to run simulation<br>Image: © University of Colorado-Boulder</figcaption>
 </figure>
 
- The importance of using existing resources has been stressed in several parts of the book, particularly Chapters [8](section-9/README.md) and [12](section-13/README.md).
+ The importance of using existing resources has been stressed in several parts of the book, particularly Chapters [8](/section-9/README.md) and [12](/section-13/README.md).
 
 ## 13.6.1 Moving content online
 
@@ -15,7 +15,7 @@ In Step 1 I recommended rethinking teaching, not just moving recorded lectures o
 
 ## 13.6.2 Use existing online content
 
-The Internet, and in particular the World Wide Web, has an immense amount of content already available, and this was discussed extensively in [Chapter 11](section-13/README.md). Much of it is freely available for educational use, under certain conditions (e.g. acknowledgement of the source – look for the Creative Commons license usually at the end of the web page). You will find such existing content varies enormously in quality and range. Top universities such as MIT, Stanford, Princeton and Yale have made available recordings of their classroom lectures , etc., while distance teaching organizations such as the UK Open University have made all their online teaching materials available for free use. Much of this can be found at these sites:
+The Internet, and in particular the World Wide Web, has an immense amount of content already available, and this was discussed extensively in [Chapter 11](/section-13/README.md). Much of it is freely available for educational use, under certain conditions (e.g. acknowledgement of the source – look for the Creative Commons license usually at the end of the web page). You will find such existing content varies enormously in quality and range. Top universities such as MIT, Stanford, Princeton and Yale have made available recordings of their classroom lectures , etc., while distance teaching organizations such as the UK Open University have made all their online teaching materials available for free use. Much of this can be found at these sites:
 
 - [OpenCourseWare](http://ocw.mit.edu/index.htm) (MIT)
 - [iTunesU](https://itunes.apple.com/ca/genre/itunes-u/id40000000?mt=10)
@@ -32,7 +32,7 @@ Where open educational resources are particularly valuable are in their use as i
 
 However, as well as open resources designated as ‘educational’, there is a great deal of ‘raw’ content on the Internet that can be invaluable for teaching. The main question is whether you as the instructor need to find such material, or whether it would be better to get students to search, find, select, analyze, evaluate and apply information. After all, these are key skills for a digital age that students need to have.
 
-Certainly at k-12, two-year college or undergraduate level, most content is not unique or original. Most of the time we are standing on the shoulders of giants, that is, organizing and managing knowledge already discovered. Only in the areas where you have unique, original research that is not yet published, or where you have your own ‘spin’ on content, is it really necessary to create ‘content’ from scratch. Unfortunately, though, it can still be difficult to find exactly the material you want, at least in a form that would be appropriate for your students. In such cases, then it will be necessary to develop your own materials, and this is discussed further in [Step 7](section-14/139-step-seven-design-course-structure-and-learnin.md). However, building a course around already existing materials will make a lot of sense in many contexts.
+Certainly at k-12, two-year college or undergraduate level, most content is not unique or original. Most of the time we are standing on the shoulders of giants, that is, organizing and managing knowledge already discovered. Only in the areas where you have unique, original research that is not yet published, or where you have your own ‘spin’ on content, is it really necessary to create ‘content’ from scratch. Unfortunately, though, it can still be difficult to find exactly the material you want, at least in a form that would be appropriate for your students. In such cases, then it will be necessary to develop your own materials, and this is discussed further in [Step 7](/section-14/139-step-seven-design-course-structure-and-learnin.md). However, building a course around already existing materials will make a lot of sense in many contexts.
 
 ## 13.6.3 Conclusion
 

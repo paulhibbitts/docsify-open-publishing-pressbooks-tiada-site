@@ -81,7 +81,7 @@ There are many guidelines for quality traditional classroom teaching. Perhaps th
 
 ### 13.1.4.3 Quality in online courses and programs
 
-Because online learning was new and hence open to concern about its quality, there have also been many guidelines, best practices and quality assurance criteria created and applied to online programming. All these guidelines and procedures have been derived from the experience of previously successful online programs, best practices in teaching and learning, and research and evaluation of online teaching and learning. A comprehensive list of online quality assurance standards, organizations and research on online learning can be found in [Appendix 2](section-18/README.md).
+Because online learning was new and hence open to concern about its quality, there have also been many guidelines, best practices and quality assurance criteria created and applied to online programming. All these guidelines and procedures have been derived from the experience of previously successful online programs, best practices in teaching and learning, and research and evaluation of online teaching and learning. A comprehensive list of online quality assurance standards, organizations and research on online learning can be found in [Appendix 2](/section-18/README.md).
 
 Jung and Latchem ([2012](https://www.routledge.com/Quality-Assurance-and-Accreditation-in-Distance-Education-and-e-Learning/Jung-Latchem/p/book/9780415887359)), in a review of quality assessment processes in a large number of online and distance education institutions around the world, make the following important points about quality assurance processes for online and distance education within institutions:
 

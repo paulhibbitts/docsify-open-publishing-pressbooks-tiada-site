@@ -14,7 +14,7 @@ Even an electronics engineer will be hard pressed to identify all the technologi
 - networks? (e.g. Internet, cable)
 - services? (e.g. television, telephone)
 
-The answer of course is all these, plus the systems that enable everything to be integrated. Indeed, the technologies represented in just this one photograph are too many to list, although I make an attempt in the feedback on [Activity 7.1](section-20/appendix-4-feedback-on-activity-71-how-many-techno.md) at the end of the book. Nevertheless it is a futile exercise as I was forced to change the whole system a couple of years later due to technological ‘upgrades’ by the service provider.
+The answer of course is all these, plus the systems that enable everything to be integrated. Indeed, the technologies represented in just this one photograph are too many to list, although I make an attempt in the feedback on [Activity 7.1](/section-20/appendix-4-feedback-on-activity-71-how-many-techno.md) at the end of the book. Nevertheless it is a futile exercise as I was forced to change the whole system a couple of years later due to technological ‘upgrades’ by the service provider.
 
 In a digital age we are immersed in technology. Education, although often a laggard in technology adoption, is nevertheless no exception today. Yet learning is also a fundamental human activity that can function quite well (some would say better) without any technological intervention. So in an age immersed in technology, what is technology’s role in education? What are the strengths (or affordances) and what are the limitations of technology in education? When should we use technology, and which technologies should we use for what purposes?
 
@@ -47,4 +47,4 @@ In the meantime let’s start with what your views are at the moment about choos
 
 3\. How many technologies can you see in Figure 7.1? List them
 
-For my answer to question 3, see Feedback on [Activity 7.1](section-20/appendix-4-feedback-on-activity-71-how-many-techno.md) at the end of the book. There is no feedback on questions 1 and 2.
+For my answer to question 3, see Feedback on [Activity 7.1](/section-20/appendix-4-feedback-on-activity-71-how-many-techno.md) at the end of the book. There is no feedback on questions 1 and 2.

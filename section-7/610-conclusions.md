@@ -11,7 +11,7 @@ One component within an effective learning environment that I have not discussed
 
 Technology now enables us to build a wide variety of effective learning environments that can differ significantly from the traditional classroom. But technology alone is not enough. Many technology-based learning environments are bereft of some of the key components that make an effective learning environment. An effective learning environment needs to include the other components for learner success. This is not to say that self-managing learners cannot build their own effective, personal learning environments, but they need to consider the other components as well as the technology.
 
-This concludes Part 1 of the book, which focuses on the fundamentals of teaching and learning in a digital age. Part 2 of the book (Chapters 7-13) pays special attention to the impact of digital technologies on teaching and learning, starting with [Chapter 7](section-8/README.md), which examines the nature and role of media and technologies in education.
+This concludes Part 1 of the book, which focuses on the fundamentals of teaching and learning in a digital age. Part 2 of the book (Chapters 7-13) pays special attention to the impact of digital technologies on teaching and learning, starting with [Chapter 7](/section-8/README.md), which examines the nature and role of media and technologies in education.
 
 > [!IMPORTANT]
 > **Announcement**

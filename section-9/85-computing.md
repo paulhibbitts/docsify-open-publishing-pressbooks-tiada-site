@@ -34,7 +34,7 @@ Thus in presentational terms computing can be used to:
 - set multiple-choice tests, automatically mark such tests, and provide immediate feedback to learners;
 - enable learners digitally to submit written (essay-type), or multimedia (project-based) assignments through the use of e-portfolios.
 
-The presentational features of social media, simulations and games, and artificial development, although closely linked, will be discussed in [Chapter 9](section-10/README.md).
+The presentational features of social media, simulations and games, and artificial development, although closely linked, will be discussed in [Chapter 9](/section-10/README.md).
 
 ## 8.5.3 Skills development
 
@@ -78,7 +78,7 @@ On the other hand, the disadvantages of computing are:
 - computing is too often oversold as a panacea for education; it is a powerful teaching medium, but it needs to be managed and controlled by educators;
 - the traditional user interface for computing, such as pull-down menus, cursor screen navigation, touch control, and an algorithmic-based filing or storage system, while all very functional, are not intuitive and can be quite restricting from an educational point of view. Voice recognition and search interfaces such as Siri and Alexa are an advance, and have potential for education, but at present they have not been used extensively as educational tools (at least by instructors);
 - there is a tendency for computer scientists and engineers to adopt behaviourist approaches to the use of computing for education, which not only alienates constructivist-oriented teachers and learners, but also underestimates or underuses the true power of computing for teaching and learning;
-- despite computing’s power as a teaching medium, there are many aspects of teaching and learning that require direct interaction between a student and teacher – and between students – even or especially in a fully online environment (see [Chapter 4, Section 4](section-5/44-online-collaborative-learning.md)) . The importance of face-to-face, human-to-human contact is probably greater the younger or the less mature the learner, but there will still be many learning contexts where face-to-face contact is necessary or highly desirable even for older or mature learners (this is discussed more in [Chapter 11, Section 4](section-12/114-choosing-between-face-to-face-and-online-teach.md)). The importance of frequent face-to-face teacher-student interaction is also probably less than many instructors believe, but more than many advocates of computer learning understand. It is not either/or, but finding the right balance in the right context.
+- despite computing’s power as a teaching medium, there are many aspects of teaching and learning that require direct interaction between a student and teacher – and between students – even or especially in a fully online environment (see [Chapter 4, Section 4](/section-5/44-online-collaborative-learning.md)) . The importance of face-to-face, human-to-human contact is probably greater the younger or the less mature the learner, but there will still be many learning contexts where face-to-face contact is necessary or highly desirable even for older or mature learners (this is discussed more in [Chapter 11, Section 4](/section-12/114-choosing-between-face-to-face-and-online-teach.md)). The importance of frequent face-to-face teacher-student interaction is also probably less than many instructors believe, but more than many advocates of computer learning understand. It is not either/or, but finding the right balance in the right context.
 - computing needs the input and management of teachers and educators, and to some extent learners, to determine the conditions under which computing can best operate as a teaching medium; and teachers need to be in control of the decisions on when and how to use computing for teaching and learning;
 - to use computing well, teachers need to work closely with other specialists, such as instructional designers and computer scientists.
 
@@ -86,7 +86,7 @@ The issue around the value of computing as a medium for teaching is less about i
 
 ## 8.5.5 Assessment
 
-There is a tendency to focus assessment in computing on multiple choice questions and ‘correct’ answers. Although this form of assessment has its value in assessing comprehension and for testing a limited range of mechanical procedures, computing also supports a wider range of assessment techniques, from learner-created blogs and wikis to e-portfolios. These more flexible forms of computer-based assessment are more in alignment with measuring the knowledge and skills that many learners will need in a digital age. Computer-marked assessment is discussed in more detail in [Chapter 9.4](section-10/94-artificial-intelligence.md)
+There is a tendency to focus assessment in computing on multiple choice questions and ‘correct’ answers. Although this form of assessment has its value in assessing comprehension and for testing a limited range of mechanical procedures, computing also supports a wider range of assessment techniques, from learner-created blogs and wikis to e-portfolios. These more flexible forms of computer-based assessment are more in alignment with measuring the knowledge and skills that many learners will need in a digital age. Computer-marked assessment is discussed in more detail in [Chapter 9.4](/section-10/94-artificial-intelligence.md)
 
 ## Reference
 
@@ -96,7 +96,7 @@ Jordan, S. (2011) [Using interactive computer‐based assessment to support begi
 
 1\. Take one of the courses you are teaching. What key presentational aspects of computing could be important for this course?
 
-2\. Look at the skills listed in [Section 1.2](section-2/12-the-skills-needed-in-a-digital-age.md) of this book. Which of these skills would best be developed through the use of computing rather than other media? How would you do this using computer-based teaching?
+2\. Look at the skills listed in [Section 1.2](/section-2/12-the-skills-needed-in-a-digital-age.md) of this book. Which of these skills would best be developed through the use of computing rather than other media? How would you do this using computer-based teaching?
 
 3\. Under what conditions would it be more appropriate in any of your courses for students to be assessed by asking them to create their own multimedia project portfolios rather than through a written exam? What assessment conditions would be necessary to ensure the authenticity of a student’s work? Would this form of assessment be extra work for you?
 

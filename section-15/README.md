@@ -12,21 +12,21 @@ When you have read this chapter, you should be able to:
 
 ##  What is covered in this chapter
 
-- [14.1 Are you a super-hero?](section-15/141-are-you-a-super-hero.md)
-- [14.2 The development and training of teachers and instructors in a digital age](section-15/142-the-development-and-training-of-teachers-and-i.md)
-- [14.3 Learning technology support](section-15/143-learning-technology-support.md)
-- [14.4 Conditions of employment](section-15/144-conditions-of-employment.md)
-- [14.5 Team teaching](section-15/145-team-teaching.md)
-- [14.6 An institutional strategy for teaching in a digital age](section-15/146-an-institutional-strategy-for-teaching-in-a-di.md)
+- [14.1 Are you a super-hero?](/section-15/141-are-you-a-super-hero.md)
+- [14.2 The development and training of teachers and instructors in a digital age](/section-15/142-the-development-and-training-of-teachers-and-i.md)
+- [14.3 Learning technology support](/section-15/143-learning-technology-support.md)
+- [14.4 Conditions of employment](/section-15/144-conditions-of-employment.md)
+- [14.5 Team teaching](/section-15/145-team-teaching.md)
+- [14.6 An institutional strategy for teaching in a digital age](/section-15/146-an-institutional-strategy-for-teaching-in-a-di.md)
 
 Also in this chapter you will find the following activities
 
 - Activity 14.1 There is no activity for this section
-- [Activity 14.2 Identifying your professional training needs](section-15/142-the-development-and-training-of-teachers-and-i.md)
-- [Activity 14.3 Learning technology support](section-15/143-learning-technology-support.md)
-- [Activity 14.4 Conditions of employment](section-15/144-conditions-of-employment.md)
-- [Activity 14.5 Designing a team approach](section-15/145-team-teaching.md)
-- [Activity 14.6 Developing an institutional strategy for supporting teaching and learning](section-15/146-an-institutional-strategy-for-teaching-in-a-di.md)
+- [Activity 14.2 Identifying your professional training needs](/section-15/142-the-development-and-training-of-teachers-and-i.md)
+- [Activity 14.3 Learning technology support](/section-15/143-learning-technology-support.md)
+- [Activity 14.4 Conditions of employment](/section-15/144-conditions-of-employment.md)
+- [Activity 14.5 Designing a team approach](/section-15/145-team-teaching.md)
+- [Activity 14.6 Developing an institutional strategy for supporting teaching and learning](/section-15/146-an-institutional-strategy-for-teaching-in-a-di.md)
 
 > [!IMPORTANT]
 > **Announcement**

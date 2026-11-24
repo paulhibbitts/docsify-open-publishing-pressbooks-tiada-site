@@ -103,7 +103,7 @@ Salmon, G. and Edirisingha, P. (2008) *[Podcasting for Learning in Universities]
 
 1\. Take one of the courses you are teaching. What key presentational aspects of audio could be important for this course?
 
-2\. Look at the skills listed in [Section 1.2](section-2/12-the-skills-needed-in-a-digital-age.md) of this book. Which of these skills would best be developed through the use of audio rather than other media? How would you do this using audio-based teaching?
+2\. Look at the skills listed in [Section 1.2](/section-2/12-the-skills-needed-in-a-digital-age.md) of this book. Which of these skills would best be developed through the use of audio rather than other media? How would you do this using audio-based teaching?
 
 3\. Under what conditions would it be more appropriate for students to be assessed by asking them to make an audio recording? How could this be done under assessment conditions?
 

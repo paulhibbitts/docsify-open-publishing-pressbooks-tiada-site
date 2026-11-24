@@ -7,12 +7,12 @@
 
  As in the case of learner characteristics, you may not have a lot of control over the resources available, but resources (or the lack of them) will impact a great deal on the design of teaching. Securing appropriate resources is often one of the most challenging tasks for many teachers and instructors. The role of resources in the design of learning is also discussed throughout the book, but particularly in:
 
-- [Chapter 1, Section 5](section-2/15-the-impact-of-expansion-on-teaching-methods.md)
-- [Chapter 10, Section 7](section-11/107-organisational-issues.md)
-- [Chapter 11, Section 4.2](section-12/114-choosing-between-face-to-face-and-online-teach.md)
-- [Chapter 13, Section 6](section-14/136-step-four-build-on-existing-resources.md)
-- [Chapter 14, Section 3](section-15/143-learning-technology-support.md)
-- [Chapter 14, Section 4](section-15/144-conditions-of-employment.md)
+- [Chapter 1, Section 5](/section-2/15-the-impact-of-expansion-on-teaching-methods.md)
+- [Chapter 10, Section 7](/section-11/107-organisational-issues.md)
+- [Chapter 11, Section 4.2](/section-12/114-choosing-between-face-to-face-and-online-teach.md)
+- [Chapter 13, Section 6](/section-14/136-step-four-build-on-existing-resources.md)
+- [Chapter 14, Section 3](/section-15/143-learning-technology-support.md)
+- [Chapter 14, Section 4](/section-15/144-conditions-of-employment.md)
 
 Here the focus is just on outlining the overall role of resources in creating an effective learning environment.
 
@@ -42,13 +42,13 @@ Classroom technology such as whiteboards, projectors and computers for presentat
 
 ## 6.7.4 The time of the teacher or instructor
 
-This is the greatest and most precious resource of all! Building an effective learning environment is an iterative process, but in the end, the teaching design, and to some extent the learning environment as a whole, will be dependent on the time available from the teacher or instructor (and his or her team) for teaching. The less time available, the more restrictive the learning environment is likely to be, unless the instructor’s time is very carefully managed. Again, though, good design takes into account the time available for teaching (see [Chapter 13, Section 9 ](section-14/139-step-seven-design-course-structure-and-learnin.md)in particular).
+This is the greatest and most precious resource of all! Building an effective learning environment is an iterative process, but in the end, the teaching design, and to some extent the learning environment as a whole, will be dependent on the time available from the teacher or instructor (and his or her team) for teaching. The less time available, the more restrictive the learning environment is likely to be, unless the instructor’s time is very carefully managed. Again, though, good design takes into account the time available for teaching (see [Chapter 13, Section 9 ](/section-14/139-step-seven-design-course-structure-and-learnin.md)in particular).
 
 ## 6.7.5 Resources, class size and control
 
 Nothing drives a teacher or instructor to distraction more than trying to manage with inadequate resources. Certainly, if an instructor is allocated a class of 200 students, in a large lecture hall, with no additional teaching support, then they are going to have difficulty creating a rich and effective learning environment, because the lack of resources limits the options. On the other hand, a teacher with 30 students, access to a wide range of technology, freedom to organise and structure the curriculum, and with online support from an instructional designer and a web designer, has the luxury of exploring a range of different designs and possible learning environments.
 
-Nevertheless it is probably when resources are most scarce that the most creativity is needed to break out of traditional teaching models. New technology, if properly used and available, does enable even large classes with otherwise few resources to be designed with a relatively rich learning environment. This is discussed in more detail in [Chapter 14, Section 5.](section-15/145-team-teaching.md) At the same time, expectations need to be realistic. Providing adequate learner support with an instructor:student ratio of 1:200 or more will always be a challenge. Improvements are possible through re-design – but not miracles. (For more on increasing productivity through online teaching, see [Productivity and Online Learning Redux](http://www.tonybates.ca/2013/12/23/productivity-and-online-learning-redux/).)
+Nevertheless it is probably when resources are most scarce that the most creativity is needed to break out of traditional teaching models. New technology, if properly used and available, does enable even large classes with otherwise few resources to be designed with a relatively rich learning environment. This is discussed in more detail in [Chapter 14, Section 5.](/section-15/145-team-teaching.md) At the same time, expectations need to be realistic. Providing adequate learner support with an instructor:student ratio of 1:200 or more will always be a challenge. Improvements are possible through re-design – but not miracles. (For more on increasing productivity through online teaching, see [Productivity and Online Learning Redux](http://www.tonybates.ca/2013/12/23/productivity-and-online-learning-redux/).)
 
 ## References
 

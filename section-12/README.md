@@ -10,19 +10,19 @@ When you have completed this chapter you should be able to:
 
 ## What is covered in this chapter
 
-- [11.1 The continuum of technology-based learning](section-12/111-the-continuum-of-technology-based-learning.md)
-- [11.2 Comparing modes of delivery](section-12/112-comparing-modes-of-delivery.md)
-- [11.3 Which mode? Student needs](section-12/113-which-mode-student-needs.md)
-- [11.4 ](section-12/114-choosing-between-face-to-face-and-online-teach.md)[Choosing between face-to-face and online teaching on campus](section-12/114-choosing-between-face-to-face-and-online-teach.md)
-- [11.5 The future of the campus](section-12/115-the-future-of-the-campus.md)
+- [11.1 The continuum of technology-based learning](/section-12/111-the-continuum-of-technology-based-learning.md)
+- [11.2 Comparing modes of delivery](/section-12/112-comparing-modes-of-delivery.md)
+- [11.3 Which mode? Student needs](/section-12/113-which-mode-student-needs.md)
+- [11.4 ](/section-12/114-choosing-between-face-to-face-and-online-teach.md)[Choosing between face-to-face and online teaching on campus](/section-12/114-choosing-between-face-to-face-and-online-teach.md)
+- [11.5 The future of the campus](/section-12/115-the-future-of-the-campus.md)
 
 Also in this chapter you will find the following activities:
 
-- [Activity 11.1 Where on the continuum are your courses?](section-12/111-the-continuum-of-technology-based-learning.md)
-- [Activity 11.2 Defining the ‘magic of the campus’](section-12/112-comparing-modes-of-delivery.md)
-- [Activity 11.3 Knowing your students](section-12/113-which-mode-student-needs.md)
-- [Activity 11.4 Deciding on the mode of delivery](section-12/114-choosing-between-face-to-face-and-online-teach.md)
-- [Activity 11.5 Redesigning your classroom space](section-12/115-the-future-of-the-campus.md)
+- [Activity 11.1 Where on the continuum are your courses?](/section-12/111-the-continuum-of-technology-based-learning.md)
+- [Activity 11.2 Defining the ‘magic of the campus’](/section-12/112-comparing-modes-of-delivery.md)
+- [Activity 11.3 Knowing your students](/section-12/113-which-mode-student-needs.md)
+- [Activity 11.4 Deciding on the mode of delivery](/section-12/114-choosing-between-face-to-face-and-online-teach.md)
+- [Activity 11.5 Redesigning your classroom space](/section-12/115-the-future-of-the-campus.md)
 
 #### Key Takeaways from this chapter
 

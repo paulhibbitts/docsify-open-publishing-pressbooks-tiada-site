@@ -9,7 +9,7 @@
 
 ## 6.3.1 Increased diversity
 
-I noted in [Chapter 1 (Section 6)](section-2/16-changing-students-changing-markets-for-higher-e.md) that in developed countries such as Canada:
+I noted in [Chapter 1 (Section 6)](/section-2/16-changing-students-changing-markets-for-higher-e.md) that in developed countries such as Canada:
 
 *public* *post-secondary institutions are expected to represent the same kind of socio-economic and cultural diversity as in society at large, rather than being institutions reserved for an elite minority*.
 
@@ -49,11 +49,11 @@ However, the more diverse the students in a program, the more diverse the knowle
 
 Most students today have grown up with digital technologies such as mobile phones, tablets and social media, including Facebook, Twitter, blogs and wikis. Prensky ([2010](http://www.marcprensky.com/writing/Prensky%20-%20Digital%20Natives,%20Digital%20Immigrants%20-%20Part1.pdf)) and others (e.g. Tapscott, [2008](http://socium.ge/downloads/komunikaciisteoria/eng/Grown_Up_Digital_-_How_the_Net_Generation_Is_Changing_Your_World_(Don_Tapscott).pdf)) argue that not only are such students more proficient in using such technologies than previous generations, but that they also think differently (Tapscott, [2008](http://socium.ge/downloads/komunikaciisteoria/eng/Grown_Up_Digital_-_How_the_Net_Generation_Is_Changing_Your_World_(Don_Tapscott).pdf)).
 
-However, it is particularly important to understand that students themselves vary a great deal in their use of social media and new technologies, that their use is largely driven by social and personal demands, and their use of digital technologies does not naturally flow across into educational use. They will use new technologies and social media for learning though where instructors make a good case for it and when students can see that the use of digital media will directly help them in their studies. For this to happen though deliberate design choices are required on the part of the instructor. (For more on the issue of digital natives, see [Chapter 9, Section 2.2](section-11/102-students.md))
+However, it is particularly important to understand that students themselves vary a great deal in their use of social media and new technologies, that their use is largely driven by social and personal demands, and their use of digital technologies does not naturally flow across into educational use. They will use new technologies and social media for learning though where instructors make a good case for it and when students can see that the use of digital media will directly help them in their studies. For this to happen though deliberate design choices are required on the part of the instructor. (For more on the issue of digital natives, see [Chapter 9, Section 2.2](/section-11/102-students.md))
 
 ## 6.3.6 Technology access
 
-The Covid-19 pandemic clearly illustrated that even in the most economically advanced countries, there is still a significant proportion of students who lack technology access. Technology access will be discussed more fully in [Chapter 9.2](section-11/102-students.md).
+The Covid-19 pandemic clearly illustrated that even in the most economically advanced countries, there is still a significant proportion of students who lack technology access. Technology access will be discussed more fully in [Chapter 9.2](/section-11/102-students.md).
 
 ## 6.3.7 In conclusion
 
@@ -81,7 +81,7 @@ Vygotsky, L. (1978) *[Mind in Society: Development of Higher Psychological Proce
 
 3\. How much variance is there between your students in prior knowledge and/or language ability? How does this affect the way you teach?
 
-You may want to read [Chapter 9, Section 2](section-11/102-students.md) and [Chapter 10, Section 3](section-12/113-which-mode-student-needs.md) before you answer these questions.
+You may want to read [Chapter 9, Section 2](/section-11/102-students.md) and [Chapter 10, Section 3](/section-12/113-which-mode-student-needs.md) before you answer these questions.
 
 This exercise is mainly for your reflection, but I do have a few comments on these issues in the podcast below:
 

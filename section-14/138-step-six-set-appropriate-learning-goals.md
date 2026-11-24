@@ -13,7 +13,7 @@ Nevertheless, there remain many contexts where teachers and instructors have a d
 
 ## 13.8.2 Learning goals for a digital age
 
-In [Chapter 1, Section 2](section-2/12-the-skills-needed-in-a-digital-age.md), I listed a number of skills that learners will need in a digital age, including:
+In [Chapter 1, Section 2](/section-2/12-the-skills-needed-in-a-digital-age.md), I listed a number of skills that learners will need in a digital age, including:
 
 - modern communication skills;
 - independent learning;
@@ -83,6 +83,6 @@ Royal Bank of Canada (2018) *[Humans Wanted](https://www.rbc.com/dms/enterprise/
 
 2\. If you could design this course from scratch, would the learning goals change or just the teaching methodology?
 
-3\. If you were to introduce some of the skills for a digital age listed in [Chapter 1, Section 2](section-2/12-the-skills-needed-in-a-digital-age.md), what activities would need to be built into the course to enable students to develop such skills? How would you assess these skills?
+3\. If you were to introduce some of the skills for a digital age listed in [Chapter 1, Section 2](/section-2/12-the-skills-needed-in-a-digital-age.md), what activities would need to be built into the course to enable students to develop such skills? How would you assess these skills?
 
 Again there is no feedback on this activity; other chapters in the book contain some guidelines or answers.

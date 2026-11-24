@@ -7,7 +7,7 @@
 
  ## 6.5.1 Skills in a digital age
 
-In [Chapter 1, Section 1.2,](section-2/12-the-skills-needed-in-a-digital-age.md) I listed some of the skills that graduates need in a digital age, and argued that consequently a greater focus is now needed on developing such skills, at all levels of education, but particularly at a post-secondary level, where the focus is often on specialised content. Although skills such as critical thinking, problem solving and creative thinking have always been valued in higher education, the identification and development of such skills is often implicit and almost accidental, as if students will somehow pick up these skills from observing faculty themselves demonstrating such skills or through some form of osmosis resulting from the study of content.
+In [Chapter 1, Section 1.2,](/section-2/12-the-skills-needed-in-a-digital-age.md) I listed some of the skills that graduates need in a digital age, and argued that consequently a greater focus is now needed on developing such skills, at all levels of education, but particularly at a post-secondary level, where the focus is often on specialised content. Although skills such as critical thinking, problem solving and creative thinking have always been valued in higher education, the identification and development of such skills is often implicit and almost accidental, as if students will somehow pick up these skills from observing faculty themselves demonstrating such skills or through some form of osmosis resulting from the study of content.
 
 It is of course somewhat artificial to separate content from skills, because content is the fuel that drives the development of intellectual skills. My aim here is not to downplay the importance of content, but to ensure that skills development receives as much focus and attention from instructors, and that we approach intellectual skills development in the same rigorous and explicit way as apprentices are trained in manual skills.
 
@@ -15,10 +15,10 @@ It is of course somewhat artificial to separate content from skills, because con
 
 Thus a critical step is to be explicit about what skills a particular course or program is trying to develop, and to define these goals in such a way that they can be implemented and assessed. In other words it is not enough to say that a course aims to develop critical thinking, but to state clearly what this would look like in the context of the particular course or content area, in ways that are clear to students. In particular skills should be defined in such a way that they can be assessed, and students should be aware of the criteria or rubrics that will be used for assessment. Skills development is discussed throughout the book, but particularly in:
 
-- [Chapter 1, Section 2](section-2/12-the-skills-needed-in-a-digital-age.md)
-- [Chapter 3, Section 5](section-4/35-learning-by-doing-experiential-learning.md) and [Section 6](section-4/36-learning-by-doing-apprenticeship.md)
-- [Chapter 4, Section 5](section-5/45-competency-based-learning.md)
-- [Chapter 11, Section 4](section-12/114-choosing-between-face-to-face-and-online-teach.md)
+- [Chapter 1, Section 2](/section-2/12-the-skills-needed-in-a-digital-age.md)
+- [Chapter 3, Section 5](/section-4/35-learning-by-doing-experiential-learning.md) and [Section 6](/section-4/36-learning-by-doing-apprenticeship.md)
+- [Chapter 4, Section 5](/section-5/45-competency-based-learning.md)
+- [Chapter 11, Section 4](/section-12/114-choosing-between-face-to-face-and-online-teach.md)
 
 ## 6.5.3 Thinking activities
 
@@ -32,13 +32,13 @@ There are many ways in which intellectual skills can be developed and assessed, 
 
 It is a given in vocational programs that students need lots of practical activities to develop their manual skills. This though is equally true for intellectual skills. Students need to be able to demonstrate where they are along the road to mastery, get feedback on it, and retry as a result. This means doing work that enables them to practice specific skills.
 
-In the history scenario ([Scenario D](section-5/scenario-d-developing-historical-thinking.md)), students had to cover and understand the essential content in the first three weeks, do research in a group, develop an agreed project report, in the form of an e-portfolio, share it with other students and the instructor for comments, feedback and assessment, and present their report orally and online. Ideally, they will have the opportunity to carry over many of these skills into other courses where the skills can be further refined and developed. Thus, with skills development, a longer term horizon than a single course will be necessary, so integrated program as well as course planning is important.
+In the history scenario ([Scenario D](/section-5/scenario-d-developing-historical-thinking.md)), students had to cover and understand the essential content in the first three weeks, do research in a group, develop an agreed project report, in the form of an e-portfolio, share it with other students and the instructor for comments, feedback and assessment, and present their report orally and online. Ideally, they will have the opportunity to carry over many of these skills into other courses where the skills can be further refined and developed. Thus, with skills development, a longer term horizon than a single course will be necessary, so integrated program as well as course planning is important.
 
 ## 6.5.5 Discussion as a tool for developing intellectual skills
 
 Discussion is a very important tool for developing thinking skills. However, not *any* kind of discussion. It was argued in Chapter 2 that academic knowledge requires a different kind of thinking to everyday thinking. It usually requires students to see the world differently, in terms of underlying principles, abstractions and ideas.
 
-Thus discussion needs to be carefully managed by the instructor, so that it focuses on the development of skills in thinking that are integral to the area of study. This requires the instructor to plan, structure and support discussion within the class, keeping the discussions in focus, and providing opportunities to demonstrate how experts in the field approach topics under discussion, and comparing students’ efforts. The role of discussion is covered more fully in [Chapter 3, Section 4,](section-4/34-interactive-lectures-seminars-and-tutorials-lea.md) [Chapter 4, Section 4](section-5/44-online-collaborative-learning.md) and [Chapter 12, Section 10](section-14/1310-step-eight-communicate-communicate-communicat.md).
+Thus discussion needs to be carefully managed by the instructor, so that it focuses on the development of skills in thinking that are integral to the area of study. This requires the instructor to plan, structure and support discussion within the class, keeping the discussions in focus, and providing opportunities to demonstrate how experts in the field approach topics under discussion, and comparing students’ efforts. The role of discussion is covered more fully in [Chapter 3, Section 4,](/section-4/34-interactive-lectures-seminars-and-tutorials-lea.md) [Chapter 4, Section 4](/section-5/44-online-collaborative-learning.md) and [Chapter 12, Section 10](/section-14/1310-step-eight-communicate-communicate-communicat.md).
 
 ## 6.5.6 In conclusion
 
@@ -53,7 +53,7 @@ This is a very brief discussion of how and why skills development should be an i
 
 ### Activity 6.5 Developing skills
 
-1. Returning to the [HIST 305 scenario](section-5/scenario-d-developing-historical-thinking.md), what specific skills was Ralph Goodyear trying to develop in his course?
+1. Returning to the [HIST 305 scenario](/section-5/scenario-d-developing-historical-thinking.md), what specific skills was Ralph Goodyear trying to develop in his course?
 2. Are the skills being developed by students in the history scenario relevant to a digital age?
 3. Is this section likely to change the way you think about teaching your subject, or do you already cover skills development adequately? If you feel you do cover skills development well, does your approach differ from mine?
 

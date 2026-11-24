@@ -83,7 +83,7 @@ The attraction of web-based video-conferencing was two-fold:
 
 This approach though ignored more than 20 years of best practice in online learning. The results of the hasty move to synchronous video-conferencing were not pretty, but it did save the academic year, and more importantly, many lives. Also, lessons were learned. There were some advantages as well as disadvantages of synchronous video-conferencing. The sudden move to emergency remote learning also highlighted the critical importance of support units such as Centres for Teaching and Learning and specialists such as instructional designers. As a result, there was a huge increase in professional development and training in teaching.
 
-These and other lessons learned require that the third edition of this book takes into account both developments during the pandemic, and the consequences for post-pandemic teaching and learning. I have a new section ([Chapter 1.8](section-2/18-the-impact-of-covid-19-on-teaching-and-learning.md)) on some of the key lessons learned, and other lessons are considered in the context of the book as a whole.
+These and other lessons learned require that the third edition of this book takes into account both developments during the pandemic, and the consequences for post-pandemic teaching and learning. I have a new section ([Chapter 1.8](/section-2/18-the-impact-of-covid-19-on-teaching-and-learning.md)) on some of the key lessons learned, and other lessons are considered in the context of the book as a whole.
 
 Fortunately, and perhaps also surprisingly, though, earlier editions of the book stand up well to the lessons learned from Covid-19. In particular the overall structure and themes are still relevant, but this edition makes an effort to take the lessons from the pandemic into account.
 
@@ -104,7 +104,7 @@ Lastly, although technology is a core focus of this book, I am not advocating ri
 
 ## iv. Why an ‘open’ textbook?
 
-Although I retain the copyright through a Creative Commons CC BY-NC license, this book is ‘open’ in all five ways described in [Chapter 12, Section 2](section-13/122-open-educational-resources-oer.md):
+Although I retain the copyright through a Creative Commons CC BY-NC license, this book is ‘open’ in all five ways described in [Chapter 12, Section 2](/section-13/122-open-educational-resources-oer.md):
 
 - re-usable: you are allowed to use all or part of the work for your own purposes (for example, you can download any part or the whole of the book, and use it in your own teaching or studies, without needing to ask for permission or to pay anything);
 - re-distributable: you can share the work with others (for example, you can e-mail a section of the book to a colleague or fellow student);
@@ -118,7 +118,7 @@ The first edition was published as I wrote it, a chapter at a time. I published 
 
 ## v. Independent reviews of the book
 
-Shortly after publication of the first full draft of the book, I requested three independent experts in the field to review the book. The process that was followed, and the full, unedited reviews, can be seen in [Appendix 3](section-19/README.md). This book was also independently selected and [reviewed by MERLOT](https://www.merlot.org/merlot/viewCompositeReview.htm?id=1356177). There are also [23 reviews of the book](https://open.umn.edu/opentextbooks/textbooks/teaching-in-a-digital-age-guidelines-for-designing-teaching-and-learning-for-a-digital-age) in BCcampus’ Open Textbook Library.
+Shortly after publication of the first full draft of the book, I requested three independent experts in the field to review the book. The process that was followed, and the full, unedited reviews, can be seen in [Appendix 3](/section-19/README.md). This book was also independently selected and [reviewed by MERLOT](https://www.merlot.org/merlot/viewCompositeReview.htm?id=1356177). There are also [23 reviews of the book](https://open.umn.edu/opentextbooks/textbooks/teaching-in-a-digital-age-guidelines-for-designing-teaching-and-learning-for-a-digital-age) in BCcampus’ Open Textbook Library.
 
 ## vi. Different ways to use the book
 
@@ -136,7 +136,7 @@ The book is written on the assumption (based on research) that most reading will
 
 Many of the sections will have activities added, which mainly require you to reflect on how what you have read relates to your own work or context. These activities will usually take no more than 30 minutes each.
 
-Each chapter begins with a set of learning goals for the chapter, the topics covered, a list of activities for the chapter, and the key takeaways or main points made. To access this, just click the chapter heading (e.g. [Chapter 1: Fundamental Change in Education](section-2/README.md)). \[Note that text in blue often indicates a live link/url – just click on it to activate it. This doesn’t always show clearly on screens under certain conditions so run your cursor – or finger on mobile devices – over the text to see where the links are.\] The arrows in the red section at the bottom of the page will take you either to the previous page or the next page.
+Each chapter begins with a set of learning goals for the chapter, the topics covered, a list of activities for the chapter, and the key takeaways or main points made. To access this, just click the chapter heading (e.g. [Chapter 1: Fundamental Change in Education](/section-2/README.md)). \[Note that text in blue often indicates a live link/url – just click on it to activate it. This doesn’t always show clearly on screens under certain conditions so run your cursor – or finger on mobile devices – over the text to see where the links are.\] The arrows in the red section at the bottom of the page will take you either to the previous page or the next page.
 
 There are many different ways this book could be used. Here are some suggestions:
 
@@ -150,14 +150,14 @@ There are also:
 
 - podcasts and occasionally a video giving my personal spin on each chapter,
 - a search facility at the top right corner of each page – just type in the word or phrase you are looking for,
-- [a full bibliography](section-21/bibliography.md) containing all the references in the book
+- [a full bibliography](/section-21/bibliography.md) containing all the references in the book
 - there is no index: use the search engine \[Search in book (Q)\] located at the top right of each section. Type in the term or name you are looking for. It will provide a list of the sections where this term or name is used..
 
 This book – as indeed are open textbooks in general – is a work in progress, so keep checking back to see what new features are being added over time. As new developments occur, I will try to ensure that they are incorporated so that the book stays up to date (also you can follow [my blog](https://www.tonybates.ca/)). I will also make changes based on feedback from readers.
 
 ## vii. An overview of the content
 
-### [Chapter 1 Fundamental change in Education](section-2/README.md)
+### [Chapter 1 Fundamental change in Education](/section-2/README.md)
 
 This sets the stage for the rest of the book. Chapter 1 looks at the key changes that are forcing teachers and instructors to reconsider their goals and methods of teaching, In particular it identifies the key knowledge and skills that students need in a digital age, and how technology is changing everything, including the context in which we teach.
 
@@ -165,51 +165,51 @@ This sets the stage for the rest of the book. Chapter 1 looks at the key changes
 
 These chapters address the more theoretical and methodological aspects of teaching and learning in a digital age.
 
-[Chapter 2](section-3/README.md) covers different views on the nature of knowledge and how these understandings of knowledge influence theories of learning and methods of teaching.
+[Chapter 2](/section-3/README.md) covers different views on the nature of knowledge and how these understandings of knowledge influence theories of learning and methods of teaching.
 
-[Chapter 3](section-4/README.md) analyses the strengths and weaknesses of different campus-based methods of teaching and
+[Chapter 3](/section-4/README.md) analyses the strengths and weaknesses of different campus-based methods of teaching and
 
-[Chapter 4 ](section-5/README.md)does the same for blended and fully online methods. These chapters form a theoretical foundation for what follows.
+[Chapter 4 ](/section-5/README.md)does the same for blended and fully online methods. These chapters form a theoretical foundation for what follows.
 
 ### Chapters 5-9: Media and technology
 
 The focus in these five chapters is on how to choose and use different media and technologies in teaching, with a particular focus on the unique pedagogical characteristics of different media.
 
-[Chapter 5](section-6/README.md) looks at the strengths and weaknesses of MOOCs.
+[Chapter 5](/section-6/README.md) looks at the strengths and weaknesses of MOOCs.
 
-[Chapter 6 ](section-7/README.md)looks at the main components of an effective learning environment (this was Appendix 1 in the first edition).
+[Chapter 6 ](/section-7/README.md)looks at the main components of an effective learning environment (this was Appendix 1 in the first edition).
 
-[Chapter 7](section-8/README.md) examines the difference between ‘media’ and ‘technology’ in educational contexts and provides an analytical framework for understanding the differences between media.
+[Chapter 7](/section-8/README.md) examines the difference between ‘media’ and ‘technology’ in educational contexts and provides an analytical framework for understanding the differences between media.
 
-[Chapter 8](section-9/README.md) then applies the analytical framework to identify the educational ‘affordances’, the strengths and weaknesses, of different media,
+[Chapter 8](/section-9/README.md) then applies the analytical framework to identify the educational ‘affordances’, the strengths and weaknesses, of different media,
 
-[Chapter 9](section-10/README.md) examines four emerging technologies (social media, artificial intelligence, virtual/augmented reality, and serious/educational games)
+[Chapter 9](/section-10/README.md) examines four emerging technologies (social media, artificial intelligence, virtual/augmented reality, and serious/educational games)
 
-[Chapter 10](section-11/README.md) offers a set of criteria and a model (SECTIONS) for making decisions about different media and technologies for teaching.
+[Chapter 10](/section-11/README.md) offers a set of criteria and a model (SECTIONS) for making decisions about different media and technologies for teaching.
 
-[Chapter 11](section-12/README.md) addresses the question of how to determine what mode of delivery should be used: campus-based, blended or fully online.
+[Chapter 11](/section-12/README.md) addresses the question of how to determine what mode of delivery should be used: campus-based, blended or fully online.
 
-[Chapter 12](section-13/README.md) examines the potentially disruptive implications of recent developments in open content, open publishing, open data and open research. This chapter above all is a messenger of the radical changes to come to education.
+[Chapter 12](/section-13/README.md) examines the potentially disruptive implications of recent developments in open content, open publishing, open data and open research. This chapter above all is a messenger of the radical changes to come to education.
 
 ### Chapters 13-14: Ensuring quality in teaching in a digital age
 
 These take two different but complementary approaches to the issue of ensuring high quality teaching in a digital age.
 
-[Chapter 13](section-14/README.md) suggests nine pragmatic steps for designing and delivering quality teaching in a highly digital teaching context.
+[Chapter 13](/section-14/README.md) suggests nine pragmatic steps for designing and delivering quality teaching in a highly digital teaching context.
 
-[Chapter 14](section-15/README.md) very briefly examines the policy and operational support needed from schools, colleges and universities to ensure relevant and high quality teaching in a digital age.
+[Chapter 14](/section-15/README.md) very briefly examines the policy and operational support needed from schools, colleges and universities to ensure relevant and high quality teaching in a digital age.
 
 ### Chapter 15: The book in a nutshell
 
-[Chapter 15](section-16/README.md) provides a brief summary of the main issues the book attempts to address
+[Chapter 15](/section-16/README.md) provides a brief summary of the main issues the book attempts to address
 
 ### Appendices
 
-[Appendix 1 ](section-17/README.md)is a set of questions, to be used in conjunction with the SAMR and SECTIONS models, to help you make decisions about the choice and use of media within your own teaching context.
+[Appendix 1 ](/section-17/README.md)is a set of questions, to be used in conjunction with the SAMR and SECTIONS models, to help you make decisions about the choice and use of media within your own teaching context.
 
-[Appendix 2](section-18/README.md) is a list of different online learning quality standards, organisations and research
+[Appendix 2](/section-18/README.md) is a list of different online learning quality standards, organisations and research
 
-[Appendix 3](section-19/README.md) includes three independent peer reviews commissioned at the completion of the first edition of this book, as well as an unsolicited review for [MERLOT](https://www.merlot.org/merlot/) by its Teacher Education Editorial Board.
+[Appendix 3](/section-19/README.md) includes three independent peer reviews commissioned at the completion of the first edition of this book, as well as an unsolicited review for [MERLOT](https://www.merlot.org/merlot/) by its Teacher Education Editorial Board.
 
 Finally, there is a section that provides feedback on activities set at the end of several sections of the book.
 

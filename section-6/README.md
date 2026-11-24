@@ -21,22 +21,22 @@ When you have finished this chapter you should be able to:
 
 This chapter covers the following topics:
 
-- [5.1 Brief history](section-6/51-brief-history.md)
-- [5.2 What is a MOOC?](section-6/52-what-is-a-mooc.md)
-- [5.3 A taxonomy of MOOCs](section-6/53-a-taxonomy-of-moocs.md)
-- [5.4 Strengths and weaknesses of MOOCs](section-6/54-strengths-and-weaknesses-of-moocs.md)
-- [5.5 Political, social and economic drivers of MOOCs](section-6/55-political-social-and-economic-drivers-of-moocs.md)
-- [5.6 Why MOOCs are only part of the answer](section-6/56-why-moocs-are-only-part-of-the-answer.md)
-- [Scenario F: How to cope with being old](section-6/scenario-f-how-to-cope-with-being-old.md)
+- [5.1 Brief history](/section-6/51-brief-history.md)
+- [5.2 What is a MOOC?](/section-6/52-what-is-a-mooc.md)
+- [5.3 A taxonomy of MOOCs](/section-6/53-a-taxonomy-of-moocs.md)
+- [5.4 Strengths and weaknesses of MOOCs](/section-6/54-strengths-and-weaknesses-of-moocs.md)
+- [5.5 Political, social and economic drivers of MOOCs](/section-6/55-political-social-and-economic-drivers-of-moocs.md)
+- [5.6 Why MOOCs are only part of the answer](/section-6/56-why-moocs-are-only-part-of-the-answer.md)
+- [Scenario F: How to cope with being old](/section-6/scenario-f-how-to-cope-with-being-old.md)
 
 Also in this chapter you will find the following activities:
 
 - Activity 5.1 There is no activity provided for this section
 - Activity 5.2 There is no activity provided for this section
-- [Activity 5.3 Thinking about MOOC design](section-6/53-a-taxonomy-of-moocs.md)
-- [Activity 5.4 Assessing the strengths and weaknesses of MOOCs](section-6/54-strengths-and-weaknesses-of-moocs.md)
-- [Activity 5.5. Assessing the importance of MOOCs](section-6/55-political-social-and-economic-drivers-of-moocs.md)
-- [Activity 5.6 Strategising about MOOCs](section-6/scenario-f-how-to-cope-with-being-old.md)
+- [Activity 5.3 Thinking about MOOC design](/section-6/53-a-taxonomy-of-moocs.md)
+- [Activity 5.4 Assessing the strengths and weaknesses of MOOCs](/section-6/54-strengths-and-weaknesses-of-moocs.md)
+- [Activity 5.5. Assessing the importance of MOOCs](/section-6/55-political-social-and-economic-drivers-of-moocs.md)
+- [Activity 5.6 Strategising about MOOCs](/section-6/scenario-f-how-to-cope-with-being-old.md)
 
 #### Key Takeaways
 

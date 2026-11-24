@@ -20,7 +20,7 @@ Open education can take a number of forms:
 - *open data,* that is, data open to anyone to use, reuse, and redistribute, subject only, at most, to the requirement to attribute and share; see for example the World Bank’s [Open Data Bank](https://databank.worldbank.org/home.aspx);
 - *open pedagogy*, a method of teaching and learning that builds on principles of open-ness and learner participation
 
-Each of these developments is discussed in more detail in this chapter, except for MOOCs, which are discussed extensively in [Chapter 5](section-6/README.md).
+Each of these developments is discussed in more detail in this chapter, except for MOOCs, which are discussed extensively in [Chapter 5](/section-6/README.md).
 
 ## 12.1.2 Education for all – except higher education
 
