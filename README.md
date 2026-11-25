@@ -13,7 +13,7 @@ The original book is by A.W. (Tony) Bates, licensed under [CC BY-NC 4.0](https:/
 - `section-2/` … `section-15/` – Chapters 1 to 14, each with its overview (`README.md`) and pages
 - `section-16/` – The book in a nutshell
 - `section-17/` … `section-20/` – Appendices 1 to 4
-- `section-21/` – Back Matter: bibliography and index
+- `section-21/` – Back Matter: bibliography, index and the book's Copyright page
 
 Images stay on Pressbooks, as they do when the book is brought into Grav.
 

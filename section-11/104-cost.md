@@ -5,7 +5,7 @@
 
 Figure 10.4.1 Total cost of a fully online masters’ course over 7 years (from Bates and Sangrà, 2011). For an explanation of this graph, click on the podcast below
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=318#audio-318-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=318#audio-318-1)
 
  ## 10.4.1 A revolution in media
 
@@ -141,4 +141,4 @@ University of Ottawa (2013) [*Report of the e-Learning Working Group* ](https://
 
 For my feedback on some of these questions, click on the podcast below:
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=318#audio-318-2)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=318#audio-318-2)

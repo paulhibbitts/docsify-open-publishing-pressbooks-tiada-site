@@ -121,4 +121,4 @@ Figlio, D., M. Rush and Yin, L. (2013) [Is It Live or Is It Internet? Experiment
 
 For my response to these three questions listen to the podcast below:
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=137#audio-137-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=137#audio-137-1)

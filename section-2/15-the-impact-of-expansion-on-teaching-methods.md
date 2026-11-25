@@ -51,5 +51,5 @@ Usher, A. (2013) Financing Canadian Universities: A Self-Inflicted Wound (Part 5
 >
 > For my views on these questions click on the podcast below.
 >
-> [View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=43#audio-43-1)
+> [View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=43#audio-43-1)
 >

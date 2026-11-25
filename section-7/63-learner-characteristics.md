@@ -85,4 +85,4 @@ You may want to read [Chapter 9, Section 2](/section-11/102-students.md) and [Ch
 
 This exercise is mainly for your reflection, but I do have a few comments on these issues in the podcast below:
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=201#audio-201-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=201#audio-201-1)

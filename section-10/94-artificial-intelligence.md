@@ -292,6 +292,6 @@ Zeide, E. (2019) [Artificial Intelligence in Higher Education: Applications, Pro
 > > **Interactive Activity**
 > >
 > >
-> > [View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=300#audio-300-1)
+> > [View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=300#audio-300-1)
 > >
 >

@@ -129,4 +129,4 @@ However, I am sure that my lack of references is due to my lack of scholarship i
 
 For feedback on this activity, click on the podcast below:
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=263#audio-263-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=263#audio-263-1)

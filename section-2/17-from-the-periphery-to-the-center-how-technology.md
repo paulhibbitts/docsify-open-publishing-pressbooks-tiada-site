@@ -97,5 +97,5 @@ University of Ottawa (2013) [*Report of the e-Learning Working Group*](https://w
 >
 > For my comments on this activity click on the podcast below:
 >
-> [View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=51#audio-51-1)
+> [View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=51#audio-51-1)
 >

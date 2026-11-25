@@ -75,5 +75,5 @@ US Department of Education (2020) [*Digest of Education Statistics 2020*](https:
 > **Interactive Activity**
 >
 >
-> [View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=171#audio-171-1)
+> [View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=171#audio-171-1)
 >

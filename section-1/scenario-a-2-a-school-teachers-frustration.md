@@ -25,4 +25,4 @@ If any of that rings a bell, this is also the book for you.
 <figcaption>For my comments on the scenario, click on the podcast below</figcaption>
 </figure>
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=19#audio-19-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=19#audio-19-1)

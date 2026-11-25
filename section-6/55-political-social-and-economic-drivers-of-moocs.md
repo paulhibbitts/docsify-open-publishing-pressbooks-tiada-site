@@ -117,5 +117,5 @@ For a more light-hearted look at MOOC mania see:
 > **Interactive Activity**
 >
 >
-> [View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=184#audio-184-1)
+> [View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=184#audio-184-1)
 >

@@ -59,4 +59,4 @@ This is a very brief discussion of how and why skills development should be an i
 
 For feedback in the first two questions, click on the podcast below.
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=208#audio-208-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=208#audio-208-1)

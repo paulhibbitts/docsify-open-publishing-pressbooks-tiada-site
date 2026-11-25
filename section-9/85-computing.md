@@ -104,4 +104,4 @@ Jordan, S. (2011) [Using interactive computer‐based assessment to support begi
 
 For feedback on some of these questions, click on the podcast below:
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=274#audio-274-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=274#audio-274-1)

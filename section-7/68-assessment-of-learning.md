@@ -146,4 +146,4 @@ Topping, K. (2108) [*Using Peer Assessment to Inspire Reflection and Learning*](
 
 For my comments on this activity, click on the podcast below:
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=219#audio-219-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=219#audio-219-1)

@@ -87,5 +87,5 @@ Jonker, L. and Hicks, M. (2014) *[Teaching Loads and Research Outputs of Ontario
 >
 > Click on the podcast below for my views on the above:
 >
-> [View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=444#audio-444-1)
+> [View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=444#audio-444-1)
 >

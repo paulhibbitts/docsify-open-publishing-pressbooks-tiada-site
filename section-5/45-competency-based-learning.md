@@ -154,4 +154,4 @@ The Southern Regional Educational Board in the USA has a comprehensive [Competen
 
 For my response to these questions, click on the podcast below:
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=150#audio-150-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=150#audio-150-1)

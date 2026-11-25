@@ -47,6 +47,6 @@ New technology developments show no sign of slowing down. Over time, other new t
 > >
 > > For feedback on this activity, and my personal observations on these four emerging technologies, click on the podcast below:
 > >
-> > [View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=303#audio-303-1)
+> > [View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=303#audio-303-1)
 > >
 >

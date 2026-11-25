@@ -108,4 +108,4 @@ If your answer is no to the first part of this question, why should education up
 
 For my feedback on this activity click on the podcast below:
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=372#audio-372-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=372#audio-372-1)

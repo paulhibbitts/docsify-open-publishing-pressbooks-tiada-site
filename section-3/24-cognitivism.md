@@ -71,4 +71,4 @@ Fontana, D. (1981) [*Psychology for Teachers*](https://link.springer.com/book/10
 
 Click on the podcast below for my feedback on this activity:
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=74#audio-74-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=74#audio-74-1)

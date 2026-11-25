@@ -5,7 +5,7 @@
 <figcaption>For my comments on why this chapter is important for the rest of the book, please click on the podcast below</figcaption>
 </figure>
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=62#audio-62-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=62#audio-62-1)
 
  All teaching is a mix of art and science. It is an art because any teacher or instructor is faced with numerous and constantly changing variables, which require rapid judgement and decision-making. Good teachers usually have a passion for teaching so the emotional as well as the cognitive side is important. In many cases, it’s also about personal relationships, the extent to which an instructor can empathise with students or appreciate their difficulties in learning, and the extent to which the instructor can communicate effectively.
 
@@ -29,4 +29,4 @@ For this approach to work, though, we need to explore some fundamental issues ab
 
 There is no right or wrong answers here but for my views on this click on the podcast below:
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=62#audio-62-2)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=62#audio-62-2)

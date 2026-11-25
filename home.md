@@ -19,10 +19,10 @@ A.W. (Tony) Bates
 </div>
 
 > [!IMPORTANT]
-> **Teaching in a Digital Age: Third Edition - General — Imported from Pressbooks**
+> **Teaching in a Digital Age: Third Edition - General – Imported from Pressbooks**
 >
 >
-> **Authors:** A.W. (Tony) Bates | **License:** CC BY-NC 4.0 | **139 pages**
+> **Authors:** A.W. (Tony) Bates | **License:** CC BY-NC 4.0 | **141 pages**
 >
 > [View original on Pressbooks](https://pressbooks.bccampus.ca/tonybates/)
 >
@@ -163,6 +163,8 @@ Appendices, bibliography, and versioning history.
 </div>
 
 </div>
+
+**[Start Reading →](section-1/scenario-a-1-a-university-professor-addresses-chan.md)**
 
 Teaching in a Digital Age: Third Edition - General by A.W. (Tony) Bates © 2022 is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a>.
 

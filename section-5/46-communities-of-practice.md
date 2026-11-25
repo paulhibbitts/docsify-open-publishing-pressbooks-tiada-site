@@ -127,4 +127,4 @@ Dingyloudi, F. and Strijbos, J. (2015) Examining value creation in a community o
 
 For my (not very deep) thoughts on these questions, click on the podcast below.
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=154#audio-154-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=154#audio-154-1)

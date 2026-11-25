@@ -131,4 +131,4 @@ Sheridan, K. and Kelly, M. (2010) [The Indicators of Instructor Presence that ar
 
 For feedback on this activity, click on the podcast below:
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=424#audio-424-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=424#audio-424-1)

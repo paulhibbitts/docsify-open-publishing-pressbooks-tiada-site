@@ -123,4 +123,4 @@ Zawacki-Richter, O. and Anderson, T. (eds.) (2014) *[Online Distance Education: 
 
 Click on the podcast below for some feedback on these questions
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=351#audio-351-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=351#audio-351-1)

@@ -22,7 +22,7 @@ Different theories of learning reflect different positions on the nature of know
 <figcaption>For my personal comments on the relationship between epistemologies, theories of learning and teaching methods, please click on the podcast below</figcaption>
 </figure>
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=89#audio-89-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=89#audio-89-1)
 
  The next chapter examines a range of teaching methods that have been developed, their epistemological roots, and their implications for teaching in a digital age.
 

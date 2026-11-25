@@ -146,7 +146,7 @@ Weingarten, H. et al. (2018) *[Measuring Essential Skills of Postsecondary Stude
 <figcaption>For my comments on why skills development is so important in a digital age, click on the podcast below</figcaption>
 </figure>
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=34#audio-34-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=34#audio-34-1)
 
  ### Activity 1.2 What skills are you developing in your students? Part 1
 

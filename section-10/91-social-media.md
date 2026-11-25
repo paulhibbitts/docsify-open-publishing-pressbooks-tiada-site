@@ -123,4 +123,4 @@ Moore, M. and Thompson, M. (1990) [*The Effects of Distance Education: A Summary
 
 For feedback on some of these questions and some more general points about social media in education, click on the podcast below.
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=282#audio-282-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=282#audio-282-1)

@@ -5,7 +5,7 @@
 <figcaption>For my personal comments on why I wrote this chapter on campus-based teaching methods, please click on the podcast below</figcaption>
 </figure>
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=95#audio-95-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=95#audio-95-1)
 
  The first thing to be said about teaching methods is that there is no law or rule that says teaching methods are driven by theories of learning. Especially in post-secondary education, most instructors would be surprised if their teaching was labelled as behaviourist or constructivist. On the other hand, it would be less than accurate to call such teaching ‘theory-free’. We have seen how views about the nature of knowledge are likely to impact on preferred teaching methods. But it would be unwise to press this too hard. A great deal of teaching, at least at a post-secondary level, is based on an apprenticeship model of copying the same methods used by one’s own teachers, then gradually refining them from experience, without a great deal of attention being paid to theories of how students actually learn.
 

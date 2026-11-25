@@ -159,4 +159,4 @@ Scardamalia, M. and Bereiter, C. (2006) [Knowledge Building: Theory, pedagogy an
 
 For my comments on these questions, click on the podcast below:
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=145#audio-145-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=145#audio-145-1)

@@ -85,5 +85,5 @@ Marton, F. & Saljö, R. (1997). ‘Approaches to learning’, in F. Marton, D. H
 >
 > Click on the podcast below for my suggestions:
 >
-> [View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=106#audio-106-1)
+> [View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=106#audio-106-1)
 >

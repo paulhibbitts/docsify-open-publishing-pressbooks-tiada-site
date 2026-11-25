@@ -113,4 +113,4 @@ Salmon, G. and Edirisingha, P. (2008) *[Podcasting for Learning in Universities]
 
 Click on the podcast below for feedback on this activity:
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=265#audio-265-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=265#audio-265-1)

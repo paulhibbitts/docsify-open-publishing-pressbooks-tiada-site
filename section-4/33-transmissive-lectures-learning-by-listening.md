@@ -138,4 +138,4 @@ McKeachie, W. and Svinicki, M. (2006) [*McKeachie’s Teaching Tips: Strategies,
 
 For feedback on the second question click on the podcast below:
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=102#audio-102-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=102#audio-102-1)

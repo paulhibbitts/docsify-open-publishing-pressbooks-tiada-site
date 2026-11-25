@@ -41,4 +41,4 @@ Weiner, B. (2009) A theory of organizational readiness for change [*Implementati
 
 For my views on these questions click on the podcast below:
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=40#audio-40-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=40#audio-40-1)

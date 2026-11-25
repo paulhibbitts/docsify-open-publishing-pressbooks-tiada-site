@@ -78,4 +78,4 @@ Siemens, G. (2005) [Connectivism: a theory for the digital age ](https://www.itd
 
 You might like to come back to your answer after you have read [Chapter 6](http://opentextbc.ca/teachinginadigitalage/part/chapter-7-moocs/) on MOOCs. In the meantime, click on the podcast below for my view on Connectivism.
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=82#audio-82-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=82#audio-82-1)

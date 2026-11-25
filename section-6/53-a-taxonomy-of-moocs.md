@@ -171,4 +171,4 @@ Yousef, A. et al. (2014) *[MOOCs: A Review of the State-of-the-Art](https://www.
 
 For my comments on these questions click on the podcast below:
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=175#audio-175-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=175#audio-175-1)

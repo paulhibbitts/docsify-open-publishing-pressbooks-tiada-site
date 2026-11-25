@@ -176,5 +176,5 @@ Zhonggen, Y. (2019) [A Meta-Analysis of Use of Serious Games in Education over a
 >
 > Click on the podcast below for feedback on this activity:
 >
-> [View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=289#audio-289-1)
+> [View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=289#audio-289-1)
 >

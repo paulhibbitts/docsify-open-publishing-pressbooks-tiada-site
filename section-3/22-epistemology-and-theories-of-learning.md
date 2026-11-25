@@ -50,5 +50,5 @@ Schunk, D. (2016) [*Learning Theories: An Educational Perspective: 7th edition*]
 >
 > For my response to these questions, click on the podcast below:
 >
-> [View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=65#audio-65-1)
+> [View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=65#audio-65-1)
 >

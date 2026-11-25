@@ -5,7 +5,7 @@
 <figcaption>For my personal comments on some of the issues raised in this chapter, please click on the podcast below, which discusses the relationship between quality, modes of delivery, teaching methods and design.</figcaption>
 </figure>
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=132#audio-132-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=132#audio-132-1)
 
  Online learning is increasingly influencing both classroom/campus-based teaching but more importantly it is leading to new models or designs for teaching and learning.
 

@@ -64,5 +64,5 @@ Freedman, T. (2017) [Behind the scenes at FutureLearn](https://www.techlearning.
 >
 > For me feedback of these questions click on the podcast below:
 >
-> [View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=190#audio-190-1)
+> [View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=190#audio-190-1)
 >

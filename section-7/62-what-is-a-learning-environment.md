@@ -62,4 +62,4 @@ The significant point is that it is important to identify those components that 
 
 For my feedback on this activity, click on the podcast below.
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=198#audio-198-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=198#audio-198-1)

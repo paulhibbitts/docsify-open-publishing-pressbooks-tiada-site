@@ -74,4 +74,4 @@ University of British Columbia (2022) [*University of British Columbia Annual En
 
 For my response to these questions click on the podcast below
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=47#audio-47-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=47#audio-47-1)

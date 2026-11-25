@@ -75,6 +75,6 @@ Bates, T. (2011) [Cloud-based educational technology and privacy: a Canadian per
 > >
 > > Click on the podcast for my personal comments on this issue:
 > >
-> > [View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=337#audio-337-1)
+> > [View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=337#audio-337-1)
 > >
 >

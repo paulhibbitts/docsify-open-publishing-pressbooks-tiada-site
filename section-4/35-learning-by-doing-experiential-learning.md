@@ -223,4 +223,4 @@ Strobel, J. , & van Barneveld, A. (2009). When is PBL More Effective? A Meta-syn
 
 Click on the podcast below for my feedback on these questions.
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=114#audio-114-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=114#audio-114-1)

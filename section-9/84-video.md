@@ -157,4 +157,4 @@ Here are some criteria I would apply to what you find:
 
 For feedback on this activity, and some further comments on the value of video, click on the podcast below:
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=270#audio-270-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=270#audio-270-1)

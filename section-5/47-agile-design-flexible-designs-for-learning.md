@@ -86,4 +86,4 @@ Ries, E. (2011) [*The Lean Start-Up*](https://www.amazon.ca/Lean-Startup-Entrepr
 
 For my comments on this activity, click on the podcast below:
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=157#audio-157-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=157#audio-157-1)

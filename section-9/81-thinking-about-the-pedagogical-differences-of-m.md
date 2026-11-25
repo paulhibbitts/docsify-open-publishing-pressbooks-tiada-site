@@ -88,7 +88,7 @@ Listen to the podcast below for an illustration of the differences between media
 
 Podcast 8.1 Click play on the above podcast (41 seconds).
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=259#audio-259-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=259#audio-259-1)
 
  ## References
 

@@ -99,4 +99,4 @@ Ease of use is another critical factor in the successful use of technology for t
 > Click on the podcast below for my feedback on this activity:
 >
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=314#audio-314-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=314#audio-314-1)

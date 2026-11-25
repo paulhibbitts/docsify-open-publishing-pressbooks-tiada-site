@@ -81,4 +81,4 @@ Winkler, R. & Söllner, M. (2018): [Unleashing the Potential of Chatbots in Educ
 
 For my feedback on these questions click on the podcast below:
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=212#audio-212-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=212#audio-212-1)

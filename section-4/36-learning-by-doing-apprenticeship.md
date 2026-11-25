@@ -93,4 +93,4 @@ Schön, D. (1983) [*The Reflective Practitioner: How Professionals Think in Acti
 
 Click on the podcast below for my response to this activity
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=118#audio-118-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=118#audio-118-1)

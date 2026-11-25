@@ -53,6 +53,6 @@ Puentedura, R. (2014) [SAMR and Bloom’s Taxonomy: Assembling the Puzzle](https
 > >
 > > For feedback on this activity, click on the podcast below
 > >
-> > [View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=343#audio-343-1)
+> > [View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=343#audio-343-1)
 > >
 >

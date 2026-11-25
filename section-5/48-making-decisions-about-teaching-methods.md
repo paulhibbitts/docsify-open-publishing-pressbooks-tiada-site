@@ -58,7 +58,7 @@ There are still two major teaching methods to be discussed, Open Pedagogy in [Ch
 <figcaption>For my personal comments on some of the issues raised in this chapter, please click on the podcast below.</figcaption>
 </figure>
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=164#audio-164-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=164#audio-164-1)
 
  ### Activity 4.8 Making choices
 

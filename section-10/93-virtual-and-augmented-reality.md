@@ -159,5 +159,5 @@ Seidel, R. and Chatelier, P. (1997) [*Virtual Reality, Training’s Future?: Per
 >
 > Click on the podcast below for my feedback and my personal views on VR for teaching and learning.
 >
-> [View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=294#audio-294-1)
+> [View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=294#audio-294-1)
 >

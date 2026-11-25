@@ -65,6 +65,6 @@ Beasley-Murray, J. (2008) [Was introducing Wikipedia to the classroom an act of 
 > >
 > > For my feedback on this, click on the podcast below:
 > >
-> > [View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=334#audio-334-1)
+> > [View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=334#audio-334-1)
 > >
 >

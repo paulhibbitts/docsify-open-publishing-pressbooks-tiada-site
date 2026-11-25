@@ -101,5 +101,5 @@ Usher, A. and Sullivan, M. (2021) [Examining Learning Experiences during Covid](
 >
 > Listen to the podcast below for my feedback on these activities:
 >
-> [View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=54#audio-54-1)
+> [View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=54#audio-54-1)
 >

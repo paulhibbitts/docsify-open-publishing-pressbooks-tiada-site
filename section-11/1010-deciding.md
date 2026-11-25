@@ -87,7 +87,7 @@ All this further reinforces the inductive approach to decision making that I hav
 <figcaption>How well does the SECTIONS model fit the corporate training market? For a my personal response to this question, please click on the podcast below. It suggests a way to approach media selection in a variety of different contexts</figcaption>
 </figure>
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=340#audio-340-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=340#audio-340-1)
 
  ### Activity 10.10: Choosing media and technologies
 

@@ -54,4 +54,4 @@ Skinner, B. (1968) [*The Technology of Teaching*](https://www.bfskinner.org/prod
 
 For my comments on this activity, click on the podcast below:
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=69#audio-69-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=69#audio-69-1)
