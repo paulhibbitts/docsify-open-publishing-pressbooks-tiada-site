@@ -15,7 +15,7 @@ When you have finished this chapter you should be able to:
 <figcaption>For a my personal introduction to this chapter, please click on the podcast below.</figcaption>
 </figure>
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=166#audio-166-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=166#audio-166-1)
 
  ## What is covered in this chapter
 

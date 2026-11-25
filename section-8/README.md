@@ -12,7 +12,7 @@ When you have completed this chapter you should:
 <figcaption>For a my personal introduction to the next few chapters, please click on the podcast below.</figcaption>
 </figure>
 
-[View H5P activity online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=226#audio-226-1)
+[View embedded media online ↗](https://pressbooks.bccampus.ca/teachinginadigitalagev3m/?p=226#audio-226-1)
 
  ## What is covered in this chapter
 

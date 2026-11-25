@@ -2,3 +2,4 @@
 
 - [Bibliography](/section-21/bibliography.md)
 - [Index](/section-21/index.md)
+- [Copyright](/section-21/copyright.md)
